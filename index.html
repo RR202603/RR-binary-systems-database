@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>二元体系相图与热力学数据库</title>
+  <link rel="stylesheet" href="styles.css?v=14" />
+</head>
+<body>
+  <!-- 顶部抬头栏：左侧标题，右侧公司名 -->
+  <header class="header-bar">
+    <h1>二元体系相图与热力学数据库</h1>
+    <div class="brand">长沙锐睿科技有限公司</div>
+  </header>
+
+  <main class="layout">
+    <section class="pt-wrap">
+      <div id="periodic-table" class="pt"></div>
+      <div class="pt-hints">
+        <span class="hint">* 镧系（La–Lu）</span>
+        <span class="hint">** 锕系（Ac–Lr）</span>
+      </div>
+    </section>
+
+    <aside class="panel">
+      <div class="selection">
+        <h2>当前选择</h2>
+        <div id="selection-text">未选择</div>
+        <button id="btn-reset" class="reset">重置</button>
+      </div>
+
+      <div class="results">
+        <h2 id="results-title">匹配结果</h2>
+        <div id="results"></div>
+      </div>
+    </aside>
+  </main>
+
+  <script src="script.js?v=14"></script>
+</body>
+</html>

@@ -1,0 +1,10923 @@
+{
+  "Ag-Al": {
+    "tdb": [
+      "tdb/AgAl-04Wit.tdb",
+      "tdb/AgAl-20Ter.tdb",
+      "tdb/AgAl-80Spe.tdb",
+      "tdb/AgAl-87Spe.tdb",
+      "tdb/AgAl-95Lim-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-As": {
+    "tdb": [
+      "tdb/AgAs-18Shi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Au": {
+    "tdb": [
+      "tdb/AgAu-88Has-LB*.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-B": {
+    "tdb": [
+      "tdb/AgB-04Kor-LB.tdb",
+      "tdb/AgB-20Zho.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Ba": {
+    "tdb": [
+      "tdb/AgBa-95Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Be": {
+    "tdb": [
+      "tdb/AgBe-04Kor-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Bi": {
+    "tdb": [
+      "tdb/AgBi-94Kat.tdb",
+      "tdb/AgBi-98Luk-LB.tdb",
+      "tdb/AgBi-99Ass.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-C": {
+    "tdb": [
+      "tdb/AgC-04Kor-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Ca": {
+    "tdb": [
+      "tdb/AgCa-08Hua.tdb",
+      "tdb/AgCa-14Bra.tdb",
+      "tdb/AgCa-96Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Cd": {
+    "tdb": [
+      "tdb/AgCd-04Che-LB.tdb",
+      "tdb/AgCd-19Fis.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Ce": {
+    "tdb": [
+      "tdb/AgCe-02Yin-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/AgCe-02Yin.pdf"
+    ],
+    "diagram": [
+      "diagrams/AgCe-02Yin-LB.png"
+    ]
+  },
+  "Ag-Co": {
+    "tdb": [
+      "tdb/AgCo-09Zhu.tdb",
+      "tdb/AgCo-21Den.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Cr": {
+    "tdb": [
+      "tdb/AgCr-04Kor-LB.tdb",
+      "tdb/AgCr-20Qiu.tdb",
+      "tdb/AgCr-21Shi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Cu": {
+    "tdb": [
+      "tdb/AgCu-00Moo.tdb",
+      "tdb/AgCu-04Wit-LB.tdb",
+      "tdb/AgCu-06He.tdb",
+      "tdb/AgCu-86Hay.tdb",
+      "tdb/AgCu-88Joe.tdb",
+      "tdb/AgCu-98Luk.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Dy": {
+    "tdb": [
+      "tdb/AgDy-10Lon.tdb"
+    ],
+    "pdf": [
+      "pdf/AgDy-10long.pdf"
+    ],
+    "diagram": []
+  },
+  "Ag-Er": {
+    "tdb": [
+      "tdb/AgEr-10Lon.tdb",
+      "tdb/AgEr-10Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/AgEr-10long.pdf"
+    ],
+    "diagram": [
+      "diagrams/AgEr-10Lon.png"
+    ]
+  },
+  "Ag-Fe": {
+    "tdb": [
+      "tdb/AgFe-04Kor-LB.tdb",
+      "tdb/AgFe-20Zho.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Ga": {
+    "tdb": [
+      "tdb/AgGa-06Zha.tdb",
+      "tdb/AgGa-11Gie.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Gd": {
+    "tdb": [
+      "tdb/AgGd-08Wan.tdb",
+      "tdb/AgGd-09Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/AgGd-09Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Ag-Ge": {
+    "tdb": [
+      "tdb/AgGe-11Wan.tdb",
+      "tdb/AgGe-18Raj.tdb",
+      "tdb/AgGe-88Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": [
+      "diagrams/AgGe-11Wan.png"
+    ]
+  },
+  "Ag-Hg": {
+    "tdb": [
+      "tdb/AgHg-12Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Ho": {
+    "tdb": [
+      "tdb/AgHo-09Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/AgHo-09Wan.pdf"
+    ],
+    "diagram": [
+      "diagrams/AgHo-09Wan.png"
+    ]
+  },
+  "Ag-In": {
+    "tdb": [
+      "tdb/AgIn-01Che-LB.tdb",
+      "tdb/AgIn-01Mos.tdb",
+      "tdb/AgIn-12Gie.tdb",
+      "tdb/AgIn-18Muz.tdb",
+      "tdb/AgIn-19Fis.tdb",
+      "tdb/AgIn-98Kor.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Ir": {
+    "tdb": [
+      "tdb/AgIr-86Kar-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-La": {
+    "tdb": [
+      "tdb/AgLa-00Li.tdb"
+    ],
+    "pdf": [
+      "pdf/AgLa-00Li.pdf"
+    ],
+    "diagram": [
+      "diagrams/AgLa-00Li.png"
+    ]
+  },
+  "Ag-Lu": {
+    "tdb": [
+      "tdb/AgLu-18Shi.tdb"
+    ],
+    "pdf": [
+      "pdf/AgLu-18Shi.pdf"
+    ],
+    "diagram": [
+      "diagrams/AgLu-18Shi.png"
+    ]
+  },
+  "Ag-Mg": {
+    "tdb": [
+      "tdb/AgMg-15Dai.tdb",
+      "tdb/AgMg-21Deb.tdb",
+      "tdb/AgMg-97Lim-LB.tdb",
+      "tdb/AgMg-98Spe.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Mn": {
+    "tdb": [
+      "tdb/AgMn-90Kar.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Mo": {
+    "tdb": [
+      "tdb/AgMo-04Kor-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Na": {
+    "tdb": [
+      "tdb/AgNa-12Hao.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Nb": {
+    "tdb": [
+      "tdb/AgNb-04Kor-LB.tdb",
+      "tdb/AgNb-22Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Nd": {
+    "tdb": [
+      "tdb/AgNd-09Hua.tdb",
+      "tdb/AgNd-09Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/AgNd-09wan.pdf"
+    ],
+    "diagram": [
+      "diagrams/AgNd-09Wan.png"
+    ]
+  },
+  "Ag-Ni": {
+    "tdb": [
+      "tdb/AgNi-04Din.tdb",
+      "tdb/AgNi-08Liu.tdb",
+      "tdb/AgNi-17Raj.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-O": {
+    "tdb": [
+      "tdb/AgO-97Ass-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Os": {
+    "tdb": [
+      "tdb/AgOs-86Kar-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-P": {
+    "tdb": [
+      "tdb/AgP-88Kar.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Pb": {
+    "tdb": [
+      "tdb/AgPb-00Luk-LB.tdb",
+      "tdb/AgPb-00Luk-SGSOL.tdb",
+      "tdb/AgPb-10Gie.tdb",
+      "tdb/AgPb-10Has.tdb",
+      "tdb/AgPb-86Hay.tdb",
+      "tdb/AgPb-94Lee.tdb",
+      "tdb/AgPb-98Luk.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Pd": {
+    "tdb": [
+      "tdb/AgPd-10Sop.tdb",
+      "tdb/AgPd-98Spe-LB.tdb",
+      "tdb/AgPd-99Gho.tdb",
+      "tdb/AgPd-99Mor.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Pr": {
+    "tdb": [
+      "tdb/AgPr-00Yin.tdb"
+    ],
+    "pdf": [
+      "pdf/AgPr-00Yin.pdf"
+    ],
+    "diagram": [
+      "diagrams/AgPr-00Yin.png"
+    ]
+  },
+  "Ag-Pt": {
+    "tdb": [
+      "tdb/AgPt-87Kar.tdb",
+      "tdb/AgPt-98Spe-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Pu": {
+    "tdb": [
+      "tdb/AgPu-20Zho.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Rh": {
+    "tdb": [
+      "tdb/AgRh-86Kar.tdb",
+      "tdb/AgRh-98Spe-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Ru": {
+    "tdb": [
+      "tdb/AgRu-86Kar.tdb",
+      "tdb/AgRu-98Spe-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-S": {
+    "tdb": [
+      "tdb/AgS-18Shi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Sb": {
+    "tdb": [
+      "tdb/AgSb-07Zor.tdb",
+      "tdb/AgSb-94Lee.tdb",
+      "tdb/AgSb-96Oh-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Sc": {
+    "tdb": [
+      "tdb/AgSc-08GTT.tdb",
+      "tdb/AgSc-09Liu.tdb"
+    ],
+    "pdf": [
+      "pdf/AgSc-09Liu.pdf"
+    ],
+    "diagram": []
+  },
+  "Ag-Se": {
+    "tdb": [
+      "tdb/AgSe-18Li.tdb",
+      "tdb/AgSe-18Raj.tdb",
+      "tdb/AgSe-24Hut.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Si": {
+    "tdb": [
+      "tdb/AgSi-85Sau.tdb",
+      "tdb/AgSi-88Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Sm": {
+    "tdb": [
+      "tdb/AgSm-20Zho.tdb"
+    ],
+    "pdf": [
+      "pdf/AgSm-20Zho.pdf"
+    ],
+    "diagram": []
+  },
+  "Ag-Sn": {
+    "tdb": [
+      "tdb/AgSn-00Moo.tdb",
+      "tdb/AgSn-07Wan.tdb",
+      "tdb/AgSn-09Gao.tdb",
+      "tdb/AgSn-12Din.tdb",
+      "tdb/AgSn-12Gie.tdb",
+      "tdb/AgSn-22Lia.tdb",
+      "tdb/AgSn-88Che.tdb",
+      "tdb/AgSn-94Kat.tdb",
+      "tdb/AgSn-96Oh-LB.tdb",
+      "tdb/AgSn-99Oht.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Sr": {
+    "tdb": [
+      "tdb/AgSr-06Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Tb": {
+    "tdb": [
+      "tdb/AgTb-09Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/AgTb-09Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Ag-Te": {
+    "tdb": [
+      "tdb/AgTe-04Kor-LB.tdb",
+      "tdb/AgTe-04Kor-newTe.tdb",
+      "tdb/AgTe-09Gie.tdb",
+      "tdb/AgTe-10Gie.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Ti": {
+    "tdb": [
+      "tdb/AgTi-04Arr.tdb",
+      "tdb/AgTi-05Li.tdb",
+      "tdb/AgTi-23Gie.tdb",
+      "tdb/AgTi-98Spe-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Tl": {
+    "tdb": [
+      "tdb/AgTl-98Luk-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-V": {
+    "tdb": [
+      "tdb/AgV-04Kor-LB.tdb",
+      "tdb/AgV-15Hu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-W": {
+    "tdb": [
+      "tdb/AgW-04Kor.tdb",
+      "tdb/AgW-88Vij-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Y": {
+    "tdb": [
+      "tdb/AgY-09Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/AgY-09Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Ag-Yb": {
+    "tdb": [
+      "tdb/AgYb-08Zha.tdb"
+    ],
+    "pdf": [
+      "pdf/AgYb-08Zha.pdf"
+    ],
+    "diagram": []
+  },
+  "Ag-Zn": {
+    "tdb": [
+      "tdb/AgZn-02Fri-LB.tdb",
+      "tdb/AgZn-02Fri-SGSOL.tdb",
+      "tdb/AgZn-98Gom.tdb",
+      "tdb/AgZn-99Lee.tdb",
+      "tdb/AgZn-99Oht.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ag-Zr": {
+    "tdb": [
+      "tdb/AgZr-16Hsi.tdb",
+      "tdb/AgZr-98Spe-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Am": {
+    "tdb": [
+      "tdb/AlAm-16Per.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-As": {
+    "tdb": [
+      "tdb/AlAs-84Ans-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Au": {
+    "tdb": [
+      "tdb/AlAu-04Li.tdb",
+      "tdb/AlAu-04Liu.tdb",
+      "tdb/AlAu-87Mur-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-B": {
+    "tdb": [
+      "tdb/AlB-01Luk-LB.tdb",
+      "tdb/AlB-04Mir.tdb",
+      "tdb/AlB-15Wan.tdb",
+      "tdb/AlB-98Luk.tdb",
+      "tdb/AlB-99Cam.tdb"
+    ],
+    "pdf": [
+      "pdf/AlB-15wan.pdf",
+      "pdf/AlB-2004Mir.pdf"
+    ],
+    "diagram": []
+  },
+  "Al-Ba": {
+    "tdb": [
+      "tdb/AlBa-16Bao.tdb",
+      "tdb/AlBa-17Azz.tdb",
+      "tdb/AlBa-19Ben.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Be": {
+    "tdb": [
+      "tdb/AlBe-04Pan-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Bi": {
+    "tdb": [
+      "tdb/AlBi-06Kim.tdb",
+      "tdb/AlBi-09Mir.tdb",
+      "tdb/AlBi-84McA-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-C": {
+    "tdb": [
+      "tdb/AlC-04Oht.tdb",
+      "tdb/AlC-19Def.tdb",
+      "tdb/AlC-21He-3g.tdb",
+      "tdb/AlC-91Har.tdb",
+      "tdb/AlC-94Qiu.tdb",
+      "tdb/AlC-95Gro-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Ca": {
+    "tdb": [
+      "tdb/AlCa-01Kev-LB.tdb",
+      "tdb/AlCa-02Ozt-assoc.tdb",
+      "tdb/AlCa-02Ozt.tdb",
+      "tdb/AlCa-05Isl.tdb",
+      "tdb/AlCa-05Ozt.tdb",
+      "tdb/AlCa-23Hal.tdb",
+      "tdb/AlCa-94Ang.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Cd": {
+    "tdb": [
+      "tdb/AlCd-82McA.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Ce": {
+    "tdb": [
+      "tdb/AlCe-01Cac.tdb",
+      "tdb/AlCe-05Gao.tdb",
+      "tdb/AlCe-98Cac-COST.tdb",
+      "tdb/AlCe-98Cac-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Co": {
+    "tdb": [
+      "tdb/AlCo-13Ste.tdb",
+      "tdb/AlCo-15Liu.tdb",
+      "tdb/AlCo-16Liu-old.tdb",
+      "tdb/AlCo-16Liu.tdb",
+      "tdb/AlCo-17Wan.tdb",
+      "tdb/AlCo-18Wan.tdb",
+      "tdb/AlCo-18Wan2.tdb",
+      "tdb/AlCo-19Ost.tdb",
+      "tdb/AlCo-20Noo.tdb",
+      "tdb/AlCo-22Wan.tdb",
+      "tdb/AlCo-95Dup.tdb",
+      "tdb/AlCo-98Dup-LB.tdb",
+      "tdb/AlCo-98Dup-orig.tdb"
+    ],
+    "pdf": [
+      "pdf/AlCo-13Ste.pdf",
+      "pdf/AlCo-98Dup.pdf"
+    ],
+    "diagram": []
+  },
+  "Al-Cr": {
+    "tdb": [
+      "tdb/AlCr-00Sub.tdb",
+      "tdb/AlCr-07Tok.tdb",
+      "tdb/AlCr-08Lia.tdb",
+      "tdb/AlCr-13Hu.tdb",
+      "tdb/AlCr-15Wit.tdb",
+      "tdb/AlCr-17Cui-incomplete.tdb",
+      "tdb/AlCr-17Wan-mod.tdb",
+      "tdb/AlCr-17Wan.tdb",
+      "tdb/AlCr-86Sau.tdb",
+      "tdb/AlCr-87Sau.tdb",
+      "tdb/AlCr-98Mur.tdb",
+      "tdb/AlCr-98Sau-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Cu": {
+    "tdb": [
+      "tdb/AlCu-02Mie.tdb",
+      "tdb/AlCu-04Wit.tdb",
+      "tdb/AlCu-15Lia.tdb",
+      "tdb/AlCu-21Kro.tdb",
+      "tdb/AlCu-98Sau-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/AlCu-98Ans.pdf"
+    ],
+    "diagram": []
+  },
+  "Al-Dy": {
+    "tdb": [
+      "tdb/AlDy-03Cac-LB.tdb",
+      "tdb/AlDy-14Bo.tdb",
+      "tdb/AlDy-24Ma.tdb"
+    ],
+    "pdf": [
+      "pdf/AlDy-24Ma.pdf"
+    ],
+    "diagram": []
+  },
+  "Al-Er": {
+    "tdb": [
+      "tdb/AlEr-02Cac.tdb",
+      "tdb/AlEr-22Xu.tdb"
+    ],
+    "pdf": [
+      "pdf/AlEr-22Xu.pdf"
+    ],
+    "diagram": []
+  },
+  "Al-Fe": {
+    "tdb": [
+      "tdb/AlFe-07Zha.tdb",
+      "tdb/AlFe-09Jac.tdb",
+      "tdb/AlFe-09Sun-no-option-F.tdb",
+      "tdb/AlFe-09Sun.tdb",
+      "tdb/AlFe-15Mie.tdb",
+      "tdb/AlFe-17Zhe.tdb",
+      "tdb/AlFe-18Zie.tdb",
+      "tdb/AlFe-19Ran.tdb",
+      "tdb/AlFe-21Mur.tdb",
+      "tdb/AlFe-23Ila.tdb",
+      "tdb/AlFe-93Sei-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/AlFe-18Zie.pdf",
+      "pdf/AlFe-23Ila.pdf",
+      "pdf/AlFe-98Ans.pdf"
+    ],
+    "diagram": []
+  },
+  "Al-Ga": {
+    "tdb": [
+      "tdb/AlGa-00Mat.tdb",
+      "tdb/AlGa-78Ans.tdb",
+      "tdb/AlGa-92Wat-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Gd": {
+    "tdb": [
+      "tdb/AlGd-03Cac-LB.tdb",
+      "tdb/AlGd-14Bo.tdb"
+    ],
+    "pdf": [
+      "pdf/AlGd-03Cac.pdf",
+      "pdf/AlGd-14Bo.pdf"
+    ],
+    "diagram": []
+  },
+  "Al-Ge": {
+    "tdb": [
+      "tdb/AlGe-06Isl.tdb",
+      "tdb/AlGe-79Ans-LB.tdb",
+      "tdb/AlGe-96Sri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-H": {
+    "tdb": [
+      "tdb/AlH-04Qiu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Hf": {
+    "tdb": [
+      "tdb/AlHf-02Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Hg": {
+    "tdb": [
+      "tdb/AlHg-85McA.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Ho": {
+    "tdb": [
+      "tdb/AlHo-03Cac-LB.tdb",
+      "tdb/AlHo-13Tok.tdb"
+    ],
+    "pdf": [
+      "pdf/AlHo-03Cac.pdf"
+    ],
+    "diagram": []
+  },
+  "Al-In": {
+    "tdb": [
+      "tdb/AlIn-06Kim.tdb",
+      "tdb/AlIn-78Ans.tdb",
+      "tdb/AlIn-91Cou-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Ir": {
+    "tdb": [
+      "tdb/AlIr-06Jia.tdb",
+      "tdb/AlIr-07Abe.tdb",
+      "tdb/AlIr-08Abe.tdb",
+      "tdb/AlIr-08Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-K": {
+    "tdb": [
+      "tdb/AlK-09Du.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-La": {
+    "tdb": [
+      "tdb/AlLa-00Yin.tdb",
+      "tdb/AlLa-01Cac.tdb",
+      "tdb/AlLa-06Zho.tdb",
+      "tdb/AlLa-18Lia.tdb"
+    ],
+    "pdf": [
+      "pdf/AlLa-18Lia.pdf"
+    ],
+    "diagram": []
+  },
+  "Al-Li": {
+    "tdb": [
+      "tdb/AlLi-07Hal-condensed.tdb",
+      "tdb/AlLi-07Hal.tdb",
+      "tdb/AlLi-11Guo.tdb",
+      "tdb/AlLi-20Lon.tdb",
+      "tdb/AlLi-23Cui-reg2.tdb",
+      "tdb/AlLi-23Cui-reg3.tdb",
+      "tdb/AlLi-24Liu.tdb",
+      "tdb/AlLi-89Sau-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Mg": {
+    "tdb": [
+      "tdb/AlMg-05Zho.tdb",
+      "tdb/AlMg-12Tan.tdb",
+      "tdb/AlMg-13Tok.tdb",
+      "tdb/AlMg-20Shi.tdb",
+      "tdb/AlMg-23Hal.tdb",
+      "tdb/AlMg-86Lud.tdb",
+      "tdb/AlMg-90Sau.tdb",
+      "tdb/AlMg-93Zuo.tdb",
+      "tdb/AlMg-98Lia-LB.tdb",
+      "tdb/AlMg-98Zak.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Mn": {
+    "tdb": [
+      "tdb/AlMn-07Du.tdb",
+      "tdb/AlMn-12Dju.tdb",
+      "tdb/AlMn-17Cui.tdb",
+      "tdb/AlMn-18Zhe-mod.tdb",
+      "tdb/AlMn-18Zhe.tdb",
+      "tdb/AlMn-19Mie.tdb",
+      "tdb/AlMn-92Jan.tdb",
+      "tdb/AlMn-98Jan.tdb",
+      "tdb/AlMn-99Liu-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Mo": {
+    "tdb": [
+      "tdb/AlMo-09Du.tdb",
+      "tdb/AlMo-10Cup.tdb",
+      "tdb/AlMo-16Pen.tdb",
+      "tdb/AlMo-97Cos.tdb",
+      "tdb/AlMo-97Sau.tdb",
+      "tdb/AlMo-98Sau-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-N": {
+    "tdb": [
+      "tdb/AlN-12Pav.tdb",
+      "tdb/AlN-19Sri.tdb",
+      "tdb/AlN-92Hil.tdb",
+      "tdb/AlN-98Luk-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Na": {
+    "tdb": [
+      "tdb/AlNa-06Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Nb": {
+    "tdb": [
+      "tdb/AlNb-08Zhu.tdb",
+      "tdb/AlNb-09Wit.tdb",
+      "tdb/AlNb-15He.tdb",
+      "tdb/AlNb-23Fio.tdb",
+      "tdb/AlNb-97Ser-LB.tdb",
+      "tdb/AlNb-98Sau.tdb"
+    ],
+    "pdf": [],
+    "diagram": [
+      "diagrams/AlNb-09Wit.png"
+    ]
+  },
+  "Al-Nd": {
+    "tdb": [
+      "tdb/AlNd-01Cac.tdb",
+      "tdb/AlNd-03Cac.tdb",
+      "tdb/AlNd-05Gao.tdb",
+      "tdb/AlNd-19Lia.tdb",
+      "tdb/AlNd-91Cac-LB.tdb",
+      "tdb/AlNd-96Cla.tdb",
+      "tdb/AlNd-96Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/AlNd-19Lia.pdf"
+    ],
+    "diagram": []
+  },
+  "Al-Ni": {
+    "tdb": [
+      "tdb/AlNi-01Dup-4sl-old.tdb",
+      "tdb/AlNi-01Dup-4sl.tdb",
+      "tdb/AlNi-01Dup-LB.tdb",
+      "tdb/AlNi-01Dup-orig.tdb",
+      "tdb/AlNi-03Sun.tdb",
+      "tdb/AlNi-04Oht.tdb",
+      "tdb/AlNi-05Mie.tdb",
+      "tdb/AlNi-11Che.tdb",
+      "tdb/AlNi-14Zhu.tdb",
+      "tdb/AlNi-22Yan.tdb",
+      "tdb/AlNi-88Ans.tdb",
+      "tdb/AlNi-97Ans.tdb",
+      "tdb/AlNi-98Hua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Np": {
+    "tdb": [
+      "tdb/AlNp-10Sed.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-O": {
+    "tdb": [
+      "tdb/AlO-23Li.tdb",
+      "tdb/AlO-92Tay.tdb",
+      "tdb/AlO-93Hal-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-P": {
+    "tdb": [
+      "tdb/AlP-01Luk-LB.tdb",
+      "tdb/AlP-09Tu.tdb",
+      "tdb/AlP-13Lia.tdb",
+      "tdb/AlP-15Mie.tdb",
+      "tdb/AlP-94Ans.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Pb": {
+    "tdb": [
+      "tdb/AlPb-06Kim.tdb",
+      "tdb/AlPb-86Ans.tdb",
+      "tdb/AlPb-96Yu-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Pd": {
+    "tdb": [
+      "tdb/AlPd-06Li.tdb",
+      "tdb/AlPd-17Dur.tdb",
+      "tdb/AlPd-21Hom.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Pr": {
+    "tdb": [
+      "tdb/AlPr-01Yin.tdb",
+      "tdb/AlPr-19Lia.tdb"
+    ],
+    "pdf": [
+      "pdf/AlPr-19Lia.pdf"
+    ],
+    "diagram": []
+  },
+  "Al-Pt": {
+    "tdb": [
+      "tdb/AlPt-00Wu.tdb",
+      "tdb/AlPt-16Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Pu": {
+    "tdb": [
+      "tdb/AlPu-04Tur.tdb",
+      "tdb/AlPu-10Sed.tdb",
+      "tdb/AlPu-16Per.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Re": {
+    "tdb": [
+      "tdb/AlRe-18Guo.tdb",
+      "tdb/AlRe-20Tam.tdb",
+      "tdb/AlRe-98Hua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Ru": {
+    "tdb": [
+      "tdb/AlRu-03Pri.tdb",
+      "tdb/AlRu-21Liu.tdb",
+      "tdb/AlRu-96Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-S": {
+    "tdb": [
+      "tdb/AlS-19Shi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Sb": {
+    "tdb": [
+      "tdb/AlSb-05Bal.tdb",
+      "tdb/AlSb-22Zha.tdb",
+      "tdb/AlSb-90Cou-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/Al–Sb–Y-09Zha.pdf"
+    ],
+    "diagram": []
+  },
+  "Al-Sc": {
+    "tdb": [
+      "tdb/AlSc-10Bo.tdb",
+      "tdb/AlSc-98Mur.tdb",
+      "tdb/AlSc-99Cac-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/Al-Sc-Zr-17Bo.pdf",
+      "pdf/AlSc-10Bo.pdf"
+    ],
+    "diagram": []
+  },
+  "Al-Se": {
+    "tdb": [
+      "tdb/AlSe-19Shi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Si": {
+    "tdb": [
+      "tdb/AlSi-12Tan.tdb",
+      "tdb/AlSi-14Lia.tdb",
+      "tdb/AlSi-24Zob-3g.tdb",
+      "tdb/AlSi-86Mey.tdb",
+      "tdb/AlSi-96Jac.tdb",
+      "tdb/AlSi-97Feu-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Sm": {
+    "tdb": [
+      "tdb/AlSm-08Jia.tdb",
+      "tdb/AlSm-08Zho.tdb",
+      "tdb/AlSm-98Sac.tdb"
+    ],
+    "pdf": [
+      "pdf/AlSm-08Jia.pdf"
+    ],
+    "diagram": []
+  },
+  "Al-Sn": {
+    "tdb": [
+      "tdb/AlSn-19Che.tdb",
+      "tdb/AlSn-79Ans.tdb",
+      "tdb/AlSn-98Fri-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Sr": {
+    "tdb": [
+      "tdb/AlSr-03Wan-LB.tdb",
+      "tdb/AlSr-04Zho-RK.tdb",
+      "tdb/AlSr-04Zho-ass.tdb",
+      "tdb/AlSr-14Lia.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Ta": {
+    "tdb": [
+      "tdb/AlTa-10Wit.tdb",
+      "tdb/AlTa-90Kat.tdb",
+      "tdb/AlTa-96Du-LB.tdb",
+      "tdb/AlTa-98Sau.tdb"
+    ],
+    "pdf": [],
+    "diagram": [
+      "diagrams/AlTa-10Wit.png"
+    ]
+  },
+  "Al-Te": {
+    "tdb": [
+      "tdb/AlTe-19Shi.tdb",
+      "tdb/AlTe-93Oh.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Th": {
+    "tdb": [
+      "tdb/AlTh-10Li.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Ti": {
+    "tdb": [
+      "tdb/AlTi-00Ohn.tdb",
+      "tdb/AlTi-08Wit.tdb",
+      "tdb/AlTi-24Lia.tdb",
+      "tdb/AlTi-92Kat.tdb",
+      "tdb/AlTi-98Sau-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Tl": {
+    "tdb": [
+      "tdb/AlTl-89McA.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-U": {
+    "tdb": [
+      "tdb/AlU-08Wan.tdb",
+      "tdb/AlU-10Sed.tdb",
+      "tdb/AlU-10Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-V": {
+    "tdb": [
+      "tdb/AlV-04Gon.tdb",
+      "tdb/AlV-15Lin-mod.tdb",
+      "tdb/AlV-15Lin.tdb",
+      "tdb/AlV-17Kro.tdb",
+      "tdb/AlV-18Ber.tdb",
+      "tdb/AlV-23Wan.tdb",
+      "tdb/AlV-24Li.tdb",
+      "tdb/AlV-98Sau-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-W": {
+    "tdb": [
+      "tdb/AlW-17Wan.tdb",
+      "tdb/AlW-98Sau-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Al-Y": {
+    "tdb": [
+      "tdb/AlY-06AlS.tdb",
+      "tdb/AlY-06Liu.tdb",
+      "tdb/AlY-15Hua.tdb",
+      "tdb/AlY-18Hu.tdb",
+      "tdb/AlY-95Gro-LB.tdb",
+      "tdb/AlY-98Luk.tdb"
+    ],
+    "pdf": [
+      "pdf/Al-Y-Zn-08Liu.pdf",
+      "pdf/AlY-06Liu.pdf",
+      "pdf/AlY-15Hua.pdf"
+    ],
+    "diagram": []
+  },
+  "Al-Yb": {
+    "tdb": [
+      "tdb/AlYb-08Men.tdb"
+    ],
+    "pdf": [
+      "pdf/AlYb-08Men.pdf"
+    ],
+    "diagram": []
+  },
+  "Al-Zn": {
+    "tdb": [
+      "tdb/AlZn-00Mat.tdb",
+      "tdb/AlZn-20Din-3g.tdb",
+      "tdb/AlZn-86Mey.tdb",
+      "tdb/AlZn-93Che.tdb",
+      "tdb/AlZn-93Mey-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/Al–Zn–Y-08Liu.pdf"
+    ],
+    "diagram": []
+  },
+  "Al-Zr": {
+    "tdb": [
+      "tdb/AlZr-01Wan.tdb",
+      "tdb/AlZr-10Hir.tdb",
+      "tdb/AlZr-15Fis.tdb",
+      "tdb/AlZr-18Khv.tdb",
+      "tdb/AlZr-18Tam.tdb",
+      "tdb/AlZr-20Lon.tdb",
+      "tdb/AlZr-86Sau.tdb",
+      "tdb/AlZr-98Sau-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/AlZr-20Lon.pdf",
+      "pdf/AlZr-98Ans.pdf"
+    ],
+    "diagram": [
+      "diagrams/AlZr-01Wan.png"
+    ]
+  },
+  "Am-Fe": {
+    "tdb": [
+      "tdb/AmFe-10Kur.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Am-Ga": {
+    "tdb": [
+      "tdb/AmGa-16Per.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Am-Np": {
+    "tdb": [
+      "tdb/AmNp-10Kur.tdb",
+      "tdb/AmNp-93Oga.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Am-O": {
+    "tdb": [
+      "tdb/AmO-11Got.tdb",
+      "tdb/AmO-17Epi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Am-Pu": {
+    "tdb": [
+      "tdb/AmPu-10Kur.tdb",
+      "tdb/AmPu-11Got.tdb",
+      "tdb/AmPu-11Tur.tdb",
+      "tdb/AmPu-93Oga.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Am-U": {
+    "tdb": [
+      "tdb/AmU-10Kur.tdb",
+      "tdb/AmU-15Per.tdb",
+      "tdb/AmU-93Oga.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Am-Zr": {
+    "tdb": [
+      "tdb/AmZr-10Kur.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "As-Au": {
+    "tdb": [
+      "tdb/AuAs-98Spe-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "As-Cu": {
+    "tdb": [
+      "tdb/CuAs-01Uhl.tdb",
+      "tdb/CuAs-94Pei-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "As-Fe": {
+    "tdb": [
+      "tdb/FeAs-08Ohn.tdb",
+      "tdb/FeAs-94Pei-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "As-Ga": {
+    "tdb": [
+      "tdb/GaAs-90Cha-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "As-Ge": {
+    "tdb": [
+      "tdb/GeAs-21Wu.tdb",
+      "tdb/GeAs-22Che.tdb",
+      "tdb/GeAs-84Ans-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "As-In": {
+    "tdb": [
+      "tdb/InAs-90Cha-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "As-Ni": {
+    "tdb": [
+      "tdb/NiAs-01Uhl.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "As-P": {
+    "tdb": [
+      "tdb/AsP-94Ans-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "As-Pb": {
+    "tdb": [
+      "tdb/PbAs-93Ran.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "As-Pt": {
+    "tdb": [
+      "tdb/PtAs-07Li.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "As-Sb": {
+    "tdb": [
+      "tdb/SbAs-94Ans-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "As-Si": {
+    "tdb": [
+      "tdb/SiAs-21Wu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "As-Sn": {
+    "tdb": [
+      "tdb/SnAs-21Wu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "As-Te": {
+    "tdb": [
+      "tdb/AsTe-20Yua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "As-U": {
+    "tdb": [
+      "tdb/UAs-13Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "As-Zn": {
+    "tdb": [
+      "tdb/ZnAs-15Gha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-B": {
+    "tdb": [
+      "tdb/AuB-98Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Bi": {
+    "tdb": [
+      "tdb/AuBi-06Ser.tdb",
+      "tdb/AuBi-07Wan.tdb",
+      "tdb/AuBi-88Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-C": {
+    "tdb": [
+      "tdb/AuC-98Spe-LB.tdb",
+      "tdb/AuC-98Spe-orig.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Ce": {
+    "tdb": [
+      "tdb/AuCe-13Don.tdb",
+      "tdb/AuCe-16Mou.tdb"
+    ],
+    "pdf": [
+      "pdf/AuCe-16Mou.pdf"
+    ],
+    "diagram": []
+  },
+  "Au-Co": {
+    "tdb": [
+      "tdb/AuCo-04Kor-LB.tdb",
+      "tdb/AuCo-09Don.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Cr": {
+    "tdb": [
+      "tdb/AuCr-98Spe-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Cu": {
+    "tdb": [
+      "tdb/AuCu-98Sun-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Dy": {
+    "tdb": [
+      "tdb/AuDy-15Otm.tdb",
+      "tdb/AuDy-15Wan.tdb",
+      "tdb/AuDy-16Hu.tdb"
+    ],
+    "pdf": [
+      "pdf/AuDy-15Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Au-Er": {
+    "tdb": [
+      "tdb/AuEr-11Don.tdb"
+    ],
+    "pdf": [
+      "pdf/AuEr-11Don.pdf"
+    ],
+    "diagram": []
+  },
+  "Au-Fe": {
+    "tdb": [
+      "tdb/AuFe-09Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Ga": {
+    "tdb": [
+      "tdb/AuGa-10Liu.tdb",
+      "tdb/AuGa-11Wan.tdb",
+      "tdb/AuGa-17Jen.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Gd": {
+    "tdb": [
+      "tdb/AuGd-16Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/AuGd-16Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Au-Ge": {
+    "tdb": [
+      "tdb/AuGe-09Wan.tdb",
+      "tdb/AuGe-89Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Hf": {
+    "tdb": [
+      "tdb/AuHf-03Du-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Ho": {
+    "tdb": [
+      "tdb/AuHo-12Don.tdb"
+    ],
+    "pdf": [
+      "pdf/AuHo-12Don.pdf"
+    ],
+    "diagram": []
+  },
+  "Au-In": {
+    "tdb": [
+      "tdb/AuIn-03Liu.tdb",
+      "tdb/AuIn-14Gha.tdb",
+      "tdb/AuIn-21Pav.tdb",
+      "tdb/AuIn-21She.tdb",
+      "tdb/AuIn-92Ans-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-La": {
+    "tdb": [
+      "tdb/AuLa-11Don.tdb"
+    ],
+    "pdf": [
+      "pdf/AuLa-11Don.pdf"
+    ],
+    "diagram": []
+  },
+  "Au-Lu": {
+    "tdb": [
+      "tdb/AuLu-16Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/AuLu-16Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Au-Nd": {
+    "tdb": [
+      "tdb/AuNd-15Wan.tdb",
+      "tdb/AuNd-16Mou.tdb"
+    ],
+    "pdf": [
+      "pdf/AuNd-15Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Au-Ni": {
+    "tdb": [
+      "tdb/AuNi-05Fra.tdb",
+      "tdb/AuNi-05Wan-LB.tdb",
+      "tdb/AuNi-99Mor.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Pb": {
+    "tdb": [
+      "tdb/AuPb-04Wan-LB.tdb",
+      "tdb/AuPb-86Nab-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Pd": {
+    "tdb": [
+      "tdb/AuPd-98Spe-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Pr": {
+    "tdb": [
+      "tdb/AuPr-04Du.tdb"
+    ],
+    "pdf": [
+      "pdf/AuPr-04Du.pdf"
+    ],
+    "diagram": []
+  },
+  "Au-Pt": {
+    "tdb": [
+      "tdb/AuPt-08Gro.tdb",
+      "tdb/AuPt-12Xu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Rh": {
+    "tdb": [
+      "tdb/AuRh-84Oka.tdb",
+      "tdb/AuRh-98Spe-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Ru": {
+    "tdb": [
+      "tdb/AuRu-84Oka.tdb",
+      "tdb/AuRu-98Spe-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Sb": {
+    "tdb": [
+      "tdb/AuSb-02Kim.tdb",
+      "tdb/AuSb-03Liu.tdb",
+      "tdb/AuSb-11Wan.tdb",
+      "tdb/AuSb-13Gie.tdb",
+      "tdb/AuSb-89Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Sc": {
+    "tdb": [
+      "tdb/AuSc-16Xu.tdb"
+    ],
+    "pdf": [
+      "pdf/AuSc-16Xu.pdf"
+    ],
+    "diagram": []
+  },
+  "Au-Si": {
+    "tdb": [
+      "tdb/AuSi-07Men.tdb",
+      "tdb/AuSi-85Sau.tdb",
+      "tdb/AuSi-89Che.tdb",
+      "tdb/AuSi-98Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Sn": {
+    "tdb": [
+      "tdb/AuSn-03Liu.tdb",
+      "tdb/AuSn-07Gro.tdb",
+      "tdb/AuSn-09Don.tdb",
+      "tdb/AuSn-10Gao.tdb",
+      "tdb/AuSn-13Don.tdb",
+      "tdb/AuSn-22Hu.tdb",
+      "tdb/AuSn-88Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Tb": {
+    "tdb": [
+      "tdb/AuTb-16Otm.tdb",
+      "tdb/AuTb-16Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/AuTb-16Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Au-Te": {
+    "tdb": [
+      "tdb/AuTe-06Wan.tdb",
+      "tdb/AuTe-94Feu-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Th": {
+    "tdb": [
+      "tdb/AuTh-13Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Ti": {
+    "tdb": [
+      "tdb/AuTi-01Luo-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Tl": {
+    "tdb": [
+      "tdb/AuTl-89Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Tm": {
+    "tdb": [
+      "tdb/AuTm-12Don.tdb"
+    ],
+    "pdf": [
+      "pdf/AuTm-12Don.pdf"
+    ],
+    "diagram": []
+  },
+  "Au-Yb": {
+    "tdb": [
+      "tdb/AuYb-16Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/AuYb-16Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Au-Zn": {
+    "tdb": [
+      "tdb/AuZn-03Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Au-Zr": {
+    "tdb": [
+      "tdb/AuZr-00Su-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Ba": {
+    "tdb": [
+      "tdb/BaB-07Sha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-C": {
+    "tdb": [
+      "tdb/BC-12Sae.tdb",
+      "tdb/BC-14Rog.tdb",
+      "tdb/BC-24Eno.tdb",
+      "tdb/BC-94Kas.tdb",
+      "tdb/BC-98Kas-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Ca": {
+    "tdb": [
+      "tdb/CaB-07Sha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Cd": {
+    "tdb": [
+      "tdb/CdB-13Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Ce": {
+    "tdb": [
+      "tdb/CeB-13Wan.tdb",
+      "tdb/CeB-17Pre.tdb",
+      "tdb/CeB-20Li.tdb"
+    ],
+    "pdf": [
+      "pdf/CeB-13Wan.pdf",
+      "pdf/CeB-17Pre.pdf",
+      "pdf/CeB-20Li.pdf"
+    ],
+    "diagram": []
+  },
+  "B-Co": {
+    "tdb": [
+      "tdb/CoB-02Du-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/BCo-02Du.pdf"
+    ],
+    "diagram": []
+  },
+  "B-Cr": {
+    "tdb": [
+      "tdb/CrB-02Cam.tdb",
+      "tdb/CrB-08Yam.tdb",
+      "tdb/CrB-91Pan-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Cu": {
+    "tdb": [
+      "tdb/CuB-09Wan.tdb",
+      "tdb/CuB-09Zha.tdb"
+    ],
+    "pdf": [
+      "pdf/BCu-09Wan.pdf",
+      "pdf/BCu-09Zha.pdf"
+    ],
+    "diagram": []
+  },
+  "B-Dy": {
+    "tdb": [
+      "tdb/DyB-20Li.tdb"
+    ],
+    "pdf": [
+      "pdf/DyB-20Li.pdf"
+    ],
+    "diagram": []
+  },
+  "B-Er": {
+    "tdb": [
+      "tdb/ErB-12Wan.tdb",
+      "tdb/ErB-15Wan.tdb",
+      "tdb/ErB-20Wei.tdb"
+    ],
+    "pdf": [
+      "pdf/ErB-20Wei.pdf"
+    ],
+    "diagram": []
+  },
+  "B-Fe": {
+    "tdb": [
+      "tdb/FeB-01Pal.tdb",
+      "tdb/FeB-02Rom.tdb",
+      "tdb/FeB-08Yos.tdb",
+      "tdb/FeB-19Wit.tdb",
+      "tdb/FeB-20Tak.tdb",
+      "tdb/FeB-91Pan.tdb",
+      "tdb/FeB-94Hal-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/BFe-02Rom.pdf"
+    ],
+    "diagram": []
+  },
+  "B-Ga": {
+    "tdb": [
+      "tdb/GaB-13Li.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Gd": {
+    "tdb": [
+      "tdb/GdB-22Wei.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Hf": {
+    "tdb": [
+      "tdb/HfB-10Kau.tdb",
+      "tdb/HfB-11Cac.tdb",
+      "tdb/HfB-21Pan.tdb",
+      "tdb/HfB-97Bit-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Ho": {
+    "tdb": [
+      "tdb/HoB-20Wei.tdb"
+    ],
+    "pdf": [
+      "pdf/HoB-20Wei.pdf"
+    ],
+    "diagram": []
+  },
+  "B-La": {
+    "tdb": [
+      "tdb/LaB-13Tan-ass.tdb",
+      "tdb/LaB-13Tan.tdb",
+      "tdb/LaB-22Wei.tdb"
+    ],
+    "pdf": [
+      "pdf/LaB-13Tan.pdf"
+    ],
+    "diagram": []
+  },
+  "B-Lu": {
+    "tdb": [
+      "tdb/LuB-20Li.tdb"
+    ],
+    "pdf": [
+      "pdf/LuB-20Li.pdf"
+    ],
+    "diagram": []
+  },
+  "B-Mg": {
+    "tdb": [
+      "tdb/MgB-01Liu-LB.tdb",
+      "tdb/MgB-05Bal.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Mn": {
+    "tdb": [
+      "tdb/MnB-10Sun.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Mo": {
+    "tdb": [
+      "tdb/MoB-05Yan.tdb",
+      "tdb/MoB-09Yam.tdb",
+      "tdb/MoB-16Wit.tdb",
+      "tdb/MoB-20Tak.tdb",
+      "tdb/MoB-91Pan-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-N": {
+    "tdb": [
+      "tdb/BN-19Sri.tdb",
+      "tdb/BN-96Kas-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Nb": {
+    "tdb": [
+      "tdb/NbB-07Pec.tdb",
+      "tdb/NbB-08Wit.tdb",
+      "tdb/NbB-08Yos.tdb",
+      "tdb/NbB-09Nak.tdb",
+      "tdb/NbB-23Pan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Nd": {
+    "tdb": [
+      "tdb/NdB-16Zho-corrected.tdb",
+      "tdb/NdB-19Che.tdb",
+      "tdb/NdB-95Hal-LB.tdb",
+      "tdb/NdB-98Che.tdb"
+    ],
+    "pdf": [
+      "pdf/BNd-10Che.pdf",
+      "pdf/NdB-10Che.pdf"
+    ],
+    "diagram": []
+  },
+  "B-Ni": {
+    "tdb": [
+      "tdb/NiB-01Tok.tdb",
+      "tdb/NiB-03Tok.tdb",
+      "tdb/NiB-09Sun.tdb",
+      "tdb/NiB-10Kau.tdb",
+      "tdb/NiB-91Pan-LB.tdb",
+      "tdb/NiB-99Cam.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-O": {
+    "tdb": [
+      "tdb/BO-23Pha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Pr": {
+    "tdb": [
+      "tdb/PrB-13Wan.tdb",
+      "tdb/PrB-20Che.tdb"
+    ],
+    "pdf": [
+      "pdf/BPr-20Che.pdf",
+      "pdf/PrB-20Che.pdf"
+    ],
+    "diagram": []
+  },
+  "B-Re": {
+    "tdb": [
+      "tdb/ReB-10Yan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Sc": {
+    "tdb": [
+      "tdb/ScB-09Liu.tdb",
+      "tdb/ScB-90Spe-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/ScB-09Liu.pdf"
+    ],
+    "diagram": []
+  },
+  "B-Si": {
+    "tdb": [
+      "tdb/SiB-01Tok.tdb",
+      "tdb/SiB-03Tok.tdb",
+      "tdb/SiB-09Che.tdb",
+      "tdb/SiB-95Lim-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Sm": {
+    "tdb": [
+      "tdb/SmB-22Wei.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Sr": {
+    "tdb": [
+      "tdb/SrB-07Sha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Ta": {
+    "tdb": [
+      "tdb/TaB-17OuY.tdb",
+      "tdb/TaB-18DaS.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Tb": {
+    "tdb": [
+      "tdb/TbB-22Wei.tdb"
+    ],
+    "pdf": [
+      "pdf/TbB-22Wei.pdf"
+    ],
+    "diagram": []
+  },
+  "B-Ti": {
+    "tdb": [
+      "tdb/TiB-04Ma.tdb",
+      "tdb/TiB-08Wit.tdb",
+      "tdb/TiB-09Nak.tdb",
+      "tdb/TiB-11Cac.tdb",
+      "tdb/TiB-16Wit.tdb",
+      "tdb/TiB-19Wit.tdb",
+      "tdb/TiB-94Bat-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Tm": {
+    "tdb": [
+      "tdb/TmB-20Wei.tdb"
+    ],
+    "pdf": [
+      "pdf/Tm-B-20Wei.pdf"
+    ],
+    "diagram": []
+  },
+  "B-U": {
+    "tdb": [
+      "tdb/UB-01Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-V": {
+    "tdb": [
+      "tdb/VB-12Hom.tdb",
+      "tdb/VB-17Pin.tdb",
+      "tdb/VB-81Spe.tdb",
+      "tdb/VB-91Pan-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-W": {
+    "tdb": [
+      "tdb/WB-95Dus-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Zn": {
+    "tdb": [
+      "tdb/ZnB-13Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "B-Zr": {
+    "tdb": [
+      "tdb/ZrB-08Tok.tdb",
+      "tdb/ZrB-09Che.tdb",
+      "tdb/ZrB-11Cac.tdb",
+      "tdb/ZrB-19Pan.tdb",
+      "tdb/ZrB-98Dus-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ba-Bi": {
+    "tdb": [
+      "tdb/BaBi-19Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ba-Ca": {
+    "tdb": [
+      "tdb/BaCa-86Alc.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ba-Co": {
+    "tdb": [
+      "tdb/BaCo-19Hal.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ba-Cu": {
+    "tdb": [
+      "tdb/BaCu-93Kon-LB.tdb",
+      "tdb/BaCu-98Lys.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ba-Eu": {
+    "tdb": [
+      "tdb/BaEu-91Oka-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/BaEu-91Oka.pdf"
+    ],
+    "diagram": []
+  },
+  "Ba-Fe": {
+    "tdb": [
+      "tdb/BaFe-19Hal.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ba-Ga": {
+    "tdb": [
+      "tdb/BaGa-13Li.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ba-Ge": {
+    "tdb": [
+      "tdb/BaGe-19Ben.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ba-Mg": {
+    "tdb": [
+      "tdb/BaMg-13Ren.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ba-Ni": {
+    "tdb": [
+      "tdb/BaNi-07Sha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ba-O": {
+    "tdb": [
+      "tdb/BaO-05Zho-mod.tdb",
+      "tdb/BaO-05Zho.tdb",
+      "tdb/BaO-95Zim.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ba-Pb": {
+    "tdb": [
+      "tdb/BaPb-07Idb.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ba-Ru": {
+    "tdb": [
+      "tdb/BaRu-95Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ba-Sr": {
+    "tdb": [
+      "tdb/BaSr-01Fab-LB.tdb",
+      "tdb/BaSr-87Alc.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ba-Ti": {
+    "tdb": [
+      "tdb/BaTi-07Sha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ba-V": {
+    "tdb": [
+      "tdb/BaV-88Smi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ba-Y": {
+    "tdb": [
+      "tdb/BaY-94Kon-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ba-Yb": {
+    "tdb": [
+      "tdb/BaYb-91Oka.tdb"
+    ],
+    "pdf": [
+      "pdf/BaYb-91Oka.pdf"
+    ],
+    "diagram": []
+  },
+  "Be-C": {
+    "tdb": [
+      "tdb/BeC-21Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Be-Cu": {
+    "tdb": [
+      "tdb/BeCu-18Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Be-Fe": {
+    "tdb": [
+      "tdb/BeFe-04Oht.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Be-Hf": {
+    "tdb": [
+      "tdb/BeHf-85Sau.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Be-Mo": {
+    "tdb": [
+      "tdb/BeMo-07Nak.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Be-Pu": {
+    "tdb": [
+      "tdb/BePu-16Hua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Be-Si": {
+    "tdb": [
+      "tdb/BeSi-05Pan.tdb",
+      "tdb/BeSi-21Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Be-Ti": {
+    "tdb": [
+      "tdb/BeTi-06Tok.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Be-V": {
+    "tdb": [
+      "tdb/BeV-06Nis.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Be-Zr": {
+    "tdb": [
+      "tdb/BeZr-06Tok.tdb",
+      "tdb/BeZr-85Sau.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Ca": {
+    "tdb": [
+      "tdb/BiCa-22Gao.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Ce": {
+    "tdb": [
+      "tdb/BiCe-12Li.tdb",
+      "tdb/BiCe-17Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/BiCe-12Li.pdf",
+      "pdf/BiCe-17Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Bi-Co": {
+    "tdb": [
+      "tdb/BiCo-22Hu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Cr": {
+    "tdb": [
+      "tdb/BiCr-13Cao.tdb",
+      "tdb/BiCr-14Gos.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Cs": {
+    "tdb": [
+      "tdb/BiCs-15Dja.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Cu": {
+    "tdb": [
+      "tdb/BiCu-89Tep-LB.tdb",
+      "tdb/BiCu-90Tep.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Dy": {
+    "tdb": [
+      "tdb/BiDy-13Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/BiDy-13Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Bi-Er": {
+    "tdb": [
+      "tdb/BiEr-13Wan.tdb",
+      "tdb/BiEr-17Wan.tdb",
+      "tdb/BiEr-22Ben.tdb"
+    ],
+    "pdf": [
+      "pdf/BiEr-22Ben.pdf"
+    ],
+    "diagram": []
+  },
+  "Bi-Fe": {
+    "tdb": [
+      "tdb/BiFe-08Boa.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Ga": {
+    "tdb": [
+      "tdb/BiGa-85Gir-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Gd": {
+    "tdb": [
+      "tdb/BiGd-13Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/BiGd-13Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Bi-Ge": {
+    "tdb": [
+      "tdb/BiGe-88Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Hg": {
+    "tdb": [
+      "tdb/BiHg-02Mai.tdb",
+      "tdb/BiHg-80Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Ho": {
+    "tdb": [
+      "tdb/BiHo-13Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/BiHo-13Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Bi-In": {
+    "tdb": [
+      "tdb/BiIn-02Cui.tdb",
+      "tdb/BiIn-88Che-LB.tdb",
+      "tdb/BiIn-88Che-SGSOL.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-K": {
+    "tdb": [
+      "tdb/BiK-12Niu.tdb",
+      "tdb/BiK-15Gie.tdb",
+      "tdb/BiK-80Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-La": {
+    "tdb": [
+      "tdb/BiLa-13Tan-ass.tdb",
+      "tdb/BiLa-13Tan.tdb"
+    ],
+    "pdf": [
+      "pdf/BiLa-13Tan.pdf"
+    ],
+    "diagram": []
+  },
+  "Bi-Li": {
+    "tdb": [
+      "tdb/BiLi-13Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Lu": {
+    "tdb": [
+      "tdb/BiLu-11Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/BiLu-11Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Bi-Mg": {
+    "tdb": [
+      "tdb/BiMg-12Niu.tdb",
+      "tdb/BiMg-14Zha.tdb",
+      "tdb/BiMg-92Oh-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Mn": {
+    "tdb": [
+      "tdb/BiMn-11Oik.tdb",
+      "tdb/BiMn-11Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Na": {
+    "tdb": [
+      "tdb/BiNa-13Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Nd": {
+    "tdb": [
+      "tdb/BiNd-10Wan.tdb",
+      "tdb/BiNd-22Im.tdb"
+    ],
+    "pdf": [
+      "pdf/BiNd-22lm.pdf"
+    ],
+    "diagram": []
+  },
+  "Bi-Ni": {
+    "tdb": [
+      "tdb/BiNi-05Vas.tdb",
+      "tdb/BiNi-07Seo.tdb",
+      "tdb/BiNi-07Vas.tdb",
+      "tdb/BiNi-09Vas.tdb",
+      "tdb/BiNi-11Wan.tdb",
+      "tdb/BiNi-16Liu.tdb",
+      "tdb/BiNi-20Gie.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-O": {
+    "tdb": [
+      "tdb/BiO-95Ris-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Pb": {
+    "tdb": [
+      "tdb/BiPb-17Gie.tdb",
+      "tdb/BiPb-21Aga.tdb",
+      "tdb/BiPb-98Boa-LB.tdb",
+      "tdb/BiPb-98Yoo.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Pd": {
+    "tdb": [
+      "tdb/BiPd-06Vre-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Pr": {
+    "tdb": [],
+    "pdf": [
+      "pdf/BiPr-17Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Bi-Rb": {
+    "tdb": [
+      "tdb/BiRb-13Liu.tdb",
+      "tdb/BiRb-22Dzi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Rh": {
+    "tdb": [
+      "tdb/BiRh-20Zob.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-S": {
+    "tdb": [
+      "tdb/BiS-14Hua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Sb": {
+    "tdb": [
+      "tdb/BiSb-92Feu-LB.tdb",
+      "tdb/BiSb-94Oht.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Se": {
+    "tdb": [
+      "tdb/BiSe-14Che.tdb",
+      "tdb/BiSe-18Pet.tdb",
+      "tdb/BiSe-20Che.tdb",
+      "tdb/BiSe-24Zho.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Si": {
+    "tdb": [
+      "tdb/BiSi-85Ole-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Sn": {
+    "tdb": [
+      "tdb/BiSn-07Viz.tdb",
+      "tdb/BiSn-08Li.tdb",
+      "tdb/BiSn-80Che.tdb",
+      "tdb/BiSn-94Kat.tdb",
+      "tdb/BiSn-94Oht-LB.tdb",
+      "tdb/BiSn-96Lee.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Sr": {
+    "tdb": [
+      "tdb/BiSr-14Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Tb": {
+    "tdb": [
+      "tdb/BiTb-11Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/BiTb-11Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Bi-Te": {
+    "tdb": [
+      "tdb/BiTe-18Gie.tdb",
+      "tdb/BiTe-18Mao.tdb",
+      "tdb/BiTe-23Drz.tdb",
+      "tdb/BiTe-24Zho.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Ti": {
+    "tdb": [
+      "tdb/BiTi-13Cao.tdb",
+      "tdb/BiTi-14Hua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Tl": {
+    "tdb": [
+      "tdb/BiTl-03Luk-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Tm": {
+    "tdb": [
+      "tdb/BiTm-10Wan.tdb",
+      "tdb/BiTm-15Dja.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-U": {
+    "tdb": [
+      "tdb/BiU-11Wan.tdb",
+      "tdb/BiU-21Aga.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-V": {
+    "tdb": [
+      "tdb/BiV-13Cao.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Y": {
+    "tdb": [
+      "tdb/BiY-11Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/BiY-11Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Bi-Yb": {
+    "tdb": [
+      "tdb/BiYb-15Wan-ass.tdb",
+      "tdb/BiYb-15Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/BiYb-15Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Bi-Zn": {
+    "tdb": [
+      "tdb/BiZn-00Mal-LB.tdb",
+      "tdb/BiZn-03Kim.tdb",
+      "tdb/BiZn-05Dja.tdb",
+      "tdb/BiZn-07Viz.tdb",
+      "tdb/BiZn-85Gir.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Bi-Zr": {
+    "tdb": [
+      "tdb/BiZr-22Gao.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Br-Ca": {
+    "tdb": [
+      "tdb/CaBr-92Sta.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Ce": {
+    "tdb": [
+      "tdb/CeC-11Pen.tdb"
+    ],
+    "pdf": [
+      "pdf/CeC-11Pen.pdf"
+    ],
+    "diagram": []
+  },
+  "C-Co": {
+    "tdb": [
+      "tdb/CoC-87Fer-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Cr": {
+    "tdb": [
+      "tdb/CrC-04Ten.tdb",
+      "tdb/CrC-12Khv.tdb",
+      "tdb/CrC-87And-LB.tdb",
+      "tdb/CrC-90Kaj.tdb",
+      "tdb/CrC-92Lee.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Cu": {
+    "tdb": [
+      "tdb/CuC-04Din-LB.tdb",
+      "tdb/CuC-19Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Dy": {
+    "tdb": [
+      "tdb/DyC-20Xu.tdb"
+    ],
+    "pdf": [
+      "pdf/DyC-20xu.pdf"
+    ],
+    "diagram": []
+  },
+  "C-Fe": {
+    "tdb": [
+      "tdb/FeC-10Hal.tdb",
+      "tdb/FeC-14Nar-3g.tdb",
+      "tdb/FeC-16Goh.tdb",
+      "tdb/FeC-19Che.tdb",
+      "tdb/FeC-19Mie.tdb",
+      "tdb/FeC-20Sae.tdb",
+      "tdb/FeC-23Jac.tdb",
+      "tdb/FeC-24Eno.tdb",
+      "tdb/FeC-85Gus-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Ge": {
+    "tdb": [
+      "tdb/GeC-10Hu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-H": {
+    "tdb": [
+      "tdb/CH-97SUB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Hf": {
+    "tdb": [
+      "tdb/HfC-16Pan.tdb",
+      "tdb/HfC-97Bit-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Ir": {
+    "tdb": [
+      "tdb/IrC-04Kor-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-La": {
+    "tdb": [
+      "tdb/LaC-11Pen.tdb"
+    ],
+    "pdf": [
+      "pdf/LaC-11Pen.pdf"
+    ],
+    "diagram": []
+  },
+  "C-Li": {
+    "tdb": [
+      "tdb/LiC-13Koz.tdb",
+      "tdb/LiC-17Lia.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Mg": {
+    "tdb": [
+      "tdb/MgC-06Hal.tdb",
+      "tdb/MgC-10Hu.tdb",
+      "tdb/MgC-12Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Mn": {
+    "tdb": [
+      "tdb/MnC-10Dju.tdb",
+      "tdb/MnC-18Tan.tdb",
+      "tdb/MnC-19Mie.tdb",
+      "tdb/MnC-89Lee.tdb",
+      "tdb/MnC-90Hua-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Mo": {
+    "tdb": [
+      "tdb/MoC-88And-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-N": {
+    "tdb": [
+      "tdb/CN-97SUB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Nb": {
+    "tdb": [
+      "tdb/NbC-01Lee.tdb",
+      "tdb/NbC-13Khv.tdb",
+      "tdb/NbC-16Pen.tdb",
+      "tdb/NbC-90Hua.tdb",
+      "tdb/NbC-97Hua-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Nd": {
+    "tdb": [
+      "tdb/NdC-15Bia.tdb"
+    ],
+    "pdf": [
+      "pdf/NdC-15Bia.pdf"
+    ],
+    "diagram": []
+  },
+  "C-Ni": {
+    "tdb": [
+      "tdb/NiC-06Hal.tdb",
+      "tdb/NiC-22Oik.tdb",
+      "tdb/NiC-87Gab-LB.tdb",
+      "tdb/NiC-92Lee.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-O": {
+    "tdb": [
+      "tdb/CO-97SUB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Os": {
+    "tdb": [
+      "tdb/OsC-04Kor-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-P": {
+    "tdb": [
+      "tdb/CP-90Gus.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Pb": {
+    "tdb": [
+      "tdb/PbC-87Cha-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Pd": {
+    "tdb": [
+      "tdb/PdC-04Kor-LB.tdb",
+      "tdb/PdC-06Du.tdb",
+      "tdb/PdC-20Jia.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Pr": {
+    "tdb": [
+      "tdb/PrC-11Pen.tdb"
+    ],
+    "pdf": [
+      "pdf/PrC-11Pen.pdf"
+    ],
+    "diagram": []
+  },
+  "C-Pt": {
+    "tdb": [
+      "tdb/PtC-04Kor-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Pu": {
+    "tdb": [
+      "tdb/PuC-08Fis.tdb",
+      "tdb/PuC-11Gue.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Rh": {
+    "tdb": [
+      "tdb/RhC-04Kor-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Ru": {
+    "tdb": [
+      "tdb/RuC-04Kor-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Si": {
+    "tdb": [
+      "tdb/SiC-17Lia.tdb",
+      "tdb/SiC-20Jia.tdb",
+      "tdb/SiC-91Lac.tdb",
+      "tdb/SiC-96Gro-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Ta": {
+    "tdb": [
+      "tdb/TaC-16Pan.tdb",
+      "tdb/TaC-17Zha.tdb",
+      "tdb/TaC-96Fri-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Ti": {
+    "tdb": [
+      "tdb/TiC-03Fri.tdb",
+      "tdb/TiC-95Dus.tdb",
+      "tdb/TiC-96Jon.tdb",
+      "tdb/TiC-96Sei.tdb",
+      "tdb/TiC-99Dum-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-U": {
+    "tdb": [
+      "tdb/UC-01Che.tdb",
+      "tdb/UC-11Gue.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-V": {
+    "tdb": [
+      "tdb/VC-06Hu.tdb",
+      "tdb/VC-20Hua.tdb",
+      "tdb/VC-91Hua-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-W": {
+    "tdb": [
+      "tdb/WC-22He-3g.tdb",
+      "tdb/WC-86Gus.tdb",
+      "tdb/WC-93Jon-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Y": {
+    "tdb": [
+      "tdb/YC-19Xu.tdb",
+      "tdb/YC-95Gro-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Zn": {
+    "tdb": [
+      "tdb/ZnC-05Ham-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "C-Zr": {
+    "tdb": [
+      "tdb/ZrC-95Fer-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Ce": {
+    "tdb": [
+      "tdb/CaCe-07Ham.tdb",
+      "tdb/CaCe-08Zha.tdb"
+    ],
+    "pdf": [
+      "pdf/CaCe-08Zha.pdf"
+    ],
+    "diagram": []
+  },
+  "Ca-Cl": {
+    "tdb": [
+      "tdb/CaCl-92Sta.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Cu": {
+    "tdb": [
+      "tdb/CaCu-96Ris-LB.tdb",
+      "tdb/CaCu-97Ais.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-F": {
+    "tdb": [
+      "tdb/CaF-92Sta.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Fe": {
+    "tdb": [
+      "tdb/CaFe-13Sel.tdb",
+      "tdb/CaFe-90Hil.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Ga": {
+    "tdb": [
+      "tdb/CaGa-07Wan.tdb",
+      "tdb/CaGa-13Li-1.tdb",
+      "tdb/CaGa-13Li-2.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Ge": {
+    "tdb": [
+      "tdb/CaGe-10Dja.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-H": {
+    "tdb": [
+      "tdb/CaH-11Wan.tdb",
+      "tdb/CaH-12Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-I": {
+    "tdb": [
+      "tdb/CaI-92Sta.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-In": {
+    "tdb": [
+      "tdb/CaIn-13Wan.tdb",
+      "tdb/CaIn-15Qin.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Li": {
+    "tdb": [
+      "tdb/CaLi-02Gro-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Mg": {
+    "tdb": [
+      "tdb/CaMg-05Isl.tdb",
+      "tdb/CaMg-06Zho.tdb",
+      "tdb/CaMg-08Koz.tdb",
+      "tdb/CaMg-23Hal.tdb",
+      "tdb/CaMg-93Hal.tdb",
+      "tdb/CaMg-95Aga-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Mn": {
+    "tdb": [
+      "tdb/CaMn-16Dil.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Na": {
+    "tdb": [
+      "tdb/CaNa-03Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Ni": {
+    "tdb": [
+      "tdb/CaNi-05Isl.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-O": {
+    "tdb": [
+      "tdb/CaO-18Lia.tdb",
+      "tdb/CaO-20Def-3g.tdb",
+      "tdb/CaO-23Abd-3g.tdb",
+      "tdb/CaO-96Sel.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Pb": {
+    "tdb": [
+      "tdb/CaPb-04Car.tdb",
+      "tdb/CaPb-08Idb.tdb",
+      "tdb/CaPb-89Not.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Ru": {
+    "tdb": [
+      "tdb/CaRu-96Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-S": {
+    "tdb": [
+      "tdb/CaS-16Dil.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Sb": {
+    "tdb": [
+      "tdb/CaSb-15Qin.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Sc": {
+    "tdb": [
+      "tdb/CaSc-12Bu.tdb"
+    ],
+    "pdf": [
+      "pdf/CaSc-12Bu.pdf"
+    ],
+    "diagram": []
+  },
+  "Ca-Si": {
+    "tdb": [
+      "tdb/CaSi-03Gro.tdb",
+      "tdb/CaSi-94Ang-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Sn": {
+    "tdb": [
+      "tdb/CaSn-05Car.tdb",
+      "tdb/CaSn-06Ohn.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Sr": {
+    "tdb": [
+      "tdb/CaSr-03Zho.tdb",
+      "tdb/CaSr-07Shi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Ti": {
+    "tdb": [
+      "tdb/CaTi-15Ham.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-V": {
+    "tdb": [
+      "tdb/CaV-88Smi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Yb": {
+    "tdb": [
+      "tdb/CaYb-07Shi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ca-Zn": {
+    "tdb": [
+      "tdb/CaZn-01Bru-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Ce": {
+    "tdb": [
+      "tdb/CdCe-23Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Cu": {
+    "tdb": [
+      "tdb/CdCu-10Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Fe": {
+    "tdb": [
+      "tdb/CdFe-14Qin.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Ga": {
+    "tdb": [
+      "tdb/CdGa-93Zak-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Gd": {
+    "tdb": [
+      "tdb/CdGd-01Kur.tdb",
+      "tdb/CdGd-19Liu.tdb",
+      "tdb/CdGd-24Azz.tdb"
+    ],
+    "pdf": [
+      "pdf/CdGd-24Azz.pdf"
+    ],
+    "diagram": []
+  },
+  "Cd-Ge": {
+    "tdb": [
+      "tdb/CdGe-00Dic-LB.tdb",
+      "tdb/CdGe-01Dic.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Hg": {
+    "tdb": [
+      "tdb/CdHg-95Yan-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-In": {
+    "tdb": [
+      "tdb/CdIn-19Fis.tdb",
+      "tdb/CdIn-93Zak.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Mg": {
+    "tdb": [
+      "tdb/CdMg-12Ren.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Mn": {
+    "tdb": [
+      "tdb/CdMn-14Qin.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Na": {
+    "tdb": [
+      "tdb/CdNa-09Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Pb": {
+    "tdb": [
+      "tdb/CdPb-09Liu.tdb",
+      "tdb/CdPb-13Chu.tdb",
+      "tdb/CdPb-95Zak-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Pr": {
+    "tdb": [
+      "tdb/CdPr-14Rei.tdb"
+    ],
+    "pdf": [
+      "pdf/CdPr-14Rei.pdf"
+    ],
+    "diagram": []
+  },
+  "Cd-Pu": {
+    "tdb": [
+      "tdb/CdPu-16Hua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Sb": {
+    "tdb": [
+      "tdb/CdSb-09Liu.tdb",
+      "tdb/CdSb-93Zab.tdb",
+      "tdb/CdSb-97Zab-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Se": {
+    "tdb": [
+      "tdb/CdSe-12Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Sn": {
+    "tdb": [
+      "tdb/CdSn-14Qin.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Sr": {
+    "tdb": [
+      "tdb/CdSr-13Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Te": {
+    "tdb": [
+      "tdb/CdTe-00Yam-LB.tdb",
+      "tdb/CdTe-09Liu.tdb",
+      "tdb/CdTe-95Yan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Ti": {
+    "tdb": [
+      "tdb/CdTi-13Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Tl": {
+    "tdb": [
+      "tdb/CdTl-09Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-V": {
+    "tdb": [
+      "tdb/CdV-13Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cd-Y": {
+    "tdb": [
+      "tdb/CdY-01Kur-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/CdY-01Kur.pdf"
+    ],
+    "diagram": []
+  },
+  "Cd-Yb": {
+    "tdb": [
+      "tdb/CdYb-17Kal.tdb"
+    ],
+    "pdf": [
+      "pdf/CdYb-17Kal.pdf"
+    ],
+    "diagram": []
+  },
+  "Cd-Zn": {
+    "tdb": [
+      "tdb/CdZn-93Zab.tdb",
+      "tdb/CdZn-97Zab-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ce-Co": {
+    "tdb": [
+      "tdb/CeCo-19Xu.tdb",
+      "tdb/CeCo-24Liu.tdb",
+      "tdb/CeCo-98Su.tdb"
+    ],
+    "pdf": [
+      "pdf/CeCo-24Liu.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Cr": {
+    "tdb": [
+      "tdb/CeCr-09Cha.tdb"
+    ],
+    "pdf": [
+      "pdf/CeCr-09Cha.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Cu": {
+    "tdb": [
+      "tdb/CeCu-09Bo.tdb",
+      "tdb/CeCu-96Zhu.tdb"
+    ],
+    "pdf": [
+      "pdf/CeCu-09Bo.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Fe": {
+    "tdb": [
+      "tdb/CeFe-06Su.tdb",
+      "tdb/CeFe-19Zhu.tdb",
+      "tdb/CeFe-23Su.tdb"
+    ],
+    "pdf": [
+      "pdf/CeFe-06Su.pdf",
+      "pdf/CeFe-23Su.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Ga": {
+    "tdb": [
+      "tdb/CeGa-13Idb.tdb",
+      "tdb/CeGa-19Liu.tdb"
+    ],
+    "pdf": [
+      "pdf/ALCe-05Gao.pdf",
+      "pdf/CeGa-19Liu.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Gd": {
+    "tdb": [
+      "tdb/CeGd-10Gro.tdb"
+    ],
+    "pdf": [
+      "pdf/CeGd-10Gro.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-H": {
+    "tdb": [
+      "tdb/CeH-24Han-mod1.tdb",
+      "tdb/CeH-24Han-mod2.tdb"
+    ],
+    "pdf": [
+      "pdf/CeH-4Han-mod1.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-La": {
+    "tdb": [
+      "tdb/CeLa-10Guo.tdb",
+      "tdb/CeLa-19Yan.tdb"
+    ],
+    "pdf": [
+      "pdf/CeLa-19Yan.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Mg": {
+    "tdb": [
+      "tdb/CeMg-08Guo.tdb",
+      "tdb/CeMg-08Zha.tdb",
+      "tdb/CeMg-10Guo.tdb",
+      "tdb/CeMg-98Cac-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/CeMg-08Zha.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Mn": {
+    "tdb": [
+      "tdb/CeMn-07Tan.tdb",
+      "tdb/CeMn-24Ye.tdb"
+    ],
+    "pdf": [
+      "pdf/CeMn-07Tan.pdf",
+      "pdf/CeMn-2007Tan.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Mo": {
+    "tdb": [
+      "tdb/CeMo-10Cha.tdb"
+    ],
+    "pdf": [
+      "pdf/CeMo-10Cha.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Nd": {
+    "tdb": [
+      "tdb/CeNd-03Cac.tdb",
+      "tdb/CeNd-19Yan.tdb"
+    ],
+    "pdf": [
+      "pdf/CeNd-03Cac.pdf",
+      "pdf/CeNd-19Yan.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Ni": {
+    "tdb": [
+      "tdb/CeNi-04Du-LB.tdb",
+      "tdb/CeNi-04Pal.tdb",
+      "tdb/CeNi-07Xio.tdb",
+      "tdb/CeNi-23Ye.tdb"
+    ],
+    "pdf": [
+      "pdf/CeNi-2007Xio.pdf",
+      "pdf/CeNi-23Ye.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-O": {
+    "tdb": [
+      "tdb/CeO-06Zin.tdb",
+      "tdb/CeO-08Dju.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ce-Pr": {
+    "tdb": [
+      "tdb/CePr-19Yan.tdb"
+    ],
+    "pdf": [
+      "pdf/Ce-Pr-Fe-21Su.pdf",
+      "pdf/CePr-19Yan.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Pt": {
+    "tdb": [
+      "tdb/CePt-11Liu.tdb"
+    ],
+    "pdf": [
+      "pdf/CePt-11Liu.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Rh": {
+    "tdb": [
+      "tdb/CeRh-24Bou.tdb"
+    ],
+    "pdf": [
+      "pdf/CeRh-24Bou.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Ru": {
+    "tdb": [
+      "tdb/CeRu-23Kar.tdb"
+    ],
+    "pdf": [
+      "pdf/CeRu-23Kar.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Sb": {
+    "tdb": [
+      "tdb/CeSb-06Su.tdb",
+      "tdb/CeSb-18Xu.tdb",
+      "tdb/CeSb-19Zhu.tdb"
+    ],
+    "pdf": [
+      "pdf/CeSb-19Zhu.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Si": {
+    "tdb": [
+      "tdb/CeSi-04Gro.tdb",
+      "tdb/CeSi-16Hua.tdb"
+    ],
+    "pdf": [
+      "pdf/CeSi-16Hua.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Sn": {
+    "tdb": [
+      "tdb/CeSn-13Don.tdb",
+      "tdb/CeSn-13Li.tdb"
+    ],
+    "pdf": [
+      "pdf/CeSn-13Don.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Te": {
+    "tdb": [
+      "tdb/CeTe-21Don.tdb"
+    ],
+    "pdf": [
+      "pdf/CeTe-21Don.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Ti": {
+    "tdb": [
+      "tdb/CeTi-18Yao.tdb"
+    ],
+    "pdf": [
+      "pdf/CeTi-18Yao.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-V": {
+    "tdb": [
+      "tdb/CeV-10Cha.tdb"
+    ],
+    "pdf": [
+      "pdf/CeV-10Cha.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-W": {
+    "tdb": [
+      "tdb/CeW-00Kri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ce-Y": {
+    "tdb": [
+      "tdb/CeY-06Men.tdb",
+      "tdb/CeY-08Dju.tdb",
+      "tdb/CeY-08Guo.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ce-Zn": {
+    "tdb": [
+      "tdb/CeZn-08Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/CeZn-08Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Ce-Zr": {
+    "tdb": [
+      "tdb/CeZr-14Mat.tdb"
+    ],
+    "pdf": [
+      "pdf/CeZr-14Mat.pdf"
+    ],
+    "diagram": []
+  },
+  "Cl-K": {
+    "tdb": [
+      "tdb/KCl-18McM.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cl-Mg": {
+    "tdb": [
+      "tdb/MgCl-18McM.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Cr": {
+    "tdb": [
+      "tdb/CoCr-01Oik.tdb",
+      "tdb/CoCr-02Oik.tdb",
+      "tdb/CoCr-16Li.tdb",
+      "tdb/CoCr-18Cac.tdb",
+      "tdb/CoCr-19Wan.tdb",
+      "tdb/CoCr-20Ost.tdb",
+      "tdb/CoCr-20Zha.tdb",
+      "tdb/CoCr-23Sha.tdb",
+      "tdb/CoCr-24Per.tdb",
+      "tdb/CoCr-88Jan.tdb",
+      "tdb/CoCr-97Kus-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Cu": {
+    "tdb": [
+      "tdb/CoCu-00Kub-LB.tdb",
+      "tdb/CoCu-06Pal.tdb",
+      "tdb/CoCu-80Has.tdb",
+      "tdb/CoCu-97Oht.tdb"
+    ],
+    "pdf": [
+      "pdf/CoCu-06Pal.pdf"
+    ],
+    "diagram": []
+  },
+  "Co-Dy": {
+    "tdb": [
+      "tdb/CoDy-96Su.tdb",
+      "tdb/CoDy-98Su.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Er": {
+    "tdb": [
+      "tdb/CoEr-09Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/CoEr-09Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Co-Fe": {
+    "tdb": [
+      "tdb/CoFe-02Ohn.tdb",
+      "tdb/CoFe-15Rod.tdb",
+      "tdb/CoFe-17Wan.tdb",
+      "tdb/CoFe-87Fer-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/CoFe-02Ohn.pdf"
+    ],
+    "diagram": []
+  },
+  "Co-Ga": {
+    "tdb": [
+      "tdb/CoGa-05Su.tdb",
+      "tdb/CoGa-10Cha.tdb",
+      "tdb/CoGa-99Gro.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Gd": {
+    "tdb": [
+      "tdb/CoGd-10Wan.tdb",
+      "tdb/CoGd-95Liu-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Ge": {
+    "tdb": [
+      "tdb/CoGe-04Kor-LB.tdb",
+      "tdb/CoGe-13Don.tdb",
+      "tdb/CoGe-19Zen-ass.tdb",
+      "tdb/CoGe-19Zen-sub.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-H": {
+    "tdb": [
+      "tdb/CoH-12Kim.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Hf": {
+    "tdb": [
+      "tdb/CoHf-06Bra.tdb",
+      "tdb/CoHf-15Lu.tdb",
+      "tdb/CoHf-18Hua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Ho": {
+    "tdb": [
+      "tdb/CoHo-09Jin.tdb"
+    ],
+    "pdf": [
+      "pdf/CoHo-09Jin.pdf"
+    ],
+    "diagram": []
+  },
+  "Co-In": {
+    "tdb": [
+      "tdb/CoIn-01Boa-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-La": {
+    "tdb": [
+      "tdb/CoLa-08Wan.tdb",
+      "tdb/CoLa-24Liu.tdb"
+    ],
+    "pdf": [
+      "pdf/CoLa-24Liu.pdf"
+    ],
+    "diagram": []
+  },
+  "Co-Mg": {
+    "tdb": [
+      "tdb/CoMg-22Yan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Mn": {
+    "tdb": [
+      "tdb/CoMn-89Hua-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Mo": {
+    "tdb": [
+      "tdb/CoMo-03Dav-LB.tdb",
+      "tdb/CoMo-03Dav-alt.tdb",
+      "tdb/CoMo-99Dav-alt.tdb",
+      "tdb/CoMo-99Dav.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-N": {
+    "tdb": [
+      "tdb/CoN-92Fer-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Nb": {
+    "tdb": [
+      "tdb/CoNb-15He.tdb",
+      "tdb/CoNb-20Zho.tdb",
+      "tdb/CoNb-22Wei.tdb",
+      "tdb/CoNb-98Har-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Nd": {
+    "tdb": [
+      "tdb/CoNd-07Liu.tdb"
+    ],
+    "pdf": [
+      "pdf/CoNd-07Liu .pdf"
+    ],
+    "diagram": []
+  },
+  "Co-Ni": {
+    "tdb": [
+      "tdb/CoNi-24Per.tdb",
+      "tdb/CoNi-87Fer-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-O": {
+    "tdb": [
+      "tdb/CoO-03Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Pd": {
+    "tdb": [
+      "tdb/CoPd-04Fra-LB.tdb",
+      "tdb/CoPd-99Gho.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Pr": {
+    "tdb": [
+      "tdb/CoPr-99Du.tdb"
+    ],
+    "pdf": [
+      "pdf/CoPr-99Du.pdf"
+    ],
+    "diagram": []
+  },
+  "Co-Pt": {
+    "tdb": [
+      "tdb/CoPt-01Oik.tdb",
+      "tdb/CoPt-11Kim.tdb",
+      "tdb/CoPt-90Spe-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Re": {
+    "tdb": [
+      "tdb/CoRe-14Liu.tdb",
+      "tdb/CoRe-18Guo.tdb",
+      "tdb/CoRe-24Per.tdb",
+      "tdb/CoRe-24Shi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Ru": {
+    "tdb": [
+      "tdb/CoRu-14Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Sb": {
+    "tdb": [
+      "tdb/CoSb-08Zha.tdb",
+      "tdb/CoSb-09Zha.tdb",
+      "tdb/CoSb-19Gie.tdb",
+      "tdb/CoSb-20Bro.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Sc": {
+    "tdb": [
+      "tdb/CoSc-08Liu.tdb"
+    ],
+    "pdf": [
+      "pdf/CoSc-08Liu.pdf"
+    ],
+    "diagram": []
+  },
+  "Co-Si": {
+    "tdb": [
+      "tdb/CoSi-06Zha.tdb",
+      "tdb/CoSi-92Cho-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Sm": {
+    "tdb": [
+      "tdb/CoSm-11Yua.tdb",
+      "tdb/CoSm-98Su.tdb"
+    ],
+    "pdf": [
+      "pdf/CoSm-11Yua.pdf"
+    ],
+    "diagram": []
+  },
+  "Co-Sn": {
+    "tdb": [
+      "tdb/CoSn-04Jia.tdb",
+      "tdb/CoSn-04Liu.tdb",
+      "tdb/CoSn-09Don.tdb",
+      "tdb/CoSn-19Jed.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Sr": {
+    "tdb": [
+      "tdb/CoSr-18Hal.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Ta": {
+    "tdb": [
+      "tdb/CoTa-02Har.tdb",
+      "tdb/CoTa-14Shi.tdb",
+      "tdb/CoTa-19Wan.tdb",
+      "tdb/CoTa-19Zho.tdb",
+      "tdb/CoTa-22Wan.tdb",
+      "tdb/CoTa-99Liu-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Te": {
+    "tdb": [
+      "tdb/CoTe-20Yua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Th": {
+    "tdb": [
+      "tdb/CoTh-08Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Ti": {
+    "tdb": [
+      "tdb/CoTi-00Cac.tdb",
+      "tdb/CoTi-01Dav-LB.tdb",
+      "tdb/CoTi-18Zho.tdb",
+      "tdb/CoTi-20Wu.tdb",
+      "tdb/CoTi-22Yan.tdb",
+      "tdb/CoTi-24Tur.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-U": {
+    "tdb": [
+      "tdb/CoU-08Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-V": {
+    "tdb": [
+      "tdb/CoV-03Bra-LB.tdb",
+      "tdb/CoV-04Hua.tdb",
+      "tdb/CoV-15Wan.tdb",
+      "tdb/CoV-20Wan-mod.tdb",
+      "tdb/CoV-20Wan.tdb",
+      "tdb/CoV-24Sun.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-W": {
+    "tdb": [
+      "tdb/CoW-05Mar.tdb",
+      "tdb/CoW-05Sat.tdb",
+      "tdb/CoW-15Kap.tdb",
+      "tdb/CoW-17Wan.tdb",
+      "tdb/CoW-18Cac.tdb",
+      "tdb/CoW-18Liu.tdb",
+      "tdb/CoW-19Kap.tdb",
+      "tdb/CoW-19Wan.tdb",
+      "tdb/CoW-85Gab.tdb",
+      "tdb/CoW-89Fer-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Y": {
+    "tdb": [
+      "tdb/CoY-04Du-LB.tdb",
+      "tdb/CoY-06Gol.tdb",
+      "tdb/CoY-21Wan.tdb",
+      "tdb/CoY-96Du.tdb"
+    ],
+    "pdf": [
+      "pdf/CoY-21Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Co-Zn": {
+    "tdb": [
+      "tdb/CoZn-04Iso.tdb",
+      "tdb/CoZn-04Vas-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Co-Zr": {
+    "tdb": [
+      "tdb/CoZr-06Bra.tdb",
+      "tdb/CoZr-09Liu.tdb",
+      "tdb/CoZr-10Dur.tdb",
+      "tdb/CoZr-20Agr.tdb",
+      "tdb/CoZr-21Zho.tdb",
+      "tdb/CoZr-22Zho.tdb",
+      "tdb/CoZr-23Sun.tdb"
+    ],
+    "pdf": [
+      "pdf/CoZr-10Dur.pdf"
+    ],
+    "diagram": []
+  },
+  "Cr-Cu": {
+    "tdb": [
+      "tdb/CrCu-00Jac.tdb",
+      "tdb/CrCu-06Tur.tdb",
+      "tdb/CrCu-17Liu.tdb",
+      "tdb/CrCu-87Sau.tdb",
+      "tdb/CrCu-90Ham.tdb",
+      "tdb/CrCu-95Zen-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Fe": {
+    "tdb": [
+      "tdb/CrFe-11Xio.tdb",
+      "tdb/CrFe-18Jac.tdb",
+      "tdb/CrFe-20Ost.tdb",
+      "tdb/CrFe-21Laf.tdb",
+      "tdb/CrFe-23Zha.tdb",
+      "tdb/CrFe-82Her.tdb",
+      "tdb/CrFe-87And-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Ga": {
+    "tdb": [
+      "tdb/CrGa-05Bel.tdb",
+      "tdb/CrGa-99Gro.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Ge": {
+    "tdb": [
+      "tdb/CrGe-09Li.tdb",
+      "tdb/CrGe-10Liu.tdb",
+      "tdb/CrGe-15Ber.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-H": {
+    "tdb": [
+      "tdb/CrH-22Dot.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Hf": {
+    "tdb": [
+      "tdb/CrHf-10Pav-3SL.tdb",
+      "tdb/CrHf-10Pav.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Ir": {
+    "tdb": [
+      "tdb/CrIr-09Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-La": {
+    "tdb": [
+      "tdb/CrLa-09Cha.tdb",
+      "tdb/CrLa-09Pov.tdb"
+    ],
+    "pdf": [
+      "pdf/CrLa-09Cha.pdf"
+    ],
+    "diagram": []
+  },
+  "Cr-Lu": {
+    "tdb": [
+      "tdb/CrLu-92Oka.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Mg": {
+    "tdb": [
+      "tdb/CrMg-98Ans-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Mn": {
+    "tdb": [
+      "tdb/CrMn-93Lee-LB.tdb",
+      "tdb/CrMn-93Lee-mod.tdb",
+      "tdb/CrMn-93Lee-mod2.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Mo": {
+    "tdb": [
+      "tdb/CrMo-88Fri-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-N": {
+    "tdb": [
+      "tdb/CrN-91Fri-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Na": {
+    "tdb": [
+      "tdb/CrNa-12Hao.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Nb": {
+    "tdb": [
+      "tdb/CrNb-09Pav.tdb",
+      "tdb/CrNb-14Sch.tdb",
+      "tdb/CrNb-15Lu.tdb",
+      "tdb/CrNb-16Pen.tdb",
+      "tdb/CrNb-17Laf.tdb",
+      "tdb/CrNb-18Jia.tdb",
+      "tdb/CrNb-93Cos-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Ni": {
+    "tdb": [
+      "tdb/CrNi-06Hal.tdb",
+      "tdb/CrNi-16Tan.tdb",
+      "tdb/CrNi-20Zha.tdb",
+      "tdb/CrNi-21Hao-3g.tdb",
+      "tdb/CrNi-24Per.tdb",
+      "tdb/CrNi-86Din.tdb",
+      "tdb/CrNi-92Lee-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-O": {
+    "tdb": [
+      "tdb/CrO-06Pov.tdb",
+      "tdb/CrO-10Kje.tdb",
+      "tdb/CrO-90Tay.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-P": {
+    "tdb": [
+      "tdb/CrP-14Mie.tdb",
+      "tdb/CrP-99Mie-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Pb": {
+    "tdb": [
+      "tdb/CrPb-14Gos.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Pd": {
+    "tdb": [
+      "tdb/CrPd-00Gho-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Pt": {
+    "tdb": [
+      "tdb/CrPt-01Oik.tdb",
+      "tdb/CrPt-09Pre.tdb",
+      "tdb/CrPt-98Spe-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Re": {
+    "tdb": [
+      "tdb/CrRe-10Pal.tdb",
+      "tdb/CrRe-18Guo.tdb",
+      "tdb/CrRe-24Per.tdb",
+      "tdb/CrRe-98Hua-newsigma.tdb",
+      "tdb/CrRe-98Hua-oldsigma.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Ru": {
+    "tdb": [
+      "tdb/CrRu-05Che-LB.tdb",
+      "tdb/CrRu-15Zhu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-S": {
+    "tdb": [
+      "tdb/CrS-00Oik.tdb",
+      "tdb/CrS-17Jan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Sc": {
+    "tdb": [
+      "tdb/CrSc-12Bu.tdb",
+      "tdb/CrSc-15Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/CrSc-15Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Cr-Si": {
+    "tdb": [
+      "tdb/CrSi-00Du.tdb",
+      "tdb/CrSi-09Che.tdb",
+      "tdb/CrSi-17Jac.tdb",
+      "tdb/CrSi-24Ior.tdb",
+      "tdb/CrSi-94Cou-LB.tdb",
+      "tdb/CrSi-95Lee.tdb",
+      "tdb/CrSi-99Lee.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Sn": {
+    "tdb": [
+      "tdb/CrSn-01Jer-LB.tdb",
+      "tdb/CrSn-17Laf.tdb",
+      "tdb/CrSn-19Laf.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Ta": {
+    "tdb": [
+      "tdb/CrTa-09Pav.tdb",
+      "tdb/CrTa-93Dup-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Ti": {
+    "tdb": [
+      "tdb/CrTi-00Zhu.tdb",
+      "tdb/CrTi-02Gho.tdb",
+      "tdb/CrTi-10Pav-3SL.tdb",
+      "tdb/CrTi-10Pav.tdb",
+      "tdb/CrTi-22Sun.tdb",
+      "tdb/CrTi-24Flo.tdb",
+      "tdb/CrTi-98Sau-LB.tdb",
+      "tdb/CrTi-99Lee.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-U": {
+    "tdb": [
+      "tdb/CrU-11Ber.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-V": {
+    "tdb": [
+      "tdb/CrV-02Gho.tdb",
+      "tdb/CrV-24Ton.tdb",
+      "tdb/CrV-82Smi.tdb",
+      "tdb/CrV-92Lee-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-W": {
+    "tdb": [
+      "tdb/CrW-88Gus-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Y": {
+    "tdb": [
+      "tdb/CrY-09Cha.tdb",
+      "tdb/CrY-21Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/CrY-09Cha.pdf"
+    ],
+    "diagram": []
+  },
+  "Cr-Zn": {
+    "tdb": [
+      "tdb/CrZn-03Reu-LB.tdb",
+      "tdb/CrZn-10Su.tdb",
+      "tdb/CrZn-98Ans.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cr-Zr": {
+    "tdb": [
+      "tdb/CrZr-09Pav.tdb",
+      "tdb/CrZr-13Yan.tdb",
+      "tdb/CrZr-15Lu.tdb",
+      "tdb/CrZr-17Liu.tdb",
+      "tdb/CrZr-19Laf.tdb",
+      "tdb/CrZr-93Zen.tdb",
+      "tdb/CrZr-95Zen.tdb",
+      "tdb/CrZr-98Zen-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cs-In": {
+    "tdb": [
+      "tdb/CsIn-10Lee.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cs-K": {
+    "tdb": [
+      "tdb/CsK-11Ren.tdb",
+      "tdb/CsK-85Pot-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cs-Mo": {
+    "tdb": [
+      "tdb/CsMo-21Smi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cs-Na": {
+    "tdb": [
+      "tdb/CsNa-11Ren.tdb",
+      "tdb/CsNa-85Pot-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cs-O": {
+    "tdb": [
+      "tdb/CsO-15Gue.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cs-Rb": {
+    "tdb": [
+      "tdb/CsRb-11Ren.tdb",
+      "tdb/CsRb-85Pot-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cs-Te": {
+    "tdb": [
+      "tdb/CsTe-15Pha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Dy": {
+    "tdb": [
+      "tdb/CuDy-09Pal.tdb",
+      "tdb/CuDy-09Zha.tdb"
+    ],
+    "pdf": [
+      "pdf/CuDy-09Pa.pdf"
+    ],
+    "diagram": []
+  },
+  "Cu-Er": {
+    "tdb": [
+      "tdb/CuEr-08Zha.tdb"
+    ],
+    "pdf": [
+      "pdf/CuEr-08Zha.pdf"
+    ],
+    "diagram": []
+  },
+  "Cu-Eu": {
+    "tdb": [
+      "tdb/CuEu-07Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Fe": {
+    "tdb": [
+      "tdb/CuFe-03Tur.tdb",
+      "tdb/CuFe-15Ste.tdb",
+      "tdb/CuFe-87Jan.tdb",
+      "tdb/CuFe-93Ans-LB.tdb",
+      "tdb/CuFe-93Swa.tdb",
+      "tdb/CuFe-95Che.tdb"
+    ],
+    "pdf": [
+      "pdf/CuFe-98Ans.pdf"
+    ],
+    "diagram": []
+  },
+  "Cu-Ga": {
+    "tdb": [
+      "tdb/CuGa-08Li.tdb",
+      "tdb/CuGa-15Jen.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Gd": {
+    "tdb": [
+      "tdb/CuGd-09Zha.tdb"
+    ],
+    "pdf": [
+      "pdf/CuGd-09zha.pdf"
+    ],
+    "diagram": []
+  },
+  "Cu-Ge": {
+    "tdb": [
+      "tdb/CuGe-10Wan.tdb",
+      "tdb/CuGe-Rand.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-H": {
+    "tdb": [
+      "tdb/CuH-07Hua.tdb",
+      "tdb/CuH-14Mag.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Hf": {
+    "tdb": [
+      "tdb/CuHf-06Lia.tdb",
+      "tdb/CuHf-08Tur.tdb",
+      "tdb/CuHf-13Zho.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Hg": {
+    "tdb": [
+      "tdb/CuHg-12Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Ho": {
+    "tdb": [
+      "tdb/CuHo-09Wan-newHo.tdb",
+      "tdb/CuHo-09Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/CuHo-09Wan-newHo.pdf"
+    ],
+    "diagram": []
+  },
+  "Cu-In": {
+    "tdb": [
+      "tdb/CuIn-02Her.tdb",
+      "tdb/CuIn-02Liu-LB.tdb",
+      "tdb/CuIn-02Liu-orig.tdb",
+      "tdb/CuIn-24Cha.tdb",
+      "tdb/CuIn-93Kao.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Ir": {
+    "tdb": [
+      "tdb/CuIr-04Kor-LB.tdb",
+      "tdb/CuIr-87Cha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-La": {
+    "tdb": [
+      "tdb/CuLa-12An.tdb",
+      "tdb/CuLa-89Qi.tdb",
+      "tdb/CuLa-99Du.tdb"
+    ],
+    "pdf": [
+      "pdf/CuLa-12An.pdf"
+    ],
+    "diagram": []
+  },
+  "Cu-Li": {
+    "tdb": [
+      "tdb/CuLi-09Gas.tdb",
+      "tdb/CuLi-16Li.tdb",
+      "tdb/CuLi-98Sau-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Mg": {
+    "tdb": [
+      "tdb/CuMg-07Zho.tdb",
+      "tdb/CuMg-16Hal.tdb",
+      "tdb/CuMg-91Cou-alt.tdb",
+      "tdb/CuMg-91Cou.tdb",
+      "tdb/CuMg-93Zuo.tdb",
+      "tdb/CuMg-98Lia-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Mn": {
+    "tdb": [
+      "tdb/CuMn-03Mie-LB.tdb",
+      "tdb/CuMn-07Wan.tdb",
+      "tdb/CuMn-08He.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Mo": {
+    "tdb": [
+      "tdb/CuMo-00Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-N": {
+    "tdb": [
+      "tdb/CuN-91Fri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Na": {
+    "tdb": [
+      "tdb/CuNa-12Hao.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Nb": {
+    "tdb": [
+      "tdb/CuNb-90Ham-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Nd": {
+    "tdb": [
+      "tdb/CuNd-11Wan.tdb",
+      "tdb/CuNd-96Du.tdb",
+      "tdb/CuNd-96Zhu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Ni": {
+    "tdb": [
+      "tdb/CuNi-07Tur.tdb",
+      "tdb/CuNi-87Jan.tdb",
+      "tdb/CuNi-89Sri.tdb",
+      "tdb/CuNi-92Mey-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-O": {
+    "tdb": [
+      "tdb/CuO-03Hal-LB.tdb",
+      "tdb/CuO-05Sch.tdb",
+      "tdb/CuO-14Mag.tdb",
+      "tdb/CuO-92Bou.tdb",
+      "tdb/CuO-94Hal.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-P": {
+    "tdb": [
+      "tdb/CuP-01Mie.tdb",
+      "tdb/CuP-09Nod.tdb",
+      "tdb/CuP-11Hin.tdb",
+      "tdb/CuP-24Oik.tdb",
+      "tdb/CuP-87Cha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Pb": {
+    "tdb": [
+      "tdb/CuPb-00Wan.tdb",
+      "tdb/CuPb-01Ond.tdb",
+      "tdb/CuPb-13Vaa.tdb",
+      "tdb/CuPb-86Hay-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Pd": {
+    "tdb": [
+      "tdb/CuPd-07Hua.tdb",
+      "tdb/CuPd-08Li.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Pr": {
+    "tdb": [
+      "tdb/CuPr-96Zhu.tdb"
+    ],
+    "pdf": [
+      "pdf/CuPr-96Zhu.pdf"
+    ],
+    "diagram": []
+  },
+  "Cu-Pt": {
+    "tdb": [
+      "tdb/CuPt-06Abe.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Pu": {
+    "tdb": [
+      "tdb/CuPu-09Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Rh": {
+    "tdb": [
+      "tdb/CuRh-00Pri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-S": {
+    "tdb": [
+      "tdb/CuS-07Lee.tdb",
+      "tdb/CuS-92Sun-LB.tdb",
+      "tdb/CuS-92Sun-newS.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Sb": {
+    "tdb": [
+      "tdb/CuSb-00Liu-LB.tdb",
+      "tdb/CuSb-09Gie.tdb",
+      "tdb/CuSb-23Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Sc": {
+    "tdb": [
+      "tdb/CuSc-08GTT.tdb",
+      "tdb/CuSc-10Bo.tdb"
+    ],
+    "pdf": [
+      "pdf/CuSc-10Bo.pdf"
+    ],
+    "diagram": []
+  },
+  "Cu-Se": {
+    "tdb": [
+      "tdb/CuSe-08Du.tdb",
+      "tdb/CuSe-23Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Si": {
+    "tdb": [
+      "tdb/CuSi-00Yan.tdb",
+      "tdb/CuSi-08Shi.tdb",
+      "tdb/CuSi-13Gie.tdb",
+      "tdb/CuSi-16Hal.tdb",
+      "tdb/CuSi-19Sol.tdb",
+      "tdb/CuSi-24Kro.tdb",
+      "tdb/CuSi-98Jac.tdb",
+      "tdb/CuSi-99Fri-LB.tdb",
+      "tdb/CuSi-99Fri-alt.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Sm": {
+    "tdb": [
+      "tdb/CuSm-96Zhu.tdb"
+    ],
+    "pdf": [
+      "pdf/CuSm-96Zhu.pdf"
+    ],
+    "diagram": []
+  },
+  "Cu-Sn": {
+    "tdb": [
+      "tdb/CuSn-02Mie.tdb",
+      "tdb/CuSn-04Liu.tdb",
+      "tdb/CuSn-11Wan.tdb",
+      "tdb/CuSn-12Gie.tdb",
+      "tdb/CuSn-13Li.tdb",
+      "tdb/CuSn-14Don.tdb",
+      "tdb/CuSn-24Oik.tdb",
+      "tdb/CuSn-96Shi-LB.tdb",
+      "tdb/CuSn-96Shi-SGSOL.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Sr": {
+    "tdb": [
+      "tdb/CuSr-96Ris-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Ta": {
+    "tdb": [
+      "tdb/CuTa-15Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Te": {
+    "tdb": [
+      "tdb/CuTe-21Hua.tdb",
+      "tdb/CuTe-22Yu.tdb",
+      "tdb/CuTe-23Hut.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Th": {
+    "tdb": [
+      "tdb/CuTh-08Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Ti": {
+    "tdb": [
+      "tdb/CuTi-02Can.tdb",
+      "tdb/CuTi-08Tur.tdb",
+      "tdb/CuTi-11Wan.tdb",
+      "tdb/CuTi-23Yan.tdb",
+      "tdb/CuTi-85Sau.tdb",
+      "tdb/CuTi-96Har-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Tl": {
+    "tdb": [
+      "tdb/CuTl-04Che-LB.tdb",
+      "tdb/CuTl-89Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Tm": {
+    "tdb": [
+      "tdb/CuTm-09Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/CuTm-09Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Cu-U": {
+    "tdb": [
+      "tdb/CuU-19Sol.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-V": {
+    "tdb": [
+      "tdb/CuV-08Zha.tdb",
+      "tdb/CuV-90Ham-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-W": {
+    "tdb": [
+      "tdb/CuW-12Hal.tdb",
+      "tdb/CuW-88Qiu.tdb",
+      "tdb/CuW-88Vij.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Y": {
+    "tdb": [
+      "tdb/CuY-94Fri-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/CuY-94Fri.pdf"
+    ],
+    "diagram": []
+  },
+  "Cu-Yb": {
+    "tdb": [
+      "tdb/CuYb-07Zha.tdb"
+    ],
+    "pdf": [
+      "pdf/CuYb-07Zha.pdf"
+    ],
+    "diagram": []
+  },
+  "Cu-Zn": {
+    "tdb": [
+      "tdb/CuZn-03Dav.tdb",
+      "tdb/CuZn-05Jia.tdb",
+      "tdb/CuZn-08Gie.tdb",
+      "tdb/CuZn-11Wan.tdb",
+      "tdb/CuZn-15Lia.tdb",
+      "tdb/CuZn-93Kow-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Cu-Zr": {
+    "tdb": [
+      "tdb/CuZr-06Abe.tdb",
+      "tdb/CuZr-06He.tdb",
+      "tdb/CuZr-06Wan.tdb",
+      "tdb/CuZr-08Tur.tdb",
+      "tdb/CuZr-10Zho.tdb",
+      "tdb/CuZr-11Gie.tdb",
+      "tdb/CuZr-16Hsi.tdb",
+      "tdb/CuZr-17Liu.tdb",
+      "tdb/CuZr-22Zho.tdb",
+      "tdb/CuZr-85Sau.tdb",
+      "tdb/CuZr-94Zen-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Dy-Er": {
+    "tdb": [
+      "tdb/DyEr-00Nor-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/DyEr-00Nor-LB.pdf"
+    ],
+    "diagram": []
+  },
+  "Dy-Fe": {
+    "tdb": [
+      "tdb/DyFe-17Ron.tdb",
+      "tdb/DyFe-23Ye.tdb",
+      "tdb/DyFe-94Lan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Dy-Ge": {
+    "tdb": [
+      "tdb/DyGe-18Ach.tdb"
+    ],
+    "pdf": [
+      "pdf/DyGe-18Ach.pdf"
+    ],
+    "diagram": []
+  },
+  "Dy-H": {
+    "tdb": [
+      "tdb/DyH-17Fu.tdb"
+    ],
+    "pdf": [
+      "pdf/DyH-17Fu.pdf"
+    ],
+    "diagram": []
+  },
+  "Dy-Ho": {
+    "tdb": [
+      "tdb/DyHo-00Nor-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/DyHo-00Nor-LB.pdf"
+    ],
+    "diagram": []
+  },
+  "Dy-Mg": {
+    "tdb": [
+      "tdb/DyMg-03Cac-LB.tdb",
+      "tdb/DyMg-04Du.tdb"
+    ],
+    "pdf": [
+      "pdf/DyMg-03Cac.pdf"
+    ],
+    "diagram": []
+  },
+  "Dy-Mn": {
+    "tdb": [
+      "tdb/DyMn-09Wan.tdb",
+      "tdb/DyMn-19Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/DyMn-19Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Dy-Ni": {
+    "tdb": [
+      "tdb/DyNi-09Li-newDy.tdb",
+      "tdb/DyNi-09Li.tdb"
+    ],
+    "pdf": [
+      "pdf/DyNi-09Li.pdf"
+    ],
+    "diagram": []
+  },
+  "Dy-O": {
+    "tdb": [
+      "tdb/DyO-23Nak.tdb"
+    ],
+    "pdf": [
+      "pdf/DyO-23Nak.pdf"
+    ],
+    "diagram": []
+  },
+  "Dy-Pb": {
+    "tdb": [
+      "tdb/DyPb-14Idd.tdb"
+    ],
+    "pdf": [
+      "pdf/DyPb-14ldd.pdf"
+    ],
+    "diagram": []
+  },
+  "Dy-Pd": {
+    "tdb": [
+      "tdb/DyPd-00Du.tdb"
+    ],
+    "pdf": [
+      "pdf/DyPd-00Du.pdf"
+    ],
+    "diagram": []
+  },
+  "Dy-Ru": {
+    "tdb": [
+      "tdb/DyRu-23Kar.tdb"
+    ],
+    "pdf": [
+      "pdf/DyRu-23Kar.pdf"
+    ],
+    "diagram": []
+  },
+  "Dy-Sb": {
+    "tdb": [
+      "tdb/DySb-10Lon.tdb"
+    ],
+    "pdf": [
+      "pdf/DySb-10Lon.pdf"
+    ],
+    "diagram": []
+  },
+  "Dy-Si": {
+    "tdb": [
+      "tdb/DySi-20Xu.tdb"
+    ],
+    "pdf": [
+      "pdf/DySi-20Xu.pdf"
+    ],
+    "diagram": []
+  },
+  "Dy-Sn": {
+    "tdb": [
+      "tdb/DySn-05Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/DySn-05Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Dy-Tb": {
+    "tdb": [
+      "tdb/DyTb-94Lan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Dy-Te": {
+    "tdb": [
+      "tdb/DyTe-23Cui.tdb"
+    ],
+    "pdf": [
+      "pdf/DyTe-23Cui.pdf"
+    ],
+    "diagram": []
+  },
+  "Dy-W": {
+    "tdb": [
+      "tdb/DyW-00Kri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Dy-Zn": {
+    "tdb": [
+      "tdb/DyZn-19Fre.tdb"
+    ],
+    "pdf": [
+      "pdf/DyZn-19Fre.pdf"
+    ],
+    "diagram": []
+  },
+  "Dy-Zr": {
+    "tdb": [
+      "tdb/DyZr-14Bo.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Er-Fe": {
+    "tdb": [
+      "tdb/ErFe-10Zho.tdb",
+      "tdb/ErFe-11Wan.tdb",
+      "tdb/ErFe-12Wan.tdb",
+      "tdb/ErFe-23Ye.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Er-Ge": {
+    "tdb": [
+      "tdb/ErGe-17Ach.tdb"
+    ],
+    "pdf": [
+      "pdf/ErGe-17Ach.pdf"
+    ],
+    "diagram": []
+  },
+  "Er-H": {
+    "tdb": [
+      "tdb/ErH-13Mas.tdb"
+    ],
+    "pdf": [
+      "pdf/ErH-13Mas.pdf"
+    ],
+    "diagram": []
+  },
+  "Er-Ho": {
+    "tdb": [
+      "tdb/ErHo-00Nor-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/ErHo-00Nor.pdf"
+    ],
+    "diagram": []
+  },
+  "Er-Lu": {
+    "tdb": [
+      "tdb/ErLu-92Oka.tdb"
+    ],
+    "pdf": [
+      "pdf/ErLu-920ka.pdf"
+    ],
+    "diagram": []
+  },
+  "Er-Mg": {
+    "tdb": [
+      "tdb/ErMg-02Cac.tdb"
+    ],
+    "pdf": [
+      "pdf/ErMg-02Cac.pdf"
+    ],
+    "diagram": []
+  },
+  "Er-Mn": {
+    "tdb": [
+      "tdb/ErMn-24Ye.tdb"
+    ],
+    "pdf": [
+      "pdf/ErMn-24Ye.pdf"
+    ],
+    "diagram": []
+  },
+  "Er-Ni": {
+    "tdb": [
+      "tdb/ErNi-99Du.tdb"
+    ],
+    "pdf": [
+      "pdf/ErNi-99Du.pdf"
+    ],
+    "diagram": []
+  },
+  "Er-O": {
+    "tdb": [
+      "tdb/ErO-23Nak.tdb"
+    ],
+    "pdf": [
+      "pdf/ErO-23Nak.pdf"
+    ],
+    "diagram": []
+  },
+  "Er-Pd": {
+    "tdb": [
+      "tdb/ErPd-00Du.tdb"
+    ],
+    "pdf": [
+      "pdf/ErPd-00Du.pdf"
+    ],
+    "diagram": []
+  },
+  "Er-Sb": {
+    "tdb": [
+      "tdb/ErSb-11Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/ErSb-11Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Er-Sc": {
+    "tdb": [
+      "tdb/ErSc-24Kan.tdb"
+    ],
+    "pdf": [
+      "pdf/ErSc-24Kan.pdf"
+    ],
+    "diagram": []
+  },
+  "Er-Tb": {
+    "tdb": [
+      "tdb/ErTb-00Nor-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/ErTb-00Nor-LB.pdf",
+      "pdf/ErTb-00Nor.pdf"
+    ],
+    "diagram": []
+  },
+  "Er-Te": {
+    "tdb": [
+      "tdb/ErTe-22Ben.tdb"
+    ],
+    "pdf": [
+      "pdf/ErTe-22Ben.pdf"
+    ],
+    "diagram": []
+  },
+  "Er-Ti": {
+    "tdb": [
+      "tdb/ErTi-18Yao.tdb"
+    ],
+    "pdf": [
+      "pdf/ErTi-18Yao.pdf"
+    ],
+    "diagram": []
+  },
+  "Er-V": {
+    "tdb": [
+      "tdb/ErV-09Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/ErV-09Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Er-W": {
+    "tdb": [
+      "tdb/ErW-00Kri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Er-Y": {
+    "tdb": [
+      "tdb/ErY-10Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Er-Zn": {
+    "tdb": [
+      "tdb/ErZn-19Fre.tdb"
+    ],
+    "pdf": [
+      "pdf/ErZn-19Fre.pdf"
+    ],
+    "diagram": []
+  },
+  "Er-Zr": {
+    "tdb": [
+      "tdb/ErZr-10Jou.tdb"
+    ],
+    "pdf": [
+      "pdf/ErZr-10Jou.pdf"
+    ],
+    "diagram": []
+  },
+  "Eu-Ga": {
+    "tdb": [
+      "tdb/EuGa-20Li.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Eu-In": {
+    "tdb": [
+      "tdb/EuIn-11Gao.tdb"
+    ],
+    "pdf": [
+      "pdf/EuIn-11Gao.pdf"
+    ],
+    "diagram": []
+  },
+  "Eu-Mg": {
+    "tdb": [
+      "tdb/EuMg-08Tao.tdb"
+    ],
+    "pdf": [
+      "pdf/EuMg-08Tao.pdf"
+    ],
+    "diagram": []
+  },
+  "Eu-Ni": {
+    "tdb": [
+      "tdb/EuNi-16Kar.tdb"
+    ],
+    "pdf": [
+      "pdf/EuNi-16Kar.pdf"
+    ],
+    "diagram": []
+  },
+  "Eu-O": {
+    "tdb": [
+      "tdb/EuO-07Zin.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Eu-Pb": {
+    "tdb": [
+      "tdb/EuPb-13Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/EuPb-13Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Eu-Pd": {
+    "tdb": [
+      "tdb/EuPd-01Du-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/EuPd-01Du-LB.pdf"
+    ],
+    "diagram": []
+  },
+  "Eu-Sn": {
+    "tdb": [
+      "tdb/EuSn-04Liu-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/EuSn-04Liu-LB.pdf"
+    ],
+    "diagram": []
+  },
+  "Eu-Te": {
+    "tdb": [
+      "tdb/EuTe-15Gha.tdb",
+      "tdb/EuTe-21Don.tdb"
+    ],
+    "pdf": [
+      "pdf/EuTe-21Don.pdf"
+    ],
+    "diagram": []
+  },
+  "Eu-W": {
+    "tdb": [
+      "tdb/EuW-00Kri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "F-K": {
+    "tdb": [
+      "tdb/KF-06Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "F-Na": {
+    "tdb": [
+      "tdb/NaF-06Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "F-Nb": {
+    "tdb": [
+      "tdb/NbF-18Cap.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "F-O": {
+    "tdb": [
+      "tdb/FO-97SUB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Ga": {
+    "tdb": [
+      "tdb/FeGa-04Tur.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Gd": {
+    "tdb": [
+      "tdb/FeGd-00Zin.tdb",
+      "tdb/FeGd-02Zin-newGd.tdb",
+      "tdb/FeGd-02Zin.tdb",
+      "tdb/FeGd-12Wan.tdb",
+      "tdb/FeGd-17Che.tdb",
+      "tdb/FeGd-95Liu.tdb"
+    ],
+    "pdf": [
+      "pdf/FeGd-17Che.pdf"
+    ],
+    "diagram": []
+  },
+  "Fe-H": {
+    "tdb": [
+      "tdb/FeH-02Zin.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Hf": {
+    "tdb": [
+      "tdb/FeHf-08Idb.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Ho": {
+    "tdb": [
+      "tdb/FeHo-14Kar.tdb",
+      "tdb/FeHo-19Xu.tdb"
+    ],
+    "pdf": [
+      "pdf/FeHo-19Xu.pdf"
+    ],
+    "diagram": []
+  },
+  "Fe-In": {
+    "tdb": [
+      "tdb/FeIn-09Ohn.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-La": {
+    "tdb": [
+      "tdb/FeLa-09Pov.tdb",
+      "tdb/FeLa-23Su.tdb"
+    ],
+    "pdf": [
+      "pdf/FeLa-23Su.pdf"
+    ],
+    "diagram": []
+  },
+  "Fe-Lu": {
+    "tdb": [
+      "tdb/FeLu-14Kar.tdb",
+      "tdb/FeLu-23Ye.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Mg": {
+    "tdb": [
+      "tdb/FeMg-98Tib-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Mn": {
+    "tdb": [
+      "tdb/FeMn-04Wit.tdb",
+      "tdb/FeMn-19Big-3g.tdb",
+      "tdb/FeMn-23Jac.tdb",
+      "tdb/FeMn-23Wal-3g.tdb",
+      "tdb/FeMn-87Hua.tdb",
+      "tdb/FeMn-89Hua-LB.tdb",
+      "tdb/FeMn-89Hua-modified.tdb",
+      "tdb/FeMn-89Lee.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Mo": {
+    "tdb": [
+      "tdb/FeMo-14Raj.tdb",
+      "tdb/FeMo-20Tak.tdb",
+      "tdb/FeMo-82Fer.tdb",
+      "tdb/FeMo-88And-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-N": {
+    "tdb": [
+      "tdb/FeN-16Goe.tdb",
+      "tdb/FeN-20Kou.tdb",
+      "tdb/FeN-87Fri.tdb",
+      "tdb/FeN-91Fri-LB.tdb",
+      "tdb/FeN-93Du-mod.tdb",
+      "tdb/FeN-93Du.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Nb": {
+    "tdb": [
+      "tdb/FeNb-00Tof.tdb",
+      "tdb/FeNb-01Lee.tdb",
+      "tdb/FeNb-08Yos.tdb",
+      "tdb/FeNb-09Mat.tdb",
+      "tdb/FeNb-12Khv.tdb",
+      "tdb/FeNb-12Liu.tdb",
+      "tdb/FeNb-13Khv.tdb",
+      "tdb/FeNb-15Mie.tdb",
+      "tdb/FeNb-16Jac.tdb",
+      "tdb/FeNb-17He.tdb",
+      "tdb/FeNb-17Lu.tdb",
+      "tdb/FeNb-21Laf.tdb",
+      "tdb/FeNb-23Pan.tdb",
+      "tdb/FeNb-24Sun.tdb",
+      "tdb/FeNb-90Hua-LB.tdb",
+      "tdb/FeNb-94Coe.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Nd": {
+    "tdb": [
+      "tdb/FeNd-16Che.tdb",
+      "tdb/FeNd-16Wan.tdb",
+      "tdb/FeNd-95Hal-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/FeNd-16Che.pdf"
+    ],
+    "diagram": []
+  },
+  "Fe-Ni": {
+    "tdb": [
+      "tdb/FeNi-00Ans-2SL.tdb",
+      "tdb/FeNi-00Ans-4SL.tdb",
+      "tdb/FeNi-03Dup-LB.tdb",
+      "tdb/FeNi-03Dup-mod.tdb",
+      "tdb/FeNi-10Cac.tdb",
+      "tdb/FeNi-11Xio.tdb",
+      "tdb/FeNi-19Ohn.tdb",
+      "tdb/FeNi-23Jac.tdb",
+      "tdb/FeNi-23Wit.tdb",
+      "tdb/FeNi-23Zha.tdb",
+      "tdb/FeNi-85Xin.tdb",
+      "tdb/FeNi-95Ans.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Np": {
+    "tdb": [
+      "tdb/FeNp-10Kur.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-O": {
+    "tdb": [
+      "tdb/FeO-02Luo.tdb",
+      "tdb/FeO-09Pov.tdb",
+      "tdb/FeO-23Jia.tdb",
+      "tdb/FeO-91Sun-LB.tdb",
+      "tdb/FeO-91Sun-orig.tdb",
+      "tdb/FeO-93Tay.tdb",
+      "tdb/FeO-95Kow.tdb",
+      "tdb/FeO-96Sel.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Os": {
+    "tdb": [
+      "tdb/FeOs-83Swa.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-P": {
+    "tdb": [
+      "tdb/FeP-06Oht.tdb",
+      "tdb/FeP-14Mie.tdb",
+      "tdb/FeP-90Gus-LB.tdb",
+      "tdb/FeP-96Shi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Pb": {
+    "tdb": [
+      "tdb/FePb-11Vaa.tdb",
+      "tdb/FePb-87Din-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Pd": {
+    "tdb": [
+      "tdb/FePd-99Gho-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Pr": {
+    "tdb": [
+      "tdb/FePr-16Che.tdb",
+      "tdb/FePr-95Bae-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/FePr-16Che.pdf"
+    ],
+    "diagram": []
+  },
+  "Fe-Pt": {
+    "tdb": [
+      "tdb/FePt-01Fre-LB.tdb",
+      "tdb/FePt-01Fre-orig.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Pu": {
+    "tdb": [
+      "tdb/FePu-01Kur.tdb",
+      "tdb/FePu-04Tur.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Rh": {
+    "tdb": [
+      "tdb/FeRh-09Ohn.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Ru": {
+    "tdb": [
+      "tdb/FeRu-05Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-S": {
+    "tdb": [
+      "tdb/FeS-07Lee.tdb",
+      "tdb/FeS-81Fer.tdb",
+      "tdb/FeS-92Sun-LB.tdb",
+      "tdb/FeS-92Sun-newS.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Sb": {
+    "tdb": [
+      "tdb/FeSb-08Boa.tdb",
+      "tdb/FeSb-14Li.tdb",
+      "tdb/FeSb-95Pei-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Sc": {
+    "tdb": [
+      "tdb/FeSc-08GTT.tdb",
+      "tdb/FeSc-08Liu.tdb",
+      "tdb/FeSc-16Xu.tdb"
+    ],
+    "pdf": [
+      "pdf/FeSc-16Xu.pdf"
+    ],
+    "diagram": []
+  },
+  "Fe-Si": {
+    "tdb": [
+      "tdb/FeSi-12Ohn.tdb",
+      "tdb/FeSi-14Yua.tdb",
+      "tdb/FeSi-17Cui.tdb",
+      "tdb/FeSi-23Wit.tdb",
+      "tdb/FeSi-91Lac-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Sm": {
+    "tdb": [
+      "tdb/FeSm-02Zin.tdb",
+      "tdb/FeSm-17Che.tdb"
+    ],
+    "pdf": [
+      "pdf/FeSm-17Che.pdf"
+    ],
+    "diagram": []
+  },
+  "Fe-Sn": {
+    "tdb": [
+      "tdb/FeSn-10Hua.tdb",
+      "tdb/FeSn-20Laf.tdb",
+      "tdb/FeSn-96Har-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Sr": {
+    "tdb": [
+      "tdb/FeSr-11Pen.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Ta": {
+    "tdb": [
+      "tdb/FeTa-03Dan.tdb",
+      "tdb/FeTa-11Wit.tdb",
+      "tdb/FeTa-15Raj.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Tb": {
+    "tdb": [
+      "tdb/FeTb-17Ron.tdb",
+      "tdb/FeTb-23Ye.tdb",
+      "tdb/FeTb-94Lan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Te": {
+    "tdb": [
+      "tdb/FeTe-18Arv.tdb",
+      "tdb/FeTe-19Arv.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Th": {
+    "tdb": [
+      "tdb/FeTh-08Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Ti": {
+    "tdb": [
+      "tdb/FeTi-09Key.tdb",
+      "tdb/FeTi-11Wan.tdb",
+      "tdb/FeTi-12Bo.tdb",
+      "tdb/FeTi-12Guo.tdb",
+      "tdb/FeTi-19Wit.tdb",
+      "tdb/FeTi-21San.tdb",
+      "tdb/FeTi-21Zha.tdb",
+      "tdb/FeTi-22Kri.tdb",
+      "tdb/FeTi-23Wal-3g.tdb",
+      "tdb/FeTi-24Lia.tdb",
+      "tdb/FeTi-89Bal.tdb",
+      "tdb/FeTi-94Har.tdb",
+      "tdb/FeTi-98Dum.tdb",
+      "tdb/FeTi-98Har-LB.tdb",
+      "tdb/FeTi-98Jon.tdb",
+      "tdb/FeTi-98Ran.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Tm": {
+    "tdb": [
+      "tdb/FeTm-14Kar.tdb",
+      "tdb/FeTm-19Xu.tdb"
+    ],
+    "pdf": [
+      "pdf/FeTm-19Xu.pdf"
+    ],
+    "diagram": []
+  },
+  "Fe-U": {
+    "tdb": [
+      "tdb/FeU-03Cha.tdb",
+      "tdb/FeU-10Kur.tdb",
+      "tdb/FeU-23Jia.tdb",
+      "tdb/FeU-98Kur.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-V": {
+    "tdb": [
+      "tdb/FeV-12Guo.tdb",
+      "tdb/FeV-23Pan.tdb",
+      "tdb/FeV-83And.tdb",
+      "tdb/FeV-91Har.tdb",
+      "tdb/FeV-91Hua-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-W": {
+    "tdb": [
+      "tdb/FeW-15Jac-phonon.tdb",
+      "tdb/FeW-15Jac-static.tdb",
+      "tdb/FeW-87Gus-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Y": {
+    "tdb": [
+      "tdb/FeY-14Kar.tdb",
+      "tdb/FeY-17Sae.tdb",
+      "tdb/FeY-21Fan.tdb",
+      "tdb/FeY-23Ye.tdb",
+      "tdb/FeY-97Du.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Zn": {
+    "tdb": [
+      "tdb/FeZn-00Reu-LB.tdb",
+      "tdb/FeZn-01Su.tdb",
+      "tdb/FeZn-05Su.tdb",
+      "tdb/FeZn-09Xio.tdb",
+      "tdb/FeZn-11Tan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Fe-Zr": {
+    "tdb": [
+      "tdb/FeZr-01Jia.tdb",
+      "tdb/FeZr-03Che-LB.tdb",
+      "tdb/FeZr-08Guo.tdb",
+      "tdb/FeZr-09Rig.tdb",
+      "tdb/FeZr-13Yan.tdb",
+      "tdb/FeZr-17Gie.tdb",
+      "tdb/FeZr-17Lu.tdb",
+      "tdb/FeZr-19Sae.tdb",
+      "tdb/FeZr-20Laf.tdb",
+      "tdb/FeZr-21Du.tdb",
+      "tdb/FeZr-22Jia.tdb",
+      "tdb/FeZr-95Ser.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Gd": {
+    "tdb": [
+      "tdb/GaGd-19Liu.tdb",
+      "tdb/GaGd-20Ait.tdb",
+      "tdb/GaGd-23Tam.tdb"
+    ],
+    "pdf": [
+      "pdf/GaGd-23Tam.pdf"
+    ],
+    "diagram": []
+  },
+  "Ga-Ge": {
+    "tdb": [
+      "tdb/GaGe-79Ans-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Hg": {
+    "tdb": [
+      "tdb/GaHg-09Fen.tdb",
+      "tdb/GaHg-91Ans-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Ho": {
+    "tdb": [
+      "tdb/GaHo-20Ait.tdb"
+    ],
+    "pdf": [
+      "pdf/GaHo-20Ait.pdf"
+    ],
+    "diagram": []
+  },
+  "Ga-In": {
+    "tdb": [
+      "tdb/GaIn-78Ans.tdb",
+      "tdb/GaIn-90Rug-LB.tdb",
+      "tdb/GaIn-91And.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-La": {
+    "tdb": [
+      "tdb/GaLa-11Idb.tdb",
+      "tdb/GaLa-22Bou.tdb"
+    ],
+    "pdf": [
+      "pdf/GaLa-22Bou.pdf"
+    ],
+    "diagram": []
+  },
+  "Ga-Li": {
+    "tdb": [
+      "tdb/GaLi-03Yua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Lu": {
+    "tdb": [
+      "tdb/GaLu-22Ait-RK.tdb",
+      "tdb/GaLu-22Ait-ass.tdb"
+    ],
+    "pdf": [
+      "pdf/GaLu-22Ait-RK.pdf"
+    ],
+    "diagram": []
+  },
+  "Ga-Mg": {
+    "tdb": [
+      "tdb/GaMg-05Fra-LB.tdb",
+      "tdb/GaMg-09Fen.tdb",
+      "tdb/GaMg-10Men.tdb",
+      "tdb/GaMg-91Not.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-N": {
+    "tdb": [
+      "tdb/GaN-03Unl.tdb",
+      "tdb/GaN-98Dav.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Na": {
+    "tdb": [
+      "tdb/GaNa-07Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Nb": {
+    "tdb": [
+      "tdb/GaNb-23Tam.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Ni": {
+    "tdb": [
+      "tdb/GaNi-15Cao.tdb",
+      "tdb/GaNi-99Gro.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-O": {
+    "tdb": [
+      "tdb/GaO-04Zin.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-P": {
+    "tdb": [
+      "tdb/GaP-94Ans-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Pb": {
+    "tdb": [
+      "tdb/GaPb-91Ans-LB.tdb",
+      "tdb/GaPb-96Mat.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Pd": {
+    "tdb": [
+      "tdb/GaPd-99Gro.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Pr": {
+    "tdb": [
+      "tdb/GaPr-22Bou.tdb"
+    ],
+    "pdf": [
+      "pdf/GaPr-22Bou.pdf"
+    ],
+    "diagram": []
+  },
+  "Ga-Pt": {
+    "tdb": [
+      "tdb/GaPt-06Li.tdb",
+      "tdb/GaPt-09Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Pu": {
+    "tdb": [
+      "tdb/GaPu-04Tur.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Sb": {
+    "tdb": [
+      "tdb/GaSb-94Ans-LB.tdb",
+      "tdb/GaSb-97Xie.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Sc": {
+    "tdb": [
+      "tdb/GaSc-08Jun.tdb"
+    ],
+    "pdf": [
+      "pdf/GaSc-Jun.pdf"
+    ],
+    "diagram": []
+  },
+  "Ga-Se": {
+    "tdb": [
+      "tdb/GaSe-08Zhe.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Si": {
+    "tdb": [
+      "tdb/GaSi-05Fra-LB.tdb",
+      "tdb/GaSi-85Ole.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Sn": {
+    "tdb": [
+      "tdb/GaSn-79Ans.tdb",
+      "tdb/GaSn-92And-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Sr": {
+    "tdb": [
+      "tdb/GaSr-13Li.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Tb": {
+    "tdb": [
+      "tdb/GaTb-08Jun.tdb"
+    ],
+    "pdf": [
+      "pdf/GaTb-Jun.pdf"
+    ],
+    "diagram": []
+  },
+  "Ga-Te": {
+    "tdb": [
+      "tdb/GaTe-20Liu.tdb",
+      "tdb/GaTe-22Yu.tdb",
+      "tdb/GaTe-92Oh-LB.tdb",
+      "tdb/GaTe-92Oh-orig.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Ti": {
+    "tdb": [
+      "tdb/GaTi-03Li-LB.tdb",
+      "tdb/GaTi-13Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Tl": {
+    "tdb": [
+      "tdb/GaTl-17Kim.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-U": {
+    "tdb": [
+      "tdb/GaU-08Wan.tdb",
+      "tdb/GaU-18Mou.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-V": {
+    "tdb": [
+      "tdb/GaV-15Lin.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Y": {
+    "tdb": [
+      "tdb/GaY-13Idb.tdb"
+    ],
+    "pdf": [
+      "pdf/GaY-13ldb.pdf"
+    ],
+    "diagram": []
+  },
+  "Ga-Zn": {
+    "tdb": [
+      "tdb/GaZn-00Mat.tdb",
+      "tdb/GaZn-90Dut-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ga-Zr": {
+    "tdb": [
+      "tdb/GaZr-14Luo.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Gd-Ge": {
+    "tdb": [
+      "tdb/GdGe-08Che.tdb"
+    ],
+    "pdf": [
+      "pdf/GdGe-08Che.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-H": {
+    "tdb": [
+      "tdb/GdH-16Fu.tdb"
+    ],
+    "pdf": [
+      "pdf/GdH-16Fu.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Li": {
+    "tdb": [
+      "tdb/GdLi-01Kev-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/GdLi-01Kev-LB.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Mg": {
+    "tdb": [
+      "tdb/GdMg-03Cac-LB.tdb",
+      "tdb/GdMg-07Guo.tdb",
+      "tdb/GdMg-13Ham.tdb",
+      "tdb/GdMg-20Wu.tdb",
+      "tdb/GdMg-23Lon.tdb"
+    ],
+    "pdf": [
+      "pdf/GdMg-03Cac.pdf",
+      "pdf/GdMg-23Lon.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Mn": {
+    "tdb": [
+      "tdb/GdMn-01Gro-LB.tdb",
+      "tdb/GdMn-17Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/GdMn-17Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Mo": {
+    "tdb": [
+      "tdb/GdMo-01Zin-LB.tdb",
+      "tdb/GdMo-02Zin.tdb"
+    ],
+    "pdf": [
+      "pdf/GdMo-02zin.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Nb": {
+    "tdb": [
+      "tdb/GdNb-23Tam.tdb"
+    ],
+    "pdf": [
+      "pdf/GdNb-23Tam.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Ni": {
+    "tdb": [
+      "tdb/GdNi-15Rah.tdb",
+      "tdb/GdNi-96Su-oldGd.tdb",
+      "tdb/GdNi-96Su.tdb"
+    ],
+    "pdf": [
+      "pdf/GdNi-15Rah.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-O": {
+    "tdb": [
+      "tdb/GdO-14McM.tdb",
+      "tdb/GdO-23Nak.tdb"
+    ],
+    "pdf": [
+      "pdf/GdO-23Nak.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Pb": {
+    "tdb": [
+      "tdb/GdPb-13Cui.tdb",
+      "tdb/GdPb-14Idd.tdb"
+    ],
+    "pdf": [
+      "pdf/GdPb-14ldd.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Pd": {
+    "tdb": [
+      "tdb/GdPd-00Du.tdb"
+    ],
+    "pdf": [
+      "pdf/GdPd-00Du.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Ru": {
+    "tdb": [
+      "tdb/GdRu-23Kar.tdb"
+    ],
+    "pdf": [
+      "pdf/GdRu-23Kar.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Sb": {
+    "tdb": [
+      "tdb/GdSb-07Li.tdb"
+    ],
+    "pdf": [
+      "pdf/GdSb-07Li.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Sc": {
+    "tdb": [
+      "tdb/GdSc-00Nor.tdb",
+      "tdb/GdSc-15Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/GdSc-15Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Si": {
+    "tdb": [
+      "tdb/GdSi-07Hua.tdb"
+    ],
+    "pdf": [
+      "pdf/GdSi-07Hua.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Sm": {
+    "tdb": [
+      "tdb/GdSm-10Guo.tdb"
+    ],
+    "pdf": [
+      "pdf/GdSm-10Guo.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Sr": {
+    "tdb": [
+      "tdb/GdSr-23Lon.tdb"
+    ],
+    "pdf": [
+      "pdf/GdSr-23Lon.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Te": {
+    "tdb": [
+      "tdb/GdTe-23Cui.tdb"
+    ],
+    "pdf": [
+      "pdf/GdTe-23Cui.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Ti": {
+    "tdb": [
+      "tdb/GdTi-13Mat.tdb"
+    ],
+    "pdf": [
+      "pdf/GdTi-13Mat.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Tl": {
+    "tdb": [
+      "tdb/GdTl-10Guo.tdb"
+    ],
+    "pdf": [
+      "pdf/GdTl-10Guo.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-W": {
+    "tdb": [
+      "tdb/GdW-00Kri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Gd-Y": {
+    "tdb": [
+      "tdb/GdY-07Guo.tdb",
+      "tdb/GdY-10Gro.tdb"
+    ],
+    "pdf": [
+      "pdf/GdY-10Gro.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Zn": {
+    "tdb": [
+      "tdb/GdZn-15Gro.tdb"
+    ],
+    "pdf": [
+      "pdf/GdZn-15Gro.pdf"
+    ],
+    "diagram": []
+  },
+  "Gd-Zr": {
+    "tdb": [
+      "tdb/GdZr-01Zin-LB.tdb",
+      "tdb/GdZr-12Mat.tdb",
+      "tdb/GdZr-14Bo.tdb",
+      "tdb/GdZr-18Mat.tdb"
+    ],
+    "pdf": [
+      "pdf/GdZr-14Bo.pdf",
+      "pdf/GdZr-18Mat.pdf"
+    ],
+    "diagram": []
+  },
+  "Ge-Hf": {
+    "tdb": [
+      "tdb/GeHf-14Tan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-In": {
+    "tdb": [
+      "tdb/GeIn-89Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-K": {
+    "tdb": [
+      "tdb/GeK-12Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Li": {
+    "tdb": [
+      "tdb/GeLi-18Wan.tdb",
+      "tdb/GeLi-22Gie.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Lu": {
+    "tdb": [
+      "tdb/GeLu-18Ach.tdb"
+    ],
+    "pdf": [
+      "pdf/GeLu-18Ach.pdf"
+    ],
+    "diagram": []
+  },
+  "Ge-Mg": {
+    "tdb": [
+      "tdb/GeMg-06Isl.tdb",
+      "tdb/GeMg-10Yan-1.tdb",
+      "tdb/GeMg-10Yan-2.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Mn": {
+    "tdb": [
+      "tdb/GeMn-14Ber.tdb",
+      "tdb/GeMn-15Ber.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Na": {
+    "tdb": [
+      "tdb/GeNa-12Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Nb": {
+    "tdb": [
+      "tdb/GeNb-11Gen.tdb",
+      "tdb/GeNb-17Utt.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Ni": {
+    "tdb": [
+      "tdb/GeNi-10Liu.tdb",
+      "tdb/GeNi-12Jin.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-O": {
+    "tdb": [
+      "tdb/GeO-15Din.tdb",
+      "tdb/GeO-21Baj-3g.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-P": {
+    "tdb": [
+      "tdb/GeP-21Don.tdb",
+      "tdb/GeP-22Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Pb": {
+    "tdb": [
+      "tdb/GePb-89Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Pt": {
+    "tdb": [
+      "tdb/GePt-09Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Ru": {
+    "tdb": [
+      "tdb/GeRu-09Lon.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-S": {
+    "tdb": [
+      "tdb/GeS-22Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Sb": {
+    "tdb": [
+      "tdb/GeSb-09Wan.tdb",
+      "tdb/GeSb-11Liu.tdb",
+      "tdb/GeSb-89Che-LB.tdb",
+      "tdb/GeSb-99Sch.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Sc": {
+    "tdb": [
+      "tdb/GeSc-12Che.tdb"
+    ],
+    "pdf": [
+      "pdf/GeSc-12Che.pdf"
+    ],
+    "diagram": []
+  },
+  "Ge-Se": {
+    "tdb": [
+      "tdb/GeSe-22Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Si": {
+    "tdb": [
+      "tdb/GeSi-84Ole.tdb",
+      "tdb/GeSi-92Ber-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Sn": {
+    "tdb": [
+      "tdb/GeSn-79Ans.tdb",
+      "tdb/GeSn-96Feu-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Sr": {
+    "tdb": [
+      "tdb/GeSr-09Du.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Ta": {
+    "tdb": [
+      "tdb/GeTa-24Pin.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Te": {
+    "tdb": [
+      "tdb/GeTe-99Sch-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Ti": {
+    "tdb": [
+      "tdb/GeTi-11Liu.tdb",
+      "tdb/GeTi-23Zob.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Tl": {
+    "tdb": [
+      "tdb/GeTl-89Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Tm": {
+    "tdb": [
+      "tdb/GeTm-18Ach.tdb"
+    ],
+    "pdf": [
+      "pdf/GeTm-18Ach.pdf"
+    ],
+    "diagram": []
+  },
+  "Ge-V": {
+    "tdb": [
+      "tdb/GeV-08Wan.tdb",
+      "tdb/GeV-11Yua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Y": {
+    "tdb": [
+      "tdb/GeY-13Idb.tdb"
+    ],
+    "pdf": [
+      "pdf/GeY-12ldb.pdf"
+    ],
+    "diagram": []
+  },
+  "Ge-Yb": {
+    "tdb": [
+      "tdb/GeYb-18Ach.tdb",
+      "tdb/GeYb-18Zhu.tdb"
+    ],
+    "pdf": [
+      "pdf/GeYb-18Ach.pdf"
+    ],
+    "diagram": []
+  },
+  "Ge-Zn": {
+    "tdb": [
+      "tdb/GeZn-03Che-LB.tdb",
+      "tdb/GeZn-89Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ge-Zr": {
+    "tdb": [
+      "tdb/GeZr-11Sha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "H-La": {
+    "tdb": [
+      "tdb/LaH-09Pal.tdb"
+    ],
+    "pdf": [
+      "pdf/LaH-09Pal.pdf"
+    ],
+    "diagram": []
+  },
+  "H-Li": {
+    "tdb": [
+      "tdb/LiH-12Wan.tdb",
+      "tdb/LiH-17Lia.tdb",
+      "tdb/LiH-93Pel.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "H-Mg": {
+    "tdb": [
+      "tdb/MgH-07Pal.tdb",
+      "tdb/MgH-99Zen.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "H-Mn": {
+    "tdb": [
+      "tdb/MnH-11Lob.tdb",
+      "tdb/MnH-18Lia.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "H-Na": {
+    "tdb": [
+      "tdb/NaH-06Qiu.tdb",
+      "tdb/NaH-93Pel.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "H-Nb": {
+    "tdb": [
+      "tdb/NbH-23Dot.tdb",
+      "tdb/NbH-97Ans-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "H-Nd": {
+    "tdb": [
+      "tdb/NdH-15Luo.tdb"
+    ],
+    "pdf": [
+      "pdf/NdH-15Luo.pdf"
+    ],
+    "diagram": []
+  },
+  "H-Ni": {
+    "tdb": [
+      "tdb/NiH-09Pal.tdb",
+      "tdb/NiH-99Zen.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "H-O": {
+    "tdb": [
+      "tdb/HO-97SUB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "H-Pd": {
+    "tdb": [
+      "tdb/PdH-07Hua.tdb",
+      "tdb/PdH-09Jou.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "H-Rh": {
+    "tdb": [
+      "tdb/RhH-10Jou.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "H-Sm": {
+    "tdb": [
+      "tdb/SmH-02Zin.tdb"
+    ],
+    "pdf": [
+      "pdf/SmH-02Zin.pdf"
+    ],
+    "diagram": []
+  },
+  "H-Sr": {
+    "tdb": [
+      "tdb/SrH-12Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "H-Ti": {
+    "tdb": [
+      "tdb/TiH-00Koe.tdb",
+      "tdb/TiH-07Uki.tdb",
+      "tdb/TiH-08Qiu.tdb",
+      "tdb/TiH-10Wan.tdb",
+      "tdb/TiH-87Kiv.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "H-V": {
+    "tdb": [
+      "tdb/VH-08Uki.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "H-Y": {
+    "tdb": [
+      "tdb/YH-18Fu.tdb",
+      "tdb/YH-20Pen.tdb"
+    ],
+    "pdf": [
+      "pdf/YH-20Pen.pdf"
+    ],
+    "diagram": []
+  },
+  "H-Zr": {
+    "tdb": [
+      "tdb/ZrH-00Koe.tdb",
+      "tdb/ZrH-07Uki.tdb",
+      "tdb/ZrH-12Zho.tdb",
+      "tdb/ZrH-97Ans-LB.tdb",
+      "tdb/ZrH-99Dup.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hf-Ir": {
+    "tdb": [
+      "tdb/HfIr-18Idb.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hf-Mn": {
+    "tdb": [
+      "tdb/HfMn-12Zho.tdb",
+      "tdb/HfMn-24Bro.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hf-Mo": {
+    "tdb": [
+      "tdb/HfMo-02Sha-LB.tdb",
+      "tdb/HfMo-20Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hf-N": {
+    "tdb": [
+      "tdb/HfN-18Pan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hf-Nb": {
+    "tdb": [
+      "tdb/HfNb-02Gho.tdb",
+      "tdb/HfNb-96Fer-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hf-Ni": {
+    "tdb": [
+      "tdb/HfNi-01Wan-LB.tdb",
+      "tdb/HfNi-08Zha.tdb",
+      "tdb/HfNi-11Cac.tdb",
+      "tdb/HfNi-18Ros.tdb",
+      "tdb/HfNi-75Kau.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hf-O": {
+    "tdb": [
+      "tdb/HfO-06Shi.tdb",
+      "tdb/HfO-06Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hf-Os": {
+    "tdb": [
+      "tdb/HfOs-06Guo.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hf-Pt": {
+    "tdb": [
+      "tdb/HfPt-18Yan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hf-Ru": {
+    "tdb": [
+      "tdb/HfRu-21Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hf-Si": {
+    "tdb": [
+      "tdb/HfSi-00Zha-LB.tdb",
+      "tdb/HfSi-03Yan.tdb",
+      "tdb/HfSi-19Hon.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hf-Sn": {
+    "tdb": [
+      "tdb/HfSn-12Tan.tdb",
+      "tdb/HfSn-16Ber.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hf-Ta": {
+    "tdb": [
+      "tdb/HfTa-95Fer-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hf-Ti": {
+    "tdb": [
+      "tdb/HfTi-97Bit-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hf-V": {
+    "tdb": [
+      "tdb/HfV-05Ser.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hf-W": {
+    "tdb": [
+      "tdb/HfW-02Sha-LB.tdb",
+      "tdb/HfW-12Lie.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hf-Zr": {
+    "tdb": [
+      "tdb/HfZr-02Bit.tdb",
+      "tdb/HfZr-15Hu.tdb",
+      "tdb/HfZr-96Lin.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hg-In": {
+    "tdb": [
+      "tdb/HgIn-09Gie.tdb",
+      "tdb/HgIn-98Han.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hg-Mg": {
+    "tdb": [
+      "tdb/HgMg-09Fen.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hg-Pb": {
+    "tdb": [
+      "tdb/HgPb-02Mai-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hg-Sn": {
+    "tdb": [
+      "tdb/HgSn-03Yen-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hg-Te": {
+    "tdb": [
+      "tdb/HgTe-10Gie.tdb",
+      "tdb/HgTe-95Yan-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hg-Tl": {
+    "tdb": [
+      "tdb/HgTl-06Gie.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Hg-Zn": {
+    "tdb": [
+      "tdb/HgZn-98Han-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ho-Mg": {
+    "tdb": [
+      "tdb/HoMg-03Cac-LB.tdb",
+      "tdb/HoMg-13Tok.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ho-Mn": {
+    "tdb": [
+      "tdb/HoMn-09Wan.tdb",
+      "tdb/HoMn-19Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/HoMn-19Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Ho-Mo": {
+    "tdb": [
+      "tdb/HoMo-09Wan-newHo.tdb",
+      "tdb/HoMo-09Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/HoMo-09Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Ho-Ni": {
+    "tdb": [
+      "tdb/HoNi-15Kar.tdb",
+      "tdb/HoNi-23Ye.tdb"
+    ],
+    "pdf": [
+      "pdf/HoNi-23Ye.pdf"
+    ],
+    "diagram": []
+  },
+  "Ho-O": {
+    "tdb": [
+      "tdb/HoO-23Nak.tdb"
+    ],
+    "pdf": [
+      "pdf/HoO-23Nak.pdf"
+    ],
+    "diagram": []
+  },
+  "Ho-Pd": {
+    "tdb": [
+      "tdb/HoPd-00Du.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ho-Sb": {
+    "tdb": [
+      "tdb/HoSb-12Liu.tdb",
+      "tdb/HoSb-13Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/HoSb-13Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Ho-Sn": {
+    "tdb": [
+      "tdb/HoSn-14Idd.tdb"
+    ],
+    "pdf": [
+      "pdf/HoSn-14ldd.pdf"
+    ],
+    "diagram": []
+  },
+  "Ho-Tb": {
+    "tdb": [
+      "tdb/HoTb-00Nor-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/HoTb-00Nor.pdf"
+    ],
+    "diagram": []
+  },
+  "Ho-Te": {
+    "tdb": [
+      "tdb/HoTe-13Gha.tdb",
+      "tdb/HoTe-23Cui.tdb"
+    ],
+    "pdf": [
+      "pdf/HoTe-23Cui.pdf"
+    ],
+    "diagram": []
+  },
+  "Ho-V": {
+    "tdb": [
+      "tdb/HoV-09Wan-newHo.tdb",
+      "tdb/HoV-09Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/HoV-09Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Ho-W": {
+    "tdb": [
+      "tdb/HoW-00Kri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ho-Zn": {
+    "tdb": [
+      "tdb/HoZn-19Fre.tdb"
+    ],
+    "pdf": [
+      "pdf/HoZn-19Fre.pdf"
+    ],
+    "diagram": []
+  },
+  "In-Ir": {
+    "tdb": [
+      "tdb/InIr-11Ser.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-La": {
+    "tdb": [
+      "tdb/InLa-02Wei-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/InLa-02Wei-LB.pdf"
+    ],
+    "diagram": []
+  },
+  "In-Li": {
+    "tdb": [
+      "tdb/InLi-20Zho.tdb",
+      "tdb/InLi-22Gie.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-Mn": {
+    "tdb": [
+      "tdb/InMn-15Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-N": {
+    "tdb": [
+      "tdb/InN-02Ond.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-Na": {
+    "tdb": [
+      "tdb/InNa-13Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-Ni": {
+    "tdb": [
+      "tdb/InNi-13Cao.tdb",
+      "tdb/InNi-18Dor.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-O": {
+    "tdb": [
+      "tdb/InO-06Iso.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-P": {
+    "tdb": [
+      "tdb/InP-94Ans-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-Pb": {
+    "tdb": [
+      "tdb/InPb-04Dav.tdb",
+      "tdb/InPb-86Nab.tdb",
+      "tdb/InPb-98Boa-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-Pd": {
+    "tdb": [
+      "tdb/InPd-02Jia-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-Pt": {
+    "tdb": [
+      "tdb/InPt-09Lia.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-S": {
+    "tdb": [
+      "tdb/InS-21Shi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-Sb": {
+    "tdb": [
+      "tdb/InSb-03Liu.tdb",
+      "tdb/InSb-13Cao.tdb",
+      "tdb/InSb-19Gie.tdb",
+      "tdb/InSb-94Ans-LB.tdb",
+      "tdb/InSb-97Xie.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-Sc": {
+    "tdb": [
+      "tdb/InSc-18Hu.tdb"
+    ],
+    "pdf": [
+      "pdf/InSc-18Hu.pdf"
+    ],
+    "diagram": []
+  },
+  "In-Se": {
+    "tdb": [
+      "tdb/InSe-03Li.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-Si": {
+    "tdb": [
+      "tdb/InSi-85Ole-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-Sn": {
+    "tdb": [
+      "tdb/InSn-03Moe.tdb",
+      "tdb/InSn-04Dav.tdb",
+      "tdb/InSn-96Lee.tdb",
+      "tdb/InSn-98Kor.tdb",
+      "tdb/InSn-99Ans-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-Sr": {
+    "tdb": [
+      "tdb/InSr-14Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-Te": {
+    "tdb": [
+      "tdb/InTe-93Oh.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-V": {
+    "tdb": [
+      "tdb/InV-85Smi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "In-Y": {
+    "tdb": [
+      "tdb/InY-18Hu.tdb"
+    ],
+    "pdf": [
+      "pdf/InY-18Hu.pdf"
+    ],
+    "diagram": []
+  },
+  "In-Yb": {
+    "tdb": [
+      "tdb/InYb-11Gao.tdb"
+    ],
+    "pdf": [
+      "pdf/InYb-11Gao.pdf"
+    ],
+    "diagram": []
+  },
+  "In-Zn": {
+    "tdb": [
+      "tdb/InZn-96Lee-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ir-Mo": {
+    "tdb": [
+      "tdb/IrMo-20Hua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ir-Ni": {
+    "tdb": [
+      "tdb/IrNi-04Kor-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ir-Pd": {
+    "tdb": [
+      "tdb/IrPd-98Spe-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ir-Pt": {
+    "tdb": [
+      "tdb/IrPt-06Jan-LB.tdb",
+      "tdb/IrPt-09Yam.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ir-Rh": {
+    "tdb": [
+      "tdb/IrRh-06Jan-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ir-Ru": {
+    "tdb": [
+      "tdb/IrRu-06Jan-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ir-Ti": {
+    "tdb": [
+      "tdb/IrTi-14Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ir-W": {
+    "tdb": [
+      "tdb/IrW-20Hua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ir-Zr": {
+    "tdb": [
+      "tdb/IrZr-06Ran-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "K-Na": {
+    "tdb": [
+      "tdb/KNa-06Zha.tdb",
+      "tdb/KNa-11Ren.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "K-Rb": {
+    "tdb": [
+      "tdb/KRb-11Ren.tdb",
+      "tdb/KRb-85Pot-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "K-Sb": {
+    "tdb": [
+      "tdb/KSb-13Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "K-Te": {
+    "tdb": [
+      "tdb/KTe-14Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "K-V": {
+    "tdb": [
+      "tdb/KV-15Hu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "K-Zr": {
+    "tdb": [
+      "tdb/KZr-15Hu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "La-Mg": {
+    "tdb": [
+      "tdb/LaMg-04Guo-LB.tdb",
+      "tdb/LaMg-10Guo.tdb",
+      "tdb/LaMg-11Ber.tdb",
+      "tdb/LaMg-12Gro.tdb",
+      "tdb/LaMg-16Zha.tdb",
+      "tdb/LaMg-18Zhu.tdb"
+    ],
+    "pdf": [
+      "pdf/LaMg-18Zhu.pdf"
+    ],
+    "diagram": []
+  },
+  "La-Mn": {
+    "tdb": [
+      "tdb/LaMn-12Wan.tdb",
+      "tdb/LaMn-16Zhu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "La-Mo": {
+    "tdb": [
+      "tdb/LaMo-08Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/LaMo-08Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "La-Nd": {
+    "tdb": [
+      "tdb/LaNd-19Yan.tdb"
+    ],
+    "pdf": [
+      "pdf/LaNd-19Yan.pdf"
+    ],
+    "diagram": []
+  },
+  "La-Ni": {
+    "tdb": [
+      "tdb/LaNi-00Dis.tdb",
+      "tdb/LaNi-00Liu-LB.tdb",
+      "tdb/LaNi-13An.tdb",
+      "tdb/LaNi-23Ye.tdb",
+      "tdb/LaNi-98Du.tdb"
+    ],
+    "pdf": [
+      "pdf/LaNi-23Ye.pdf"
+    ],
+    "diagram": []
+  },
+  "La-O": {
+    "tdb": [
+      "tdb/LaO-01Gru.tdb",
+      "tdb/LaO-05Che.tdb",
+      "tdb/LaO-07Zin.tdb",
+      "tdb/LaO-23Nak.tdb"
+    ],
+    "pdf": [
+      "pdf/LaO-23Nak.pdf"
+    ],
+    "diagram": []
+  },
+  "La-Pb": {
+    "tdb": [
+      "tdb/LaPb-09Idb.tdb"
+    ],
+    "pdf": [
+      "pdf/LaPb-09ldb.pdf"
+    ],
+    "diagram": []
+  },
+  "La-Pr": {
+    "tdb": [
+      "tdb/LaPr-21Su.tdb"
+    ],
+    "pdf": [
+      "pdf/LaPr-21Su.pdf"
+    ],
+    "diagram": []
+  },
+  "La-Pt": {
+    "tdb": [
+      "tdb/LaPt-06Rei.tdb"
+    ],
+    "pdf": [
+      "pdf/LaPt-06Rei.pdf"
+    ],
+    "diagram": []
+  },
+  "La-Pu": {
+    "tdb": [
+      "tdb/LaPu-14Liu.tdb"
+    ],
+    "pdf": [
+      "pdf/LaPu-14Liu.pdf"
+    ],
+    "diagram": []
+  },
+  "La-Sb": {
+    "tdb": [
+      "tdb/LaSb-12Gao.tdb",
+      "tdb/LaSb-13Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/LaSb-13Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "La-Sc": {
+    "tdb": [
+      "tdb/LaSc-12Bu.tdb"
+    ],
+    "pdf": [
+      "pdf/LaSc-12Bu.pdf"
+    ],
+    "diagram": []
+  },
+  "La-Si": {
+    "tdb": [
+      "tdb/LaSi-10Zho.tdb",
+      "tdb/LaSi-20Xu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "La-Sn": {
+    "tdb": [
+      "tdb/LaSn-00Hua.tdb",
+      "tdb/LaSn-09Idb.tdb",
+      "tdb/LaSn-19Li-ass.tdb",
+      "tdb/LaSn-19Li-sub.tdb"
+    ],
+    "pdf": [
+      "pdf/LaSn-19Li.pdf"
+    ],
+    "diagram": []
+  },
+  "La-Te": {
+    "tdb": [
+      "tdb/LaTe-18Hu.tdb"
+    ],
+    "pdf": [
+      "pdf/LaTe-18Hu.pdf"
+    ],
+    "diagram": []
+  },
+  "La-Ti": {
+    "tdb": [
+      "tdb/LaTi-16Mat.tdb"
+    ],
+    "pdf": [
+      "pdf/LaTi-16Mat.pdf"
+    ],
+    "diagram": []
+  },
+  "La-V": {
+    "tdb": [
+      "tdb/LaV-10Cha.tdb"
+    ],
+    "pdf": [
+      "pdf/LaV-10Cha.pdf"
+    ],
+    "diagram": []
+  },
+  "La-W": {
+    "tdb": [
+      "tdb/LaW-00Kri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "La-Y": {
+    "tdb": [
+      "tdb/LaY-23Wu.tdb"
+    ],
+    "pdf": [
+      "pdf/LaY-23Wu.pdf"
+    ],
+    "diagram": []
+  },
+  "La-Zn": {
+    "tdb": [
+      "tdb/LaZn-10Qi.tdb",
+      "tdb/LaZn-12Ber.tdb"
+    ],
+    "pdf": [
+      "pdf/LaZn-12Ber.pdf"
+    ],
+    "diagram": []
+  },
+  "La-Zr": {
+    "tdb": [
+      "tdb/LaZr-06Hal.tdb",
+      "tdb/LaZr-16Mat.tdb",
+      "tdb/LaZr-18Zhu.tdb"
+    ],
+    "pdf": [
+      "pdf/LaZr-18Zhu.pdf"
+    ],
+    "diagram": []
+  },
+  "Li-Mg": {
+    "tdb": [
+      "tdb/LiMg-00Bra.tdb",
+      "tdb/LiMg-11Wan.tdb",
+      "tdb/LiMg-90Sau-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Li-Mn": {
+    "tdb": [
+      "tdb/LiMn-18Lon.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Li-N": {
+    "tdb": [
+      "tdb/LiN-05Fra-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Li-Na": {
+    "tdb": [
+      "tdb/LiNa-03Zha-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Li-Ni": {
+    "tdb": [
+      "tdb/LiNi-15Lon.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Li-O": {
+    "tdb": [
+      "tdb/LiO-11Cha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Li-Pb": {
+    "tdb": [
+      "tdb/LiPb-16Zho.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Li-Sb": {
+    "tdb": [
+      "tdb/LiSb-17Li.tdb",
+      "tdb/LiSb-17Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Li-Sc": {
+    "tdb": [
+      "tdb/LiSc-12Bu.tdb"
+    ],
+    "pdf": [
+      "pdf/LiSc-12Bu.pdf"
+    ],
+    "diagram": []
+  },
+  "Li-Si": {
+    "tdb": [
+      "tdb/LiSi-13Wan.tdb",
+      "tdb/LiSi-14Bra.tdb",
+      "tdb/LiSi-17Lia.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Li-Sn": {
+    "tdb": [
+      "tdb/LiSn-05Yin-LB.tdb",
+      "tdb/LiSn-06Du.tdb",
+      "tdb/LiSn-14Li.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Li-Sr": {
+    "tdb": [
+      "tdb/LiSr-12Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Li-Te": {
+    "tdb": [
+      "tdb/LiTe-22Yu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Li-V": {
+    "tdb": [
+      "tdb/LiV-15Hu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Li-Zn": {
+    "tdb": [
+      "tdb/LiZn-08Lia.tdb",
+      "tdb/LiZn-11Guo.tdb",
+      "tdb/LiZn-24Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Li-Zr": {
+    "tdb": [
+      "tdb/LiZr-15Hu.tdb",
+      "tdb/LiZr-15Lon.tdb",
+      "tdb/LiZr-89Sau-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Lu-Mn": {
+    "tdb": [
+      "tdb/LuMn-24Ye.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Lu-O": {
+    "tdb": [
+      "tdb/LuO-07Zin.tdb"
+    ],
+    "pdf": [
+      "pdf/LuO-07Zin.pdf"
+    ],
+    "diagram": []
+  },
+  "Lu-Pb": {
+    "tdb": [
+      "tdb/LuPb-12Idd.tdb",
+      "tdb/LuPb-13Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/LuPb-11Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Lu-Sb": {
+    "tdb": [
+      "tdb/LuSb-11Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/LuSb-11Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Lu-W": {
+    "tdb": [
+      "tdb/LuW-00Kri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-Mn": {
+    "tdb": [
+      "tdb/MgMn-05Gro.tdb",
+      "tdb/MgMn-98Tib-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-N": {
+    "tdb": [
+      "tdb/MgN-15Hal.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-Na": {
+    "tdb": [
+      "tdb/MgNa-06Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-Nb": {
+    "tdb": [
+      "tdb/MgNb-15Hal.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-Nd": {
+    "tdb": [
+      "tdb/MgNd-05Gor-RK.tdb",
+      "tdb/MgNd-05Gor-ass.tdb",
+      "tdb/MgNd-06Guo.tdb",
+      "tdb/MgNd-07Men.tdb",
+      "tdb/MgNd-08Guo.tdb",
+      "tdb/MgNd-10Niu.tdb",
+      "tdb/MgNd-11Qi.tdb"
+    ],
+    "pdf": [
+      "pdf/MgNd-11Qi.pdf"
+    ],
+    "diagram": []
+  },
+  "Mg-Ni": {
+    "tdb": [
+      "tdb/MgNi-05Isl.tdb",
+      "tdb/MgNi-98Jac-2.tdb",
+      "tdb/MgNi-98Jac-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-O": {
+    "tdb": [
+      "tdb/MgO-18Lia.tdb",
+      "tdb/MgO-23Li.tdb",
+      "tdb/MgO-93Hal-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-Pb": {
+    "tdb": [
+      "tdb/MgPb-14Zha-ass.tdb",
+      "tdb/MgPb-14Zha-sub.tdb",
+      "tdb/MgPb-21Deb.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-Pd": {
+    "tdb": [
+      "tdb/MgPd-24Gie.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-Pr": {
+    "tdb": [
+      "tdb/MgPr-05Guo.tdb",
+      "tdb/MgPr-08Guo.tdb",
+      "tdb/MgPr-15Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/MgPr-15Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Mg-Pu": {
+    "tdb": [
+      "tdb/MgPu-09Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-Ru": {
+    "tdb": [
+      "tdb/MgRu-04Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-S": {
+    "tdb": [
+      "tdb/MgS-16Dil.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-Sb": {
+    "tdb": [
+      "tdb/MgSb-05Bal.tdb",
+      "tdb/MgSb-21Zha.tdb",
+      "tdb/MgSb-87Jon.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-Sc": {
+    "tdb": [
+      "tdb/MgSc-22Wan.tdb",
+      "tdb/MgSc-98Pis-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/MgSc-22Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Mg-Si": {
+    "tdb": [
+      "tdb/MgSi-00Yan-LB.tdb",
+      "tdb/MgSi-04Kev.tdb",
+      "tdb/MgSi-09Yua.tdb",
+      "tdb/MgSi-12Sch.tdb",
+      "tdb/MgSi-16Lia.tdb",
+      "tdb/MgSi-86Lud.tdb",
+      "tdb/MgSi-97Feu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-Sm": {
+    "tdb": [
+      "tdb/MgSm-08Jia.tdb",
+      "tdb/MgSm-10Guo.tdb",
+      "tdb/MgSm-24Jia.tdb"
+    ],
+    "pdf": [
+      "pdf/MgSm-08Jia.pdf",
+      "pdf/MgSm-24Jia.pdf"
+    ],
+    "diagram": []
+  },
+  "Mg-Sn": {
+    "tdb": [
+      "tdb/MgSn-04Fri.tdb",
+      "tdb/MgSn-10Men.tdb",
+      "tdb/MgSn-12Mie.tdb",
+      "tdb/MgSn-21Zha.tdb",
+      "tdb/MgSn-99Mor.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-Sr": {
+    "tdb": [
+      "tdb/MgSr-06Zho.tdb",
+      "tdb/MgSr-07Alj.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-Tb": {
+    "tdb": [
+      "tdb/MgTb-06Guo.tdb"
+    ],
+    "pdf": [
+      "pdf/MgTb-06Guo.pdf"
+    ],
+    "diagram": []
+  },
+  "Mg-Ti": {
+    "tdb": [
+      "tdb/MgTi-86Mur.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-Tl": {
+    "tdb": [
+      "tdb/MgTl-08Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-Tm": {
+    "tdb": [
+      "tdb/MgTm-04Du-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/MgTm-04Du-LB.pdf"
+    ],
+    "diagram": []
+  },
+  "Mg-V": {
+    "tdb": [
+      "tdb/MgV-08GTT.tdb",
+      "tdb/MgV-15Hal.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-Y": {
+    "tdb": [
+      "tdb/MgY-03Fab-LB.tdb",
+      "tdb/MgY-07Guo.tdb",
+      "tdb/MgY-07Men.tdb",
+      "tdb/MgY-20Wu.tdb",
+      "tdb/MgY-98Luk.tdb"
+    ],
+    "pdf": [
+      "pdf/MgY-20Wu.pdf"
+    ],
+    "diagram": []
+  },
+  "Mg-Yb": {
+    "tdb": [
+      "tdb/MgYb-06Guo-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/MgYb-06Guo-LB.pdf"
+    ],
+    "diagram": []
+  },
+  "Mg-Zn": {
+    "tdb": [
+      "tdb/MgZn-10Niu.tdb",
+      "tdb/MgZn-14Yua.tdb",
+      "tdb/MgZn-20Hay.tdb",
+      "tdb/MgZn-22Li.tdb",
+      "tdb/MgZn-92Aga.tdb",
+      "tdb/MgZn-98Lia-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mg-Zr": {
+    "tdb": [
+      "tdb/MgZr-05Arr.tdb",
+      "tdb/MgZr-98Ham-LB.tdb",
+      "tdb/MgZr-98Ham-alt.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Mo": {
+    "tdb": [
+      "tdb/MnMo-95Lee-LB.tdb",
+      "tdb/MnMo-95Lee-mod.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-N": {
+    "tdb": [
+      "tdb/MnN-93Qiu-LB.tdb",
+      "tdb/MnN-93Qiu-mod.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Nb": {
+    "tdb": [
+      "tdb/MnNb-12Liu-alt.tdb",
+      "tdb/MnNb-12Liu.tdb",
+      "tdb/MnNb-21Yan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Nd": {
+    "tdb": [
+      "tdb/MnNd-16Ron.tdb"
+    ],
+    "pdf": [
+      "pdf/MnNd-16Ron.pdf"
+    ],
+    "diagram": []
+  },
+  "Mn-Ni": {
+    "tdb": [
+      "tdb/MnNi-01Mie.tdb",
+      "tdb/MnNi-07Fra-2SL.tdb",
+      "tdb/MnNi-07Fra-no-wildcards.tdb",
+      "tdb/MnNi-07Fra.tdb",
+      "tdb/MnNi-08Liu.tdb",
+      "tdb/MnNi-19Wal-4sl.tdb",
+      "tdb/MnNi-19Wal.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-O": {
+    "tdb": [
+      "tdb/MnO-03Gru-LB.tdb",
+      "tdb/MnO-10Kje.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-P": {
+    "tdb": [
+      "tdb/MnP-01Mie.tdb",
+      "tdb/MnP-07Tok.tdb",
+      "tdb/MnP-14Mie.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Pb": {
+    "tdb": [
+      "tdb/MnPb-03Din-LB.tdb",
+      "tdb/MnPb-87Din.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Pd": {
+    "tdb": [
+      "tdb/MnPd-15Pov.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Pr": {
+    "tdb": [
+      "tdb/MnPr-09Wan.tdb",
+      "tdb/MnPr-24Ye.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-S": {
+    "tdb": [
+      "tdb/MnS-00Oht.tdb",
+      "tdb/MnS-15Dil.tdb",
+      "tdb/MnS-98Mie.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Sb": {
+    "tdb": [
+      "tdb/MnSb-14Uem.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Sc": {
+    "tdb": [
+      "tdb/MnSc-98Pis-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Si": {
+    "tdb": [
+      "tdb/MnSi-14Ber.tdb",
+      "tdb/MnSi-15Zhe.tdb",
+      "tdb/MnSi-18Lon.tdb",
+      "tdb/MnSi-91Tib-LB.tdb",
+      "tdb/MnSi-95Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Sm": {
+    "tdb": [
+      "tdb/MnSm-09Wan.tdb",
+      "tdb/MnSm-24Ye.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Sn": {
+    "tdb": [
+      "tdb/MnSn-01Mie.tdb",
+      "tdb/MnSn-04Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Sr": {
+    "tdb": [
+      "tdb/MnSr-11Pen.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Ta": {
+    "tdb": [
+      "tdb/MnTa-14Wan.tdb",
+      "tdb/MnTa-21Yan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Tb": {
+    "tdb": [
+      "tdb/MnTb-24Ye.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Te": {
+    "tdb": [
+      "tdb/MnTe-96Mam.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Ti": {
+    "tdb": [
+      "tdb/MnTi-09Che.tdb",
+      "tdb/MnTi-16Kha.tdb",
+      "tdb/MnTi-22Zhe.tdb",
+      "tdb/MnTi-23Wal-3g.tdb",
+      "tdb/MnTi-98Sau-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Tm": {
+    "tdb": [
+      "tdb/MnTm-24Ye.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-U": {
+    "tdb": [
+      "tdb/MnU-08Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-V": {
+    "tdb": [
+      "tdb/MnV-91Hua-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-W": {
+    "tdb": [
+      "tdb/MnW-08Fra.tdb",
+      "tdb/MnW-18Els.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Y": {
+    "tdb": [
+      "tdb/MnY-01Gro-LB.tdb",
+      "tdb/MnY-24Ye.tdb",
+      "tdb/MnY-97Fla.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Zn": {
+    "tdb": [
+      "tdb/MnZn-04Mie.tdb",
+      "tdb/MnZn-20Li.tdb",
+      "tdb/MnZn-21Li.tdb",
+      "tdb/MnZn-22Li.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mn-Zr": {
+    "tdb": [
+      "tdb/MnZr-20Kup.tdb",
+      "tdb/MnZr-21Si.tdb",
+      "tdb/MnZr-97Fla-LB.tdb",
+      "tdb/MnZr-98Hac.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-N": {
+    "tdb": [
+      "tdb/MoN-23Dac.tdb",
+      "tdb/MoN-91Fri-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-Nb": {
+    "tdb": [
+      "tdb/MoNb-04Xio.tdb",
+      "tdb/MoNb-20Yen.tdb",
+      "tdb/MoNb-22Zha.tdb",
+      "tdb/MoNb-80Che-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-Ni": {
+    "tdb": [
+      "tdb/MoNi-01Mor.tdb",
+      "tdb/MoNi-05Zho.tdb",
+      "tdb/MoNi-18Yaq.tdb",
+      "tdb/MoNi-90Fri.tdb",
+      "tdb/MoNi-99Cui-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-O": {
+    "tdb": [
+      "tdb/MoO-14Zha.tdb",
+      "tdb/MoO-18Cor.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-P": {
+    "tdb": [
+      "tdb/MoP-15Mie.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-Pd": {
+    "tdb": [
+      "tdb/MoPd-00Gho.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-Pt": {
+    "tdb": [
+      "tdb/MoPt-24Fio.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-Re": {
+    "tdb": [
+      "tdb/MoRe-08Mao-oldsigma.tdb",
+      "tdb/MoRe-09Far.tdb",
+      "tdb/MoRe-10Yan.tdb",
+      "tdb/MoRe-13Mat-edited.tdb",
+      "tdb/MoRe-13Mat-orig.tdb",
+      "tdb/MoRe-20Yen.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-Ru": {
+    "tdb": [
+      "tdb/MoRu-00Oh-oldsigma.tdb",
+      "tdb/MoRu-00Oh.tdb",
+      "tdb/MoRu-21Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-S": {
+    "tdb": [
+      "tdb/MoS-18Cui.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-Sc": {
+    "tdb": [
+      "tdb/MoSc-15Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/MoSc-15Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Mo-Si": {
+    "tdb": [
+      "tdb/MoSi-00Liu.tdb",
+      "tdb/MoSi-03Che-LB.tdb",
+      "tdb/MoSi-10Gen.tdb",
+      "tdb/MoSi-12Guo.tdb",
+      "tdb/MoSi-24Cze.tdb",
+      "tdb/MoSi-89Vah.tdb",
+      "tdb/MoSi-97Cos.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-Ta": {
+    "tdb": [
+      "tdb/MoTa-04Xio.tdb",
+      "tdb/MoTa-05Tur.tdb",
+      "tdb/MoTa-20Raj.tdb",
+      "tdb/MoTa-22Zha.tdb",
+      "tdb/MoTa-91Kau-LB.tdb",
+      "tdb/MoTa-99Cui.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-Th": {
+    "tdb": [
+      "tdb/MoTh-08Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-Ti": {
+    "tdb": [
+      "tdb/MoTi-16Yan.tdb",
+      "tdb/MoTi-18Hu.tdb",
+      "tdb/MoTi-20Jia.tdb",
+      "tdb/MoTi-23Dac.tdb",
+      "tdb/MoTi-93Jin.tdb",
+      "tdb/MoTi-96Shi.tdb",
+      "tdb/MoTi-98Sau-LB.tdb",
+      "tdb/MoTi-99Chu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-U": {
+    "tdb": [
+      "tdb/MoU-10Zha.tdb",
+      "tdb/MoU-11Ber.tdb",
+      "tdb/MoU-18Cor.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-V": {
+    "tdb": [
+      "tdb/MoV-02Bra-LB.tdb",
+      "tdb/MoV-21Yan.tdb",
+      "tdb/MoV-99Zhe.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-W": {
+    "tdb": [
+      "tdb/MoW-22Zha.tdb",
+      "tdb/MoW-88Gus-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Mo-Y": {
+    "tdb": [
+      "tdb/MoY-10Cha.tdb"
+    ],
+    "pdf": [
+      "pdf/MoY-10Cha.pdf"
+    ],
+    "diagram": []
+  },
+  "Mo-Zr": {
+    "tdb": [
+      "tdb/MoZr-02Zin.tdb",
+      "tdb/MoZr-03Jer-LB.tdb",
+      "tdb/MoZr-20Jia.tdb",
+      "tdb/MoZr-20Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "N-Nb": {
+    "tdb": [
+      "tdb/NbN-09Hal.tdb",
+      "tdb/NbN-13Khv.tdb",
+      "tdb/NbN-96Hua-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "N-Ni": {
+    "tdb": [
+      "tdb/NiN-91Fer-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "N-O": {
+    "tdb": [
+      "tdb/NO-97SUB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "N-Si": {
+    "tdb": [
+      "tdb/SiN-03Ma-LB.tdb",
+      "tdb/SiN-18Sri.tdb",
+      "tdb/SiN-92Hil.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "N-Ta": {
+    "tdb": [
+      "tdb/TaN-98Fri-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "N-Ti": {
+    "tdb": [
+      "tdb/TiN-08And-A.tdb",
+      "tdb/TiN-08And-B.tdb",
+      "tdb/TiN-90Oht.tdb",
+      "tdb/TiN-91Vah.tdb",
+      "tdb/TiN-96Jon-LB.tdb",
+      "tdb/TiN-96Zen.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "N-U": {
+    "tdb": [
+      "tdb/UN-00Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "N-V": {
+    "tdb": [
+      "tdb/VN-91Oht-LB.tdb",
+      "tdb/VN-97Du.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "N-W": {
+    "tdb": [
+      "tdb/WN-93Fer-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "N-Zr": {
+    "tdb": [
+      "tdb/ZrN-04Ma.tdb",
+      "tdb/ZrN-17Sri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Na-O": {
+    "tdb": [
+      "tdb/NaO-17Smi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Na-Rb": {
+    "tdb": [
+      "tdb/NaRb-11Ren.tdb",
+      "tdb/NaRb-85Pot-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Na-Sb": {
+    "tdb": [
+      "tdb/NaSb-13Liu.tdb",
+      "tdb/NaSb-17Dre.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Na-Si": {
+    "tdb": [
+      "tdb/NaSi-12Hao.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Na-Sn": {
+    "tdb": [
+      "tdb/NaSn-17Dre.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Na-Sr": {
+    "tdb": [
+      "tdb/NaSr-12Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Na-Te": {
+    "tdb": [
+      "tdb/NaTe-14Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Na-Ti": {
+    "tdb": [
+      "tdb/NaTi-08Qiu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Na-V": {
+    "tdb": [
+      "tdb/NaV-15Hu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Na-Zn": {
+    "tdb": [
+      "tdb/NaZn-09Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Na-Zr": {
+    "tdb": [
+      "tdb/NaZr-15Hu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nb-Ni": {
+    "tdb": [
+      "tdb/NbNi-04Jou.tdb",
+      "tdb/NbNi-05Mat.tdb",
+      "tdb/NbNi-06Che-orig.tdb",
+      "tdb/NbNi-06Che.tdb",
+      "tdb/NbNi-20Zho.tdb",
+      "tdb/NbNi-23Sun.tdb",
+      "tdb/NbNi-96Bol-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nb-O": {
+    "tdb": [
+      "tdb/NbO-07Jer.tdb",
+      "tdb/NbO-97Dup-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nb-P": {
+    "tdb": [
+      "tdb/NbP-09Tok.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nb-Re": {
+    "tdb": [
+      "tdb/NbRe-13Liu.tdb",
+      "tdb/NbRe-20Yen.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nb-Sb": {
+    "tdb": [
+      "tdb/NbSb-22Li.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nb-Si": {
+    "tdb": [
+      "tdb/NbSi-02Fer-alt.tdb",
+      "tdb/NbSi-02Fer.tdb",
+      "tdb/NbSi-03Yan.tdb",
+      "tdb/NbSi-04Sha.tdb",
+      "tdb/NbSi-06Dav.tdb",
+      "tdb/NbSi-09Gen.tdb",
+      "tdb/NbSi-10Gen.tdb",
+      "tdb/NbSi-13Li.tdb",
+      "tdb/NbSi-16Jac.tdb",
+      "tdb/NbSi-17Jac.tdb",
+      "tdb/NbSi-99Lia.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nb-Sn": {
+    "tdb": [
+      "tdb/NbSn-02Tof.tdb",
+      "tdb/NbSn-17Laf.tdb",
+      "tdb/NbSn-98Tof.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nb-Ta": {
+    "tdb": [
+      "tdb/NbTa-02Har.tdb",
+      "tdb/NbTa-04Xio-LB.tdb",
+      "tdb/NbTa-22Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nb-Ti": {
+    "tdb": [
+      "tdb/NbTi-01Zha-LB.tdb",
+      "tdb/NbTi-16Yan.tdb",
+      "tdb/NbTi-18Hu.tdb",
+      "tdb/NbTi-94Har.tdb",
+      "tdb/NbTi-98Sau.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nb-U": {
+    "tdb": [
+      "tdb/NbU-08Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nb-V": {
+    "tdb": [
+      "tdb/NbV-18Gao.tdb",
+      "tdb/NbV-94Har-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nb-W": {
+    "tdb": [
+      "tdb/NbW-22Zha.tdb",
+      "tdb/NbW-97Hua-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nb-Y": {
+    "tdb": [
+      "tdb/NbY-08Mat.tdb"
+    ],
+    "pdf": [
+      "pdf/NbY-08Mat.pdf"
+    ],
+    "diagram": []
+  },
+  "Nb-Zn": {
+    "tdb": [
+      "tdb/NbZn-16Lon.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nb-Zr": {
+    "tdb": [
+      "tdb/NbZr-19Laf.tdb",
+      "tdb/NbZr-91Fer-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nd-Ni": {
+    "tdb": [
+      "tdb/NdNi-05Hua.tdb",
+      "tdb/NdNi-15Luo.tdb",
+      "tdb/NdNi-23Ye.tdb",
+      "tdb/NdNi-96Du.tdb"
+    ],
+    "pdf": [
+      "pdf/NdNi-22Ye.pdf"
+    ],
+    "diagram": []
+  },
+  "Nd-O": {
+    "tdb": [
+      "tdb/NdO-07Zin.tdb",
+      "tdb/NdO-15Dot.tdb"
+    ],
+    "pdf": [
+      "pdf/NdO-15Dot.pdf"
+    ],
+    "diagram": []
+  },
+  "Nd-Pr": {
+    "tdb": [
+      "tdb/NdPr-82Gsc-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/NdPr-82Gsc-LB.pdf"
+    ],
+    "diagram": []
+  },
+  "Nd-Sb": {
+    "tdb": [
+      "tdb/NdSb-16Wan.tdb",
+      "tdb/NdSb-92Cac-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nd-Sc": {
+    "tdb": [
+      "tdb/NdSc-00Nor.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nd-Sn": {
+    "tdb": [
+      "tdb/NdSn-18Wan.tdb",
+      "tdb/NdSn-24He.tdb"
+    ],
+    "pdf": [
+      "pdf/NdSn-24He.pdf"
+    ],
+    "diagram": []
+  },
+  "Nd-Sr": {
+    "tdb": [
+      "tdb/NdSr-13Xu.tdb"
+    ],
+    "pdf": [
+      "pdf/NdSr-13Xu.pdf"
+    ],
+    "diagram": []
+  },
+  "Nd-Ti": {
+    "tdb": [
+      "tdb/NdTi-14Mat.tdb"
+    ],
+    "pdf": [
+      "pdf/NdTi-14Mat.pdf"
+    ],
+    "diagram": []
+  },
+  "Nd-U": {
+    "tdb": [
+      "tdb/NdU-15Dot.tdb"
+    ],
+    "pdf": [
+      "pdf/NdU-15Dot.pdf"
+    ],
+    "diagram": []
+  },
+  "Nd-W": {
+    "tdb": [
+      "tdb/NdW-00Kri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nd-Y": {
+    "tdb": [
+      "tdb/NdY-08Guo.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Nd-Zn": {
+    "tdb": [
+      "tdb/NdZn-08Li.tdb",
+      "tdb/NdZn-08Qi.tdb",
+      "tdb/NdZn-09Liu.tdb",
+      "tdb/NdZn-11Qi.tdb"
+    ],
+    "pdf": [
+      "pdf/NdZn-11Qi.pdf"
+    ],
+    "diagram": []
+  },
+  "Nd-Zr": {
+    "tdb": [
+      "tdb/NdZr-14Che.tdb",
+      "tdb/NdZr-14Mat.tdb"
+    ],
+    "pdf": [
+      "pdf/NdZr-14Mat.pdf"
+    ],
+    "diagram": []
+  },
+  "Ni-O": {
+    "tdb": [
+      "tdb/NiO-90Tay.tdb",
+      "tdb/NiO-95Kow.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Os": {
+    "tdb": [
+      "tdb/NiOs-15Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-P": {
+    "tdb": [
+      "tdb/NiP-15Mie.tdb",
+      "tdb/NiP-89NPL.tdb",
+      "tdb/NiP-99Shi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Pb": {
+    "tdb": [
+      "tdb/NiPb-00Wan-LB.tdb",
+      "tdb/NiPb-10Kai.tdb",
+      "tdb/NiPb-13Vaa.tdb",
+      "tdb/NiPb-99Gho.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Pd": {
+    "tdb": [
+      "tdb/NiPd-99Gho-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Pr": {
+    "tdb": [
+      "tdb/NiPr-05Hua.tdb",
+      "tdb/NiPr-15Rah.tdb"
+    ],
+    "pdf": [
+      "pdf/NiPr-15Rah.pdf"
+    ],
+    "diagram": []
+  },
+  "Ni-Pt": {
+    "tdb": [
+      "tdb/NiPt-09Lu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Re": {
+    "tdb": [
+      "tdb/NiRe-12Yaq.tdb",
+      "tdb/NiRe-24Per.tdb",
+      "tdb/NiRe-24Shi.tdb",
+      "tdb/NiRe-99Hua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Rh": {
+    "tdb": [
+      "tdb/NiRh-24Hal.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Ru": {
+    "tdb": [
+      "tdb/NiRu-01Che-LB.tdb",
+      "tdb/NiRu-04Hal.tdb",
+      "tdb/NiRu-08Hal.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Sb": {
+    "tdb": [
+      "tdb/NiSb-08Cao.tdb",
+      "tdb/NiSb-08Zha.tdb",
+      "tdb/NiSb-13Cao.tdb",
+      "tdb/NiSb-14Kro.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Sc": {
+    "tdb": [
+      "tdb/NiSc-13Kar.tdb",
+      "tdb/NiSc-14Cao.tdb",
+      "tdb/NiSc-15Zhu.tdb"
+    ],
+    "pdf": [
+      "pdf/NiSc-15Zhu.pdf"
+    ],
+    "diagram": []
+  },
+  "Ni-Se": {
+    "tdb": [
+      "tdb/NiSe-21Zob.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Si": {
+    "tdb": [
+      "tdb/NiSi-01Tok.tdb",
+      "tdb/NiSi-03Tok.tdb",
+      "tdb/NiSi-04Tok.tdb",
+      "tdb/NiSi-05Mie.tdb",
+      "tdb/NiSi-12Yua-condensed.tdb",
+      "tdb/NiSi-12Yua.tdb",
+      "tdb/NiSi-19Tan.tdb",
+      "tdb/NiSi-23Wit.tdb",
+      "tdb/NiSi-96Lin-LB.tdb",
+      "tdb/NiSi-99Du.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Sm": {
+    "tdb": [
+      "tdb/NiSm-16Rah.tdb",
+      "tdb/NiSm-98Su.tdb"
+    ],
+    "pdf": [
+      "pdf/NiSm-6Rah.pdf"
+    ],
+    "diagram": []
+  },
+  "Ni-Sn": {
+    "tdb": [
+      "tdb/NiSn-03Mie.tdb",
+      "tdb/NiSn-04Liu.tdb",
+      "tdb/NiSn-05Liu.tdb",
+      "tdb/NiSn-12Zem.tdb",
+      "tdb/NiSn-13Don.tdb",
+      "tdb/NiSn-13Liu-fractional.tdb",
+      "tdb/NiSn-13Liu.tdb",
+      "tdb/NiSn-16Ber.tdb",
+      "tdb/NiSn-21Zha.tdb",
+      "tdb/NiSn-22Lia.tdb",
+      "tdb/NiSn-99Gho.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Sr": {
+    "tdb": [
+      "tdb/NiSr-11Pen.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Ta": {
+    "tdb": [
+      "tdb/NiTa-09Zho.tdb",
+      "tdb/NiTa-18Cac.tdb",
+      "tdb/NiTa-18Zho.tdb",
+      "tdb/NiTa-19Zho.tdb",
+      "tdb/NiTa-20Yan.tdb",
+      "tdb/NiTa-94Ans.tdb",
+      "tdb/NiTa-99Cui-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Tb": {
+    "tdb": [
+      "tdb/NiTb-04Ron.tdb",
+      "tdb/NiTb-23Ye.tdb",
+      "tdb/NiTb-24Rah.tdb"
+    ],
+    "pdf": [
+      "pdf/NiTb-23Ye.pdf"
+    ],
+    "diagram": []
+  },
+  "Ni-Te": {
+    "tdb": [
+      "tdb/NiTe-19Arv.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Th": {
+    "tdb": [
+      "tdb/NiTh-09Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Ti": {
+    "tdb": [
+      "tdb/NiTi-04Tok.tdb",
+      "tdb/NiTi-09Key.tdb",
+      "tdb/NiTi-13Pov.tdb",
+      "tdb/NiTi-14Hu.tdb",
+      "tdb/NiTi-15San.tdb",
+      "tdb/NiTi-16Ber.tdb",
+      "tdb/NiTi-18Hua.tdb",
+      "tdb/NiTi-21Jin.tdb",
+      "tdb/NiTi-22Sun.tdb",
+      "tdb/NiTi-92Sau.tdb",
+      "tdb/NiTi-95Oh.tdb",
+      "tdb/NiTi-96Bel-LB.tdb",
+      "tdb/NiTi-99Tan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-U": {
+    "tdb": [
+      "tdb/NiU-09Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-V": {
+    "tdb": [
+      "tdb/NiV-01Wat.tdb",
+      "tdb/NiV-10Kab.tdb",
+      "tdb/NiV-18Pan.tdb",
+      "tdb/NiV-19Noo-full.tdb",
+      "tdb/NiV-19Noo-simple.tdb",
+      "tdb/NiV-19Zou.tdb",
+      "tdb/NiV-98Kor-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-W": {
+    "tdb": [
+      "tdb/NiW-08Pop.tdb",
+      "tdb/NiW-17Iso.tdb",
+      "tdb/NiW-86Fer-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Y": {
+    "tdb": [
+      "tdb/NiY-05Du.tdb",
+      "tdb/NiY-15Hua.tdb",
+      "tdb/NiY-21Wan.tdb",
+      "tdb/NiY-96Du-LB.tdb",
+      "tdb/NiY-96Du-orig.tdb"
+    ],
+    "pdf": [
+      "pdf/NiY-21Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Ni-Yb": {
+    "tdb": [
+      "tdb/NiYb-16Kar.tdb",
+      "tdb/NiYb-17Hu.tdb"
+    ],
+    "pdf": [
+      "pdf/NiYb-17Hu.pdf"
+    ],
+    "diagram": []
+  },
+  "Ni-Zn": {
+    "tdb": [
+      "tdb/NiZn-02Su.tdb",
+      "tdb/NiZn-03Mie.tdb",
+      "tdb/NiZn-05Jia.tdb",
+      "tdb/NiZn-11Xio.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ni-Zr": {
+    "tdb": [
+      "tdb/NiZr-05Abe.tdb",
+      "tdb/NiZr-07Tok.tdb",
+      "tdb/NiZr-07Wan.tdb",
+      "tdb/NiZr-11Cac.tdb",
+      "tdb/NiZr-20Jan.tdb",
+      "tdb/NiZr-85Sau.tdb",
+      "tdb/NiZr-94Gho-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Np-O": {
+    "tdb": [
+      "tdb/NpO-16Smi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Np-Pu": {
+    "tdb": [
+      "tdb/NpPu-10Kur.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Np-U": {
+    "tdb": [
+      "tdb/NpU-10Kur.tdb",
+      "tdb/NpU-18Xie.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Np-Zr": {
+    "tdb": [
+      "tdb/NpZr-10Kur.tdb",
+      "tdb/NpZr-11Baj.tdb",
+      "tdb/NpZr-14Xio.tdb",
+      "tdb/NpZr-18Xie.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "O-Pb": {
+    "tdb": [
+      "tdb/PbO-98Ris-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "O-Pd": {
+    "tdb": [
+      "tdb/PdO-22Lau.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "O-Pr": {
+    "tdb": [
+      "tdb/PrO-16McM.tdb",
+      "tdb/PrO-23Nak.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "O-Pu": {
+    "tdb": [
+      "tdb/PuO-08Gue.tdb",
+      "tdb/PuO-11Gue.tdb",
+      "tdb/PuO-23Fou.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "O-Rh": {
+    "tdb": [
+      "tdb/RhO-18Gos.tdb",
+      "tdb/RhO-22Lau.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "O-Ru": {
+    "tdb": [
+      "tdb/RuO-18Gos.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "O-Sc": {
+    "tdb": [
+      "tdb/ScO-07Zin.tdb"
+    ],
+    "pdf": [
+      "pdf/ScO-07Zin.pdf"
+    ],
+    "diagram": []
+  },
+  "O-Si": {
+    "tdb": [
+      "tdb/SiO-04Sch.tdb",
+      "tdb/SiO-20Baj-3g.tdb",
+      "tdb/SiO-92Hal.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "O-Sm": {
+    "tdb": [
+      "tdb/SmO-07Zin.tdb"
+    ],
+    "pdf": [
+      "pdf/SmO-07Zin.pdf"
+    ],
+    "diagram": []
+  },
+  "O-Sn": {
+    "tdb": [
+      "tdb/SnO-97Ans-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "O-Sr": {
+    "tdb": [
+      "tdb/SrO-96Ris-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "O-Ta": {
+    "tdb": [
+      "tdb/TaO-22Geb.tdb",
+      "tdb/TaO-22Mei-ass.tdb",
+      "tdb/TaO-22Mei-ion.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "O-Tb": {
+    "tdb": [
+      "tdb/TbO-23Nak.tdb"
+    ],
+    "pdf": [
+      "pdf/TbO-23Nak.pdf"
+    ],
+    "diagram": []
+  },
+  "O-Th": {
+    "tdb": [
+      "tdb/ThO-03Kin.tdb",
+      "tdb/ThO-18Ber.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "O-Ti": {
+    "tdb": [
+      "tdb/TiO-07Can.tdb",
+      "tdb/TiO-15Ham.tdb",
+      "tdb/TiO-17Ila.tdb",
+      "tdb/TiO-17Yan.tdb",
+      "tdb/TiO-94Lee.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "O-Tm": {
+    "tdb": [
+      "tdb/TmO-07Zin.tdb"
+    ],
+    "pdf": [
+      "pdf/TmO-07Zin.pdf"
+    ],
+    "diagram": []
+  },
+  "O-U": {
+    "tdb": [
+      "tdb/UO-02Che.tdb",
+      "tdb/UO-02Gue.tdb",
+      "tdb/UO-04Che.tdb",
+      "tdb/UO-08Bar.tdb",
+      "tdb/UO-11Gue.tdb",
+      "tdb/UO-23Jia.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "O-V": {
+    "tdb": [
+      "tdb/VO-15Yan-ver1.tdb",
+      "tdb/VO-15Yan-ver2.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "O-Y": {
+    "tdb": [
+      "tdb/YO-04Che.tdb",
+      "tdb/YO-05Che.tdb",
+      "tdb/YO-07Dju.tdb",
+      "tdb/YO-19Xu.tdb",
+      "tdb/YO-96Gro.tdb",
+      "tdb/YO-98Swa-LB.tdb",
+      "tdb/YO-98Swa-orig.tdb"
+    ],
+    "pdf": [
+      "pdf/YO-19Xu.pdf"
+    ],
+    "diagram": []
+  },
+  "O-Yb": {
+    "tdb": [
+      "tdb/YbO-07Zin.tdb"
+    ],
+    "pdf": [
+      "pdf/YbO-07zin.pdf"
+    ],
+    "diagram": []
+  },
+  "O-Zr": {
+    "tdb": [
+      "tdb/ZrO-01Lia-LB.tdb",
+      "tdb/ZrO-02Arr.tdb",
+      "tdb/ZrO-04Che.tdb",
+      "tdb/ZrO-04Wan.tdb",
+      "tdb/ZrO-06Wan.tdb",
+      "tdb/ZrO-23Jia.tdb",
+      "tdb/ZrO-98Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Os-Pt": {
+    "tdb": [
+      "tdb/OsPt-21Jou.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Os-Si": {
+    "tdb": [
+      "tdb/OsSi-01Liu-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "P-Sb": {
+    "tdb": [
+      "tdb/SbP-94Ans-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "P-Si": {
+    "tdb": [
+      "tdb/SiP-04Din-LB.tdb",
+      "tdb/SiP-14Lia.tdb",
+      "tdb/SiP-21Don.tdb",
+      "tdb/SiP-24Fav.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "P-Sn": {
+    "tdb": [
+      "tdb/SnP-01Mie.tdb",
+      "tdb/SnP-11Hin.tdb",
+      "tdb/SnP-24Oik.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "P-Ti": {
+    "tdb": [
+      "tdb/TiP-06Oht.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "P-Zn": {
+    "tdb": [
+      "tdb/ZnP-09Tu.tdb",
+      "tdb/ZnP-16Liu.tdb",
+      "tdb/ZnP-19Gha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pb-Pd": {
+    "tdb": [
+      "tdb/PbPd-99Gho-LB.tdb",
+      "tdb/PbPd-99Gho-alt.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pb-Pt": {
+    "tdb": [
+      "tdb/PbPt-09Lon.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pb-Pu": {
+    "tdb": [
+      "tdb/PbPu-10Li.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pb-S": {
+    "tdb": [
+      "tdb/PbS-14Hua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pb-Sb": {
+    "tdb": [
+      "tdb/PbSb-09Has.tdb",
+      "tdb/PbSb-13Gie.tdb",
+      "tdb/PbSb-94Lee.tdb",
+      "tdb/PbSb-95Oht-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pb-Sc": {
+    "tdb": [
+      "tdb/PbSc-14Idd.tdb"
+    ],
+    "pdf": [
+      "pdf/PbSc-14ldd.pdf"
+    ],
+    "diagram": []
+  },
+  "Pb-Se": {
+    "tdb": [
+      "tdb/PbSe-12Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pb-Si": {
+    "tdb": [
+      "tdb/PbSi-84Ole-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pb-Sn": {
+    "tdb": [
+      "tdb/PbSn-17Gie.tdb",
+      "tdb/PbSn-22Khv-3g.tdb",
+      "tdb/PbSn-95Oht-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pb-Te": {
+    "tdb": [
+      "tdb/PbTe-09Gie.tdb",
+      "tdb/PbTe-09Liu.tdb",
+      "tdb/PbTe-10Gie.tdb",
+      "tdb/PbTe-15Baj.tdb",
+      "tdb/PbTe-86Kat.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pb-Tl": {
+    "tdb": [
+      "tdb/PbTl-01Fri-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pb-U": {
+    "tdb": [
+      "tdb/PbU-10Li.tdb",
+      "tdb/PbU-21Aga.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pb-Y": {
+    "tdb": [
+      "tdb/PbY-93Vas.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pb-Yb": {
+    "tdb": [
+      "tdb/PbYb-09Idb.tdb"
+    ],
+    "pdf": [
+      "pdf/PbYb-09ldb.pdf"
+    ],
+    "diagram": []
+  },
+  "Pb-Zn": {
+    "tdb": [
+      "tdb/PbZn-03Dav.tdb",
+      "tdb/PbZn-03Kim.tdb",
+      "tdb/PbZn-93Sri-LB.tdb",
+      "tdb/PbZn-98Jan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pb-Zr": {
+    "tdb": [
+      "tdb/PbZr-98Dix.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pd-Pt": {
+    "tdb": [
+      "tdb/PdPt-91Oka.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pd-Rh": {
+    "tdb": [
+      "tdb/PdRh-04Kor-LB.tdb",
+      "tdb/PdRh-16Gos.tdb",
+      "tdb/PdRh-22Lau.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pd-Ru": {
+    "tdb": [
+      "tdb/PdRu-16Gos.tdb",
+      "tdb/PdRu-98Spe-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pd-S": {
+    "tdb": [
+      "tdb/PdS-10Hu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pd-Sb": {
+    "tdb": [
+      "tdb/PdSb-10Han.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pd-Sc": {
+    "tdb": [
+      "tdb/PdSc-02Du.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pd-Se": {
+    "tdb": [
+      "tdb/PdSe-14Bor.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pd-Si": {
+    "tdb": [
+      "tdb/PdSi-05The.tdb",
+      "tdb/PdSi-06Du.tdb",
+      "tdb/PdSi-16Zho.tdb",
+      "tdb/PdSi-20Jia.tdb",
+      "tdb/PdSi-85Sau.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pd-Sm": {
+    "tdb": [
+      "tdb/PdSm-00Du-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pd-Sn": {
+    "tdb": [
+      "tdb/PdSn-06Viz.tdb",
+      "tdb/PdSn-20Cui.tdb",
+      "tdb/PdSn-99Gho-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pd-Tb": {
+    "tdb": [
+      "tdb/PdTb-00Du-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pd-Te": {
+    "tdb": [
+      "tdb/PdTe-11Gos.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pd-Ti": {
+    "tdb": [
+      "tdb/PdTi-11Guo.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pd-Y": {
+    "tdb": [
+      "tdb/PdY-00Du.tdb"
+    ],
+    "pdf": [
+      "pdf/PdY-00Du.pdf"
+    ],
+    "diagram": []
+  },
+  "Pd-Yb": {
+    "tdb": [
+      "tdb/PdYb-20Kar.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pd-Zn": {
+    "tdb": [
+      "tdb/PdZn-06Viz.tdb",
+      "tdb/PdZn-22Gon.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pd-Zr": {
+    "tdb": [
+      "tdb/PdZr-03Du.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pr-Sb": {
+    "tdb": [
+      "tdb/PrSb-92Cac-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pr-Si": {
+    "tdb": [
+      "tdb/PrSi-20Xu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pr-W": {
+    "tdb": [
+      "tdb/PrW-00Kri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pr-Y": {
+    "tdb": [
+      "tdb/PrY-08Guo.tdb"
+    ],
+    "pdf": [
+      "pdf/PrY-08Guo.pdf"
+    ],
+    "diagram": []
+  },
+  "Pr-Zn": {
+    "tdb": [
+      "tdb/PrZn-08Hua.tdb",
+      "tdb/PrZn-08Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/PrZn-08Hua.pdf"
+    ],
+    "diagram": []
+  },
+  "Pt-Rh": {
+    "tdb": [
+      "tdb/PtRh-02Mam.tdb",
+      "tdb/PtRh-98Jac.tdb",
+      "tdb/PtRh-98Spe-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pt-Ru": {
+    "tdb": [
+      "tdb/PtRu-06Wat.tdb",
+      "tdb/PtRu-98Spe-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pt-Sb": {
+    "tdb": [
+      "tdb/PtSb-14Guo.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pt-Si": {
+    "tdb": [
+      "tdb/PtSi-08Xu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pt-Sn": {
+    "tdb": [
+      "tdb/PtSn-01Su.tdb",
+      "tdb/PtSn-08Gro.tdb",
+      "tdb/PtSn-21Cui.tdb",
+      "tdb/PtSn-22Hu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pt-Ta": {
+    "tdb": [
+      "tdb/PtTa-98Spe.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pt-Te": {
+    "tdb": [
+      "tdb/PtTe-15Guo.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pt-Ti": {
+    "tdb": [
+      "tdb/PtTi-08Li.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pt-V": {
+    "tdb": [
+      "tdb/PtV-08Wan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pt-Zr": {
+    "tdb": [
+      "tdb/PtZr-10Gao.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pu-Th": {
+    "tdb": [
+      "tdb/PuTh-14Ben.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pu-U": {
+    "tdb": [
+      "tdb/PuU-10Kur.tdb",
+      "tdb/PuU-15Per.tdb",
+      "tdb/PuU-23Fou.tdb",
+      "tdb/PuU-99Kur.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pu-Zn": {
+    "tdb": [
+      "tdb/PuZn-14Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Pu-Zr": {
+    "tdb": [
+      "tdb/PuZr-10Kur.tdb",
+      "tdb/PuZr-99Kur.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Re-Ru": {
+    "tdb": [
+      "tdb/ReRu-21Wan.tdb",
+      "tdb/ReRu-21Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Re-Si": {
+    "tdb": [
+      "tdb/ReSi-01Sha.tdb",
+      "tdb/ReSi-10Yan.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Re-Ta": {
+    "tdb": [
+      "tdb/ReTa-00Liu-LB.tdb",
+      "tdb/ReTa-18Guo.tdb",
+      "tdb/ReTa-99Cui.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Re-Ti": {
+    "tdb": [
+      "tdb/ReTi-12Zac.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Re-U": {
+    "tdb": [
+      "tdb/ReU-11Ber.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Re-W": {
+    "tdb": [
+      "tdb/ReW-00Liu-LB.tdb",
+      "tdb/ReW-02Fri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Re-Y": {
+    "tdb": [
+      "tdb/ReY-10Zac.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Re-Zr": {
+    "tdb": [
+      "tdb/ReZr-13Liu.tdb",
+      "tdb/ReZr-23Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Rh-Ru": {
+    "tdb": [
+      "tdb/RhRu-16Gos.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Rh-Ti": {
+    "tdb": [
+      "tdb/RhTi-22Hu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Rh-Zr": {
+    "tdb": [
+      "tdb/RhZr-04Du.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ru-Sc": {
+    "tdb": [
+      "tdb/RuSc-07Du.tdb"
+    ],
+    "pdf": [
+      "pdf/RuSc-07Du.pdf"
+    ],
+    "diagram": []
+  },
+  "Ru-Si": {
+    "tdb": [
+      "tdb/RuSi-01Du-LB.tdb",
+      "tdb/RuSi-01Liu.tdb",
+      "tdb/RuSi-09Lon.tdb",
+      "tdb/RuSi-95Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ru-Sm": {
+    "tdb": [
+      "tdb/RuSm-23Kar.tdb"
+    ],
+    "pdf": [
+      "pdf/RuSm-23Kar.pdf"
+    ],
+    "diagram": []
+  },
+  "Ru-Sn": {
+    "tdb": [
+      "tdb/RuSn-12Lon.tdb",
+      "tdb/RuSn-99Cha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ru-Ti": {
+    "tdb": [
+      "tdb/RuTi-09Gao.tdb",
+      "tdb/RuTi-21Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ru-U": {
+    "tdb": [
+      "tdb/RuU-11Ber.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ru-W": {
+    "tdb": [
+      "tdb/RuW-21Zha.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ru-Y": {
+    "tdb": [
+      "tdb/RuY-11Ait.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ru-Zr": {
+    "tdb": [
+      "tdb/RuZr-05Che-LB.tdb",
+      "tdb/RuZr-07Idb.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "S-Sb": {
+    "tdb": [
+      "tdb/SbS-21Cui.tdb",
+      "tdb/SbS-21Shi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "S-Se": {
+    "tdb": [
+      "tdb/SSe-17Gua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "S-Sn": {
+    "tdb": [
+      "tdb/SnS-16Lin.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "S-Ti": {
+    "tdb": [
+      "tdb/TiS-17Hir.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "S-Zn": {
+    "tdb": [
+      "tdb/ZnS-17Gua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sb-Se": {
+    "tdb": [
+      "tdb/SbSe-21Gie.tdb",
+      "tdb/SbSe-23Liu.tdb",
+      "tdb/SbSe-89Gho.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sb-Si": {
+    "tdb": [
+      "tdb/SbSi-11Wan.tdb",
+      "tdb/SbSi-85Ole-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sb-Sm": {
+    "tdb": [
+      "tdb/SbSm-14Liu.tdb",
+      "tdb/SbSm-96Cac.tdb"
+    ],
+    "pdf": [
+      "pdf/SbSm-14Liu.pdf"
+    ],
+    "diagram": []
+  },
+  "Sb-Sn": {
+    "tdb": [
+      "tdb/SbSn-07Kro.tdb",
+      "tdb/SbSn-08Che.tdb",
+      "tdb/SbSn-19Lys.tdb",
+      "tdb/SbSn-20Gie.tdb",
+      "tdb/SbSn-21Zha.tdb",
+      "tdb/SbSn-86Jon.tdb",
+      "tdb/SbSn-96Oh-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sb-Tb": {
+    "tdb": [
+      "tdb/SbTb-12Gao.tdb"
+    ],
+    "pdf": [
+      "pdf/SbTb-12Gao.pdf"
+    ],
+    "diagram": []
+  },
+  "Sb-Te": {
+    "tdb": [
+      "tdb/SbTe-14Guo.tdb",
+      "tdb/SbTe-18Pet.tdb",
+      "tdb/SbTe-89Gho.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sb-Tm": {
+    "tdb": [
+      "tdb/SbTm-11Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/SbTm-11Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Sb-Y": {
+    "tdb": [
+      "tdb/SbY-09Zha.tdb"
+    ],
+    "pdf": [
+      "pdf/SbY-09Zha.pdf"
+    ],
+    "diagram": []
+  },
+  "Sb-Yb": {
+    "tdb": [
+      "tdb/SbYb-12Liu.tdb",
+      "tdb/SbYb-23Paz.tdb"
+    ],
+    "pdf": [
+      "pdf/SbYb-23Paz.pdf"
+    ],
+    "diagram": []
+  },
+  "Sb-Zn": {
+    "tdb": [
+      "tdb/SbZn-00Liu-LB.tdb",
+      "tdb/SbZn-07Li.tdb",
+      "tdb/SbZn-09Liu.tdb",
+      "tdb/SbZn-18Wan.tdb",
+      "tdb/SbZn-22Zha.tdb",
+      "tdb/SbZn-23Zha.tdb",
+      "tdb/SbZn-97Zab.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sc-Si": {
+    "tdb": [
+      "tdb/ScSi-08GTT.tdb",
+      "tdb/ScSi-15Qin.tdb"
+    ],
+    "pdf": [
+      "pdf/ScSi-14Qin.pdf"
+    ],
+    "diagram": []
+  },
+  "Sc-Sn": {
+    "tdb": [
+      "tdb/ScSn-13Idd.tdb"
+    ],
+    "pdf": [
+      "pdf/ScSn-Obi.pdf"
+    ],
+    "diagram": []
+  },
+  "Sc-Sr": {
+    "tdb": [
+      "tdb/ScSr-12Che.tdb"
+    ],
+    "pdf": [
+      "pdf/ScSr-12Che.pdf"
+    ],
+    "diagram": []
+  },
+  "Sc-Th": {
+    "tdb": [
+      "tdb/ScTh-09Liu.tdb"
+    ],
+    "pdf": [
+      "pdf/ScTh-09Liu.pdf"
+    ],
+    "diagram": []
+  },
+  "Sc-V": {
+    "tdb": [
+      "tdb/ScV-08GTT.tdb",
+      "tdb/ScV-15Hu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sc-W": {
+    "tdb": [
+      "tdb/ScW-00Kri.tdb",
+      "tdb/ScW-15Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/ScW-15Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Sc-Y": {
+    "tdb": [
+      "tdb/ScY-00Nor.tdb",
+      "tdb/ScY-09Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/ScY-09Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Sc-Zn": {
+    "tdb": [
+      "tdb/ScZn-12Tan.tdb"
+    ],
+    "pdf": [
+      "pdf/ScZn-12Tan.pdf"
+    ],
+    "diagram": []
+  },
+  "Sc-Zr": {
+    "tdb": [
+      "tdb/ScZr-08GTT.tdb",
+      "tdb/ScZr-15Hu.tdb",
+      "tdb/ScZr-15Wan.tdb",
+      "tdb/ScZr-17Bo.tdb"
+    ],
+    "pdf": [
+      "pdf/ScZr-17Bo.pdf"
+    ],
+    "diagram": []
+  },
+  "Se-Sn": {
+    "tdb": [
+      "tdb/SnSe-96Feu-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Se-Te": {
+    "tdb": [
+      "tdb/SeTe-12Gie.tdb",
+      "tdb/SeTe-21Fik.tdb",
+      "tdb/SeTe-88Gho-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Se-Tl": {
+    "tdb": [
+      "tdb/TlSe-00Roe-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Se-Zn": {
+    "tdb": [
+      "tdb/ZnSe-14Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Si-Sn": {
+    "tdb": [
+      "tdb/SiSn-07Men.tdb",
+      "tdb/SiSn-12Lon.tdb",
+      "tdb/SiSn-12Sun.tdb",
+      "tdb/SiSn-96Jac-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Si-Sr": {
+    "tdb": [
+      "tdb/SiSr-09Gar-ass.tdb",
+      "tdb/SiSr-09Gar-sub.tdb",
+      "tdb/SiSr-11Li-ass.tdb",
+      "tdb/SiSr-11Li-sub.tdb",
+      "tdb/SiSr-20Yi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Si-Ta": {
+    "tdb": [
+      "tdb/SiTa-03Che-LB.tdb",
+      "tdb/SiTa-09Guo.tdb",
+      "tdb/SiTa-13Dro.tdb",
+      "tdb/SiTa-89Vah.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Si-Te": {
+    "tdb": [
+      "tdb/SiTe-20Yua.tdb",
+      "tdb/SiTe-99Feu-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Si-Ti": {
+    "tdb": [
+      "tdb/SiTi-04Tok.tdb",
+      "tdb/SiTi-16Li.tdb",
+      "tdb/SiTi-89Vah.tdb",
+      "tdb/SiTi-96Sei-LB.tdb",
+      "tdb/SiTi-96Sei-alt.tdb",
+      "tdb/SiTi-98Sei.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Si-Tl": {
+    "tdb": [
+      "tdb/SiTl-17Mos.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Si-U": {
+    "tdb": [
+      "tdb/SiU-04Che-LB.tdb",
+      "tdb/SiU-09Ber.tdb",
+      "tdb/SiU-98AEA.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Si-V": {
+    "tdb": [
+      "tdb/SiV-08Zha.tdb",
+      "tdb/SiV-13Bro.tdb",
+      "tdb/SiV-18Luo.tdb",
+      "tdb/SiV-98Ran-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Si-W": {
+    "tdb": [
+      "tdb/SiW-03Che-LB.tdb",
+      "tdb/SiW-09Guo.tdb",
+      "tdb/SiW-13Li.tdb",
+      "tdb/SiW-89Vah.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Si-Y": {
+    "tdb": [
+      "tdb/SiY-04Luk-LB.tdb",
+      "tdb/SiY-19Xu.tdb",
+      "tdb/SiY-19Zha.tdb",
+      "tdb/SiY-98Luk.tdb"
+    ],
+    "pdf": [
+      "pdf/SiY-19Zha.pdf"
+    ],
+    "diagram": []
+  },
+  "Si-Yb": {
+    "tdb": [
+      "tdb/SiYb-05Bru.tdb"
+    ],
+    "pdf": [
+      "pdf/SiYb-05Bru.pdf"
+    ],
+    "diagram": []
+  },
+  "Si-Zn": {
+    "tdb": [
+      "tdb/SiZn-24Zob-3g.tdb",
+      "tdb/SiZn-86Mey.tdb",
+      "tdb/SiZn-96Jac-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Si-Zr": {
+    "tdb": [
+      "tdb/SiZr-09Che.tdb",
+      "tdb/SiZr-94Gue-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sm-Sn": {
+    "tdb": [
+      "tdb/SmSn-14Liu.tdb"
+    ],
+    "pdf": [
+      "pdf/SmSn-14Liu.pdf"
+    ],
+    "diagram": []
+  },
+  "Sm-Ti": {
+    "tdb": [
+      "tdb/SmTi-21Sae.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sm-W": {
+    "tdb": [
+      "tdb/SmW-00Kri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sm-Zn": {
+    "tdb": [
+      "tdb/SmZn-09Jia.tdb",
+      "tdb/SmZn-09Liu.tdb"
+    ],
+    "pdf": [
+      "pdf/SmZn-09Jia.pdf"
+    ],
+    "diagram": []
+  },
+  "Sn-Sr": {
+    "tdb": [
+      "tdb/SnSr-12Zha.tdb",
+      "tdb/SnSr-14Zho.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sn-Ta": {
+    "tdb": [
+      "tdb/SnTa-17Mar.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sn-Tb": {
+    "tdb": [
+      "tdb/SnTb-18Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/SnTb-18Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Sn-Te": {
+    "tdb": [
+      "tdb/SnTe-10Liu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sn-Ti": {
+    "tdb": [
+      "tdb/SnTi-05Liu.tdb",
+      "tdb/SnTi-07Yin.tdb",
+      "tdb/SnTi-11Wan.tdb",
+      "tdb/SnTi-19Tan.tdb",
+      "tdb/SnTi-98Hay-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sn-U": {
+    "tdb": [
+      "tdb/SnU-21Wan.tdb",
+      "tdb/SnU-87She.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sn-V": {
+    "tdb": [
+      "tdb/SnV-02Stu-LB.tdb",
+      "tdb/SnV-08Che.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sn-Y": {
+    "tdb": [
+      "tdb/SnY-12Tan.tdb",
+      "tdb/SnY-14Lu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sn-Yb": {
+    "tdb": [
+      "tdb/SnYb-11Idb.tdb",
+      "tdb/SnYb-17Kal.tdb"
+    ],
+    "pdf": [
+      "pdf/SnYb-17Kal.pdf"
+    ],
+    "diagram": []
+  },
+  "Sn-Zn": {
+    "tdb": [
+      "tdb/SnZn-93Sri.tdb",
+      "tdb/SnZn-96Lee.tdb",
+      "tdb/SnZn-98Fri-LB.tdb",
+      "tdb/SnZn-99Oht.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sn-Zr": {
+    "tdb": [
+      "tdb/SnZr-08Jer.tdb",
+      "tdb/SnZr-19Laf.tdb",
+      "tdb/SnZr-24Pen.tdb",
+      "tdb/SnZr-98Kor.tdb",
+      "tdb/SnZr-98Sub-LB.tdb",
+      "tdb/SnZr-98Sub-orig.tdb",
+      "tdb/SnZr-99Dup.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sr-Te": {
+    "tdb": [
+      "tdb/SrTe-22Yu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sr-Ti": {
+    "tdb": [
+      "tdb/SrTi-11Pen.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sr-V": {
+    "tdb": [
+      "tdb/SrV-11Pen.tdb",
+      "tdb/SrV-88Smi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sr-Yb": {
+    "tdb": [
+      "tdb/SrYb-07Shi.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Sr-Zn": {
+    "tdb": [
+      "tdb/SrZn-03Zho.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ta-Ti": {
+    "tdb": [
+      "tdb/TaTi-98Sau-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ta-V": {
+    "tdb": [
+      "tdb/TaV-04Dan-LB.tdb",
+      "tdb/TaV-04Dan-final.tdb",
+      "tdb/TaV-11Pav-3sl.tdb",
+      "tdb/TaV-11Pav.tdb",
+      "tdb/TaV-13Bro.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ta-W": {
+    "tdb": [
+      "tdb/TaW-01Kau-LB.tdb",
+      "tdb/TaW-14Guo.tdb",
+      "tdb/TaW-22Zha.tdb",
+      "tdb/TaW-95Fer.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ta-Zr": {
+    "tdb": [
+      "tdb/TaZr-95Fer-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Tb-W": {
+    "tdb": [
+      "tdb/TbW-00Kri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Tb-Zn": {
+    "tdb": [
+      "tdb/TbZn-19Fre.tdb"
+    ],
+    "pdf": [
+      "pdf/TbZn-19Fre.pdf"
+    ],
+    "diagram": []
+  },
+  "Te-Tl": {
+    "tdb": [
+      "tdb/TlTe-10Gie.tdb",
+      "tdb/TlTe-93Oh.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Te-Yb": {
+    "tdb": [
+      "tdb/YbTe-15Gha.tdb",
+      "tdb/YbTe-15Wan.tdb"
+    ],
+    "pdf": [
+      "pdf/YbTe-15Wan.pdf"
+    ],
+    "diagram": []
+  },
+  "Te-Zn": {
+    "tdb": [
+      "tdb/ZnTe-97Feu-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Te-Zr": {
+    "tdb": [
+      "tdb/ZrTe-21Don.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Th-U": {
+    "tdb": [
+      "tdb/ThU-09Li.tdb",
+      "tdb/ThU-14Ben.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Th-Zn": {
+    "tdb": [
+      "tdb/ThZn-10Li.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Th-Zr": {
+    "tdb": [
+      "tdb/ThZr-09Li.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ti-Tm": {
+    "tdb": [
+      "tdb/TiTm-18Yao.tdb"
+    ],
+    "pdf": [
+      "pdf/TiTm-18Yao.pdf"
+    ],
+    "diagram": []
+  },
+  "Ti-U": {
+    "tdb": [
+      "tdb/TiU-11Ber.tdb",
+      "tdb/TiU-12Cao.tdb",
+      "tdb/TiU-21Mo.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ti-V": {
+    "tdb": [
+      "tdb/TiV-02Gho-LB.tdb",
+      "tdb/TiV-16Yan.tdb",
+      "tdb/TiV-18Hu.tdb",
+      "tdb/TiV-20Hu-3g.tdb",
+      "tdb/TiV-90Sau.tdb",
+      "tdb/TiV-98Sau.tdb",
+      "tdb/TiV-99Lee.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ti-W": {
+    "tdb": [
+      "tdb/TiW-93Jin.tdb",
+      "tdb/TiW-93Jon.tdb",
+      "tdb/TiW-96Jon-LB.tdb",
+      "tdb/TiW-98Sau.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ti-Y": {
+    "tdb": [
+      "tdb/TiY-18Yao.tdb"
+    ],
+    "pdf": [
+      "pdf/Ti-Y-18Yao.pdf"
+    ],
+    "diagram": []
+  },
+  "Ti-Zn": {
+    "tdb": [
+      "tdb/TiZn-06Doi.tdb",
+      "tdb/TiZn-13Luo.tdb",
+      "tdb/TiZn-19Lia.tdb",
+      "tdb/TiZn-22Den.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Ti-Zr": {
+    "tdb": [
+      "tdb/TiZr-08Tur.tdb",
+      "tdb/TiZr-16Cui.tdb",
+      "tdb/TiZr-17Sri.tdb",
+      "tdb/TiZr-20Jia.tdb",
+      "tdb/TiZr-94Har-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Tl-Zn": {
+    "tdb": [
+      "tdb/TlZn-03Kim.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Tm-W": {
+    "tdb": [
+      "tdb/TmW-00Kri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "U-V": {
+    "tdb": [
+      "tdb/UV-11Ber.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "U-W": {
+    "tdb": [
+      "tdb/UW-08Wan.tdb",
+      "tdb/UW-11Ber.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "U-Zr": {
+    "tdb": [
+      "tdb/UZr-04Che-LB.tdb",
+      "tdb/UZr-10Kur.tdb",
+      "tdb/UZr-13Xio.tdb",
+      "tdb/UZr-18Qua.tdb",
+      "tdb/UZr-18Xie.tdb",
+      "tdb/UZr-25Wil.tdb",
+      "tdb/UZr-98AEA.tdb",
+      "tdb/UZr-98Che.tdb",
+      "tdb/UZr-98Kur.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "V-W": {
+    "tdb": [
+      "tdb/VW-05Bra-LB.tdb",
+      "tdb/VW-05Hua.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "V-Y": {
+    "tdb": [
+      "tdb/VY-10Cha.tdb"
+    ],
+    "pdf": [
+      "pdf/VY-10Cha.pdf"
+    ],
+    "diagram": []
+  },
+  "V-Zn": {
+    "tdb": [
+      "tdb/VZn-10Cha.tdb",
+      "tdb/VZn-11Wu.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "V-Zr": {
+    "tdb": [
+      "tdb/VZr-05Ser.tdb",
+      "tdb/VZr-12Zha.tdb",
+      "tdb/VZr-16Cui-1.tdb",
+      "tdb/VZr-16Cui-2.tdb",
+      "tdb/VZr-98Kor-LB.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "W-Y": {
+    "tdb": [
+      "tdb/WY-00Kri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "W-Yb": {
+    "tdb": [
+      "tdb/WYb-00Kri.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "W-Zr": {
+    "tdb": [
+      "tdb/WZr-05Che-LB.tdb",
+      "tdb/WZr-14Guo.tdb",
+      "tdb/WZr-15Zho.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  },
+  "Y-Zn": {
+    "tdb": [
+      "tdb/YZn-06Sha.tdb",
+      "tdb/YZn-08Liu.tdb"
+    ],
+    "pdf": [
+      "pdf/YZn-08Liu.pdf"
+    ],
+    "diagram": []
+  },
+  "Y-Zr": {
+    "tdb": [
+      "tdb/YZr-09He.tdb",
+      "tdb/YZr-10Bu.tdb",
+      "tdb/YZr-97Fla-LB.tdb"
+    ],
+    "pdf": [
+      "pdf/YZr-10Bu.pdf"
+    ],
+    "diagram": []
+  },
+  "Zn-Zr": {
+    "tdb": [
+      "tdb/ZnZr-06Arr-first.tdb",
+      "tdb/ZnZr-06Arr-second.tdb"
+    ],
+    "pdf": [],
+    "diagram": []
+  }
+}
